@@ -1,6 +1,6 @@
   <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
-<h3 align="center">Hi there, I'm Jonah - aka eyl327 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">Hi there, I'm Jonah - aka <a href="http://eyl327.mywebcommunity.org/portfolio/">eyl327</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
