@@ -21,11 +21,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
-[<img align="left" alt="Youtube" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt="LinkedIn" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
-[<img align="left" alt="Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="Gifts" src="https://img.icons8.com/doodle/48/000000/gift.png"/>][promos]
+[<img align="left" alt="Portfolio" width="30px" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
+[<img align="left" alt="Youtube" width="30px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Gifts" width="30px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>][promos]
 
 <br /><br/><br/>
 
@@ -33,22 +33,22 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][#]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][#]
-[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][#]
-[<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][#]
-[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][#]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][#]
-[<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />][#]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]
-[<img align="left" alt="Sheets" width="26px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />][#]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][#]
-[<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />][#]
+[<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
+[<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
+[<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]
+[<img align="left" alt="PHP" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][#]
+[<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][#]
+[<img align="left" alt="C++" width="25px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][#]
+[<img align="left" alt="C#" width="25px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][#]
+[<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][#]
+[<img align="left" alt="Kotlin" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][#]
+[<img align="left" alt="Flutter" width="25px" src="https://img.icons8.com/color/48/000000/flutter.png" />][#]
+[<img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]
+[<img align="left" alt="Sheets" width="25px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />][#]
+[<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
+[<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
+[<img align="left" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][#]
+[<img align="left" alt="Heroku" width="25px" src="https://img.icons8.com/color/48/000000/heroku.png" />][#]
 
 <br />
 <br />
