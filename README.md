@@ -32,9 +32,6 @@
   <a href="http://eyl327.mywebcommunity.org/promos/">
     <img align="left" alt="Gifts" width="38px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>
   </a>
-  <a href="https://stackexchange.com/users/16082556/eyl327">
-    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-  </a>
 </p>
 
 <p align="left">
