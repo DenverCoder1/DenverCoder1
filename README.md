@@ -8,8 +8,6 @@
   <a href="https://github.com/eyl327"><img alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/></a>
 </p>
 
-<br/><br/>
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
