@@ -6,6 +6,8 @@
 [<img align="left" alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
 [<img align="left" alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/>][github]
 
+<br/>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
