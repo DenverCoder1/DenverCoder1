@@ -1,15 +1,9 @@
 ### Hi there, I'm Jonah 👋
 
-<div>
-  <a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />
-  </a>
-  <a href="https://github.com/eyl327/countdown">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />
-  </a>
-</div>
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][https://github.com/eyl327/LaTeX-Gboard-Dictionary]
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][https://github.com/eyl327/countdown]
 
-<br/><br/>
+<br />
 
 <!--
 - 🔭 I’m currently working on ...
