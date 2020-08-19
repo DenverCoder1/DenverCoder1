@@ -89,7 +89,7 @@
 
 </details>
 
-<img align="left" src="https://i.imgur.com/P15gSHD.png" height="370px"/>
+<img align="left" src="https://i.imgur.com/rpatV4L.png" height="370px"/>
 
 <!-- <details>
   <summary>✨ Credits</summary>
