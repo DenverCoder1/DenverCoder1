@@ -21,13 +21,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="30px" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
-[<img align="left" alt="Youtube" width="30px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
-[<img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="Gifts" width="30px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>][promos]
+[<img align="left" alt="Portfolio" width="38px" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
+[<img align="left" alt="Youtube" width="38px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
+[<img align="left" alt="LinkedIn" width="38px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="Facebook" width="38px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Gifts" width="38px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>][promos]
 
-<br /><br/><br/>
+<br /><br/>
 
 [<img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">][stackexchange]
 
