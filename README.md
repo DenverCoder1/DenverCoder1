@@ -1,5 +1,12 @@
 ### Hi there, I'm Jonah 👋
 
+<a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />
+</a>
+<a href="https://github.com/eyl327/countdown">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />
+</a>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,7 +41,6 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][#]
 [<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][#]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
 
