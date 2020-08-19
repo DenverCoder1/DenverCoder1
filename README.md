@@ -22,10 +22,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][stackexchange]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" src="https://img.icons8.com/doodle/48/000000/america.png"/>][website]
+[<img align="left" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
+[<img align="left" alt="LinkedIn" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+
+<br /><br/><br/>
+
+[<img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">][stackexchange]
 
 <br />
 
