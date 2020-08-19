@@ -1,13 +1,12 @@
 ### Hi there, I'm Jonah 👋
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][repo1]
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][repo2]
+<details>
+  <summary>:zap: Popular repositories</summary>
 
-<br />
-<br />
-<br />
-<br />
-<br />
+  [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][repo1]
+  [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][repo2]
+
+</details>
 
 <!--
 - 🔭 I’m currently working on ...
