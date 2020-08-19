@@ -63,7 +63,7 @@
 - [How to enable the hidden dark mode feature in Chrome](https://www.youtube.com/watch?v=dYcZVHAMU-8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
+▶ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
 
 ---
 
