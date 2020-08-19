@@ -91,7 +91,7 @@
 
 [repo1]: https://github.com/eyl327/LaTeX-Gboard-Dictionary
 [repo2]: https://github.com/eyl327/countdown
-[website]: https://github.com/eyl327/ 
+[portfolio]: http://eyl327.mywebcommunity.org/portfolio
 [stackexchange]: https://stackexchange.com/users/16082556/eyl327
 [youtube]: https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg
 [linkedin]: https://www.linkedin.com/in/jonah-lawrence/
