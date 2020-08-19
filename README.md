@@ -43,8 +43,6 @@
   <img alt="Heroku" width="25px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 </p>
 
-<br/>
-
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
