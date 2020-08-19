@@ -7,6 +7,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />
 </a>
 
+---
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
