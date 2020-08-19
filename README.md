@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonah 👋
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][https://github.com/eyl327/LaTeX-Gboard-Dictionary]
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][https://github.com/eyl327/countdown]
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][repo1]
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][repo2]
 
 <br />
 
@@ -81,6 +81,8 @@
 
 </details>
 
+[repo1]: https://github.com/eyl327/LaTeX-Gboard-Dictionary
+[repo2]: https://github.com/eyl327/countdown
 [website]: https://github.com/eyl327/ 
 [stackexchange]: https://stackexchange.com/users/16082556/eyl327
 [youtube]: https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg
