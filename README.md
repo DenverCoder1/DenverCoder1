@@ -1,10 +1,6 @@
+<img align="right" src="https://i.imgur.com/P15gSHD.png" height="370px"/>
+
 ### Hi there, I'm Jonah - aka eyl327 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br/>
-
-[<img align="left" alt="youtube subscribers" src="https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
-[<img align="left" alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
-[<img align="left" alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/>][github]
 
 <br/>
 
@@ -30,6 +26,12 @@
 <br /><br/>
 
 [<img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">][stackexchange]
+
+[<img align="left" alt="youtube subscribers" src="https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
+[<img align="left" alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
+[<img align="left" alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/>][github]
+
+<br/>
 
 ### Languages and Tools:
 
