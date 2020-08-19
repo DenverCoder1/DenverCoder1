@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
   </a>
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&logo=youtube&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
   </a>
   <a href="https://github.com/eyl327">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/eyl327?style=social"/>
