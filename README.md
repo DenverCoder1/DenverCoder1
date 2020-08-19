@@ -1,6 +1,6 @@
-<img align="right" src="https://i.imgur.com/rpatV4L.png" height="260px"/>
-
 ### Hi there, I'm Jonah - aka eyl327 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" src="https://i.imgur.com/rpatV4L.png" height="260px"/>
 
 [<img align="left" alt="youtube subscribers" src="https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
 [<img align="left" alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
