@@ -46,6 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
+- [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
+- [How to show steps for FREE in Wolfram|Alpha (online)](https://www.youtube.com/watch?v=5RrK01cI_V0)
+- [How to add dark mode to your website with no CSS](https://www.youtube.com/watch?v=ix7-G4x5tv4)
+- [How to enable the hidden dark mode feature in Chrome](https://www.youtube.com/watch?v=dYcZVHAMU-8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
