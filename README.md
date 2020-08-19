@@ -3,22 +3,39 @@
 <h3 align="center">Hi there, I'm Jonah - aka eyl327 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube subscribers" src="https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a>
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a>
-  <a href="https://github.com/eyl327"><img alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/></a>
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <img alt="youtube subscribers" src="https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <img alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
+  </a>
+  <a href="https://github.com/eyl327">
+    <img alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/>
+  </a>
 </p>
 
 ## Connect with me:
 
-[<img align="left" alt="Portfolio" width="38px" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
-[<img align="left" alt="Youtube" width="38px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt="LinkedIn" width="38px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
-[<img align="left" alt="Facebook" width="38px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="Gifts" width="38px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>][promos]
-
-<br /><br/>
-
-[<img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">][stackexchange]
+<p align="left">
+  <a href="http://eyl327.mywebcommunity.org/portfolio">
+    <img align="left" alt="Portfolio" width="38px" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <img align="left" alt="Youtube" width="38px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/">
+    <img align="left" alt="LinkedIn" width="38px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+  </a>
+  <a href="https://www.facebook.com/jonah.eliyahu">
+    <img align="left" alt="Facebook" width="38px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
+  </a>
+  <a href="http://eyl327.mywebcommunity.org/promos/">
+    <img align="left" alt="Gifts" width="38px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>
+  </a>
+  <a href="https://stackexchange.com/users/16082556/eyl327">
+    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+  </a>
+</p>
 
 ## Languages and Tools:
 
@@ -46,6 +63,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
 - [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
 - [How to show steps for FREE in Wolfram|Alpha (online)](https://www.youtube.com/watch?v=5RrK01cI_V0)
@@ -83,13 +101,3 @@
   * [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
   * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 </details> -->
-
-[repo1]: https://github.com/eyl327/LaTeX-Gboard-Dictionary
-[repo2]: https://github.com/eyl327/countdown
-[portfolio]: http://eyl327.mywebcommunity.org/portfolio
-[stackexchange]: https://stackexchange.com/users/16082556/eyl327
-[youtube]: https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg
-[linkedin]: https://www.linkedin.com/in/jonah-lawrence/
-[facebook]: https://www.facebook.com/jonah.eliyahu
-[promos]: http://eyl327.mywebcommunity.org/promos/
-[github]: https://github.com/eyl327
