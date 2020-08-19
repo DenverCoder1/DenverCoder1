@@ -1,12 +1,12 @@
 ### Hi there, I'm Jonah 👋
 
-<details>
+<!-- <details>
   <summary>:zap: Popular repositories</summary>
 
   [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][repo1]
   [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][repo2]
 
-</details>
+</details> -->
 
 <!--
 - 🔭 I’m currently working on ...
@@ -21,9 +21,11 @@
 
 ### Connect with me:
 
-[<img align="left" src="https://img.icons8.com/doodle/48/000000/america.png"/>][website]
-[<img align="left" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
+[<img align="left" alt="Portfolio" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
+[<img align="left" alt="Youtube" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
 [<img align="left" alt="LinkedIn" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Gifts" src="https://img.icons8.com/doodle/48/000000/gift.png"/>][promos]
 
 <br /><br/><br/>
 
@@ -93,4 +95,6 @@
 [stackexchange]: https://stackexchange.com/users/16082556/eyl327
 [youtube]: https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg
 [linkedin]: https://www.linkedin.com/in/jonah-lawrence/
+[facebook]: https://www.facebook.com/jonah.eliyahu
+[promos]: http://eyl327.mywebcommunity.org/promos/
 [#]: #
