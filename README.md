@@ -68,7 +68,6 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
 - [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
 - [How to show steps for FREE in Wolfram|Alpha (online)](https://www.youtube.com/watch?v=5RrK01cI_V0)
