@@ -19,7 +19,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Portfolio" width="38px" src="https://img.icons8.com/doodle/48/000000/test-account.png"/>][portfolio]
 [<img align="left" alt="Youtube" width="38px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>][youtube]
@@ -31,7 +31,7 @@
 
 [<img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">][stackexchange]
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -55,9 +55,7 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
