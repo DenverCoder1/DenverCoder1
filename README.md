@@ -1,11 +1,13 @@
 ### Hi there, I'm Jonah 👋
 
-<a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />
-</a>
-<a href="https://github.com/eyl327/countdown">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />
-</a>
+<div>
+  <a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />
+  </a>
+  <a href="https://github.com/eyl327/countdown">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />
+  </a>
+</div>
 
 <br/><br/>
 
