@@ -89,13 +89,12 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary>✨ Credits</summary>
-
   * Icons from [icons8.com](https://icons8.com)
   * [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
   * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-</details>
+</details> -->
 
 [repo1]: https://github.com/eyl327/LaTeX-Gboard-Dictionary
 [repo2]: https://github.com/eyl327/countdown
