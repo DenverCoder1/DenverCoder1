@@ -1,12 +1,10 @@
 ### Hi there, I'm Jonah - aka eyl327 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- <details>
-  <summary>:zap: Popular repositories</summary>
+[<img align="left" alt="youtube subscribers" src="https://img.shields.io/badge/dynamic/json?color=blue&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
+[<img align="left" alt="youtube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>][youtube]
+[<img align="left" alt="followers" src="https://img.shields.io/github/followers/eyl327?style=social"/>][github]
 
-  [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=LaTeX-Gboard-Dictionary" />][repo1]
-  [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyl327&repo=countdown" />][repo2]
-
-</details> -->
+<br/>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -33,24 +31,24 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
-[<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
-[<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]
-[<img align="left" alt="PHP" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][#]
-[<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][#]
-[<img align="left" alt="C++" width="25px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][#]
-[<img align="left" alt="C#" width="25px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][#]
-[<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][#]
-[<img align="left" alt="Kotlin" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][#]
-[<img align="left" alt="Flutter" width="25px" src="https://img.icons8.com/color/48/000000/flutter.png" />][#]
-[<img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]
-[<img align="left" alt="Sheets" width="25px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />][#]
-[<img align="left" alt="Markdown" width="25px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" />][#]
-[<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
-[<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
-[<img align="left" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][#]
-[<img align="left" alt="Android Studio" width="25px" src="https://i.imgur.com/6nJGNMN.png" />][#]
-[<img align="left" alt="Heroku" width="25px" src="https://img.icons8.com/color/48/000000/heroku.png" />][#]
+<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="PHP" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="25px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="C#" width="25px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="Kotlin" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Flutter" width="25px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Sheets" width="25px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />
+<img align="left" alt="Markdown" width="25px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" />
+<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Android Studio" width="25px" src="https://i.imgur.com/6nJGNMN.png" />
+<img align="left" alt="Heroku" width="25px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 
 <br />
 <br />
@@ -106,4 +104,4 @@
 [linkedin]: https://www.linkedin.com/in/jonah-lawrence/
 [facebook]: https://www.facebook.com/jonah.eliyahu
 [promos]: http://eyl327.mywebcommunity.org/promos/
-[#]: #
+[github]: https://github.com/eyl327
