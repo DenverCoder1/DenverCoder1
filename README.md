@@ -46,6 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
+- [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
+- [How to show steps for FREE in Wolfram|Alpha (online)](https://www.youtube.com/watch?v=5RrK01cI_V0)
+- [How to add dark mode to your website with no CSS](https://www.youtube.com/watch?v=ix7-G4x5tv4)
+- [How to enable the hidden dark mode feature in Chrome](https://www.youtube.com/watch?v=dYcZVHAMU-8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
@@ -56,6 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#138](https://github.com//microsoft/calculator/issues/138) in [microsoft/calculator](https://github.com//microsoft/calculator)
+2. ❗️ Closed issue [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
+3. 🗣 Commented on [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
+4. 🗣 Commented on [#3](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/3) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
+5. 🗣 Commented on [#3](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/3) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 </details>
