@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, I'm Jonah - aka <a href="http://eyl327.mywebcommunity.org/portfolio/">eyl327</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
   </a>
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
