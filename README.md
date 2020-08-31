@@ -68,11 +68,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to code Tic-Tac-Toe in JavaScript - Tutorial](https://www.youtube.com/watch?v=TjKLbj9Ssqo)
 - [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
 - [How to take screenshots on Windows 10 (3 Ways)](https://www.youtube.com/watch?v=gb73psswaK0)
 - [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
 - [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
-- [How to show steps for FREE in Wolfram|Alpha (online)](https://www.youtube.com/watch?v=5RrK01cI_V0)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
