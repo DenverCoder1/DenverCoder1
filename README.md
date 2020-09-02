@@ -77,25 +77,17 @@
 
 ▶ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
 
-## My activity
+## 💻 Recent Github Activity
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#138](https://github.com//microsoft/calculator/issues/138) in [microsoft/calculator](https://github.com//microsoft/calculator)
 2. ❗️ Closed issue [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
 3. 🗣 Commented on [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
-</details>
+## 📈 Github Stats
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="eyl327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyl327&show_icons=true&hide_border=true&hide=prs&count_private=true" />
-
-</details>
+<img align="left" alt="eyl327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyl327&show_icons=true&hide_border=true&hide=prs&count_private=true" />
 
 <!-- <details>
   <summary>✨ Credits</summary>
