@@ -12,7 +12,7 @@
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
-* 🎨 I'm a website and app UI designer
+* 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
 * 🎓 I'm studying for a bachelor's degree in Computer Science
 * 🌐 You can see my some of my projects on [my portfolio](http://eyl327.mywebcommunity.org/portfolio)
