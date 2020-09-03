@@ -42,7 +42,7 @@
   </a>
 </p>
 
-## Top projects
+## My top open source projects
 
 <table>
   <thead align="center">
