@@ -107,11 +107,9 @@
 
 ## 📈 Github Stats
 
-<img alt="eyl327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyl327&show_icons=true&hide_border=true&hide=prs&count_private=true" />
+<img alt="eyl327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyl327&show_icons=true&hide=prs&count_private=true" />
 
-<hr/>
-
-<h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated</h3>
+<h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated!</h3>
 
 <!-- <details>
   <summary>✨ Credits</summary>
