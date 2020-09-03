@@ -11,21 +11,11 @@
 ## Connect with me:
 
 <p align="left">
-  <a href="http://eyl327.mywebcommunity.org/portfolio">
-    <img align="left" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
-    <img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jonah-lawrence/">
-    <img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/jonah.eliyahu">
-    <img align="left" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="http://eyl327.mywebcommunity.org/promos/">
-    <img align="left" alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free stuff-d4af37?style=for-the-badge&logo=ipfs&logoColor=white"/>
-  </a>
+  <a href="http://eyl327.mywebcommunity.org/portfolio"><img align="left" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/jonah.eliyahu"><img align="left" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img align="left" alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free stuff-d4af37?style=for-the-badge&logo=ipfs&logoColor=white"/></a>
 </p>
 
 <br/><br/>
