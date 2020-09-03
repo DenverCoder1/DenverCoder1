@@ -14,7 +14,7 @@
 * 💻 I'm a full stack web developer
 * 🎨 I'm a website and app UI designer
 * 📱 I make apps for Android and iOS
-* 🎓 Studying for a bachelor's degree in Computer Science
+* 🎓 I'm Studying for a bachelor's degree in Computer Science
 * 🌐 You can see my some of my projects on [my portfolio](http://eyl327.mywebcommunity.org/portfolio)
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
 
