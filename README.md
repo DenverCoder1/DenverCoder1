@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hi there, I'm Jonah - aka <a href="http://eyl327.mywebcommunity.org/portfolio/">eyl327</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">Hey there, I'm Jonah - aka <a href="http://eyl327.mywebcommunity.org/portfolio/">eyl327</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
@@ -41,6 +41,35 @@
     <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eyl327 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
   </a>
 </p>
+
+## Top projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+		  <td><a href="https://github.com/eyl327/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+		<tr>
+			<td><a href="https://github.com/eyl327/anagram-solver"><b>Anagram Solver</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/anagram-solver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/anagram-solver?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Languages and Tools:
 
