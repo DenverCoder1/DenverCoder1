@@ -38,17 +38,17 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-		  <td><a href="https://github.com/eyl327/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
+    <tr>
+      <td><a href="https://github.com/eyl327/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
     </tr>
-		<tr>
-			<td><a href="https://github.com/eyl327/anagram-solver"><b>Anagram Solver</b></a></td>
+    <tr>
+      <td><a href="https://github.com/eyl327/anagram-solver"><b>Anagram Solver</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/anagram-solver?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/anagram-solver?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -88,7 +88,7 @@
 - [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
 <!-- YOUTUBE:END -->
 
-[<img src="https://img.shields.io/badge/-more%20videos...-red?style=for-the-badge&logo=youtube"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
+[<img src="https://img.shields.io/badge/-more%20videos...-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
 
 ## 💻 Recent Github Activity
 
@@ -104,7 +104,7 @@
 
 <!-- <details>
   <summary>✨ Credits</summary>
-  * Icons from [icons8.com](https://icons8.com)
   * [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
   * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+  * [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter)
 </details> -->
