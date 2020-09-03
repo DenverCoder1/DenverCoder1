@@ -97,11 +97,6 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to code Tic-Tac-Toe in JavaScript - Tutorial](https://www.youtube.com/watch?v=TjKLbj9Ssqo)
-- [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
-- [How to take screenshots on Windows 10 (3 Ways)](https://www.youtube.com/watch?v=gb73psswaK0)
-- [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
-- [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
@@ -109,9 +104,6 @@
 ## 💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com//microsoft/calculator/issues/138) in [microsoft/calculator](https://github.com//microsoft/calculator)
-2. ❗️ Closed issue [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
-3. 🗣 Commented on [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 ## 📈 Github Stats
