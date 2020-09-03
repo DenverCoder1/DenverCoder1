@@ -9,7 +9,15 @@
   <a href="https://github.com/eyl327"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=eyl327&style=flat-square&color=7C007C"/></a>
 </p>
 
-## Connect with me:
+## 📖 About me
+
+* 💻 I'm a full stack web developer
+* 🎨 I'm a website and app UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 Studying for a bachelor's degree in Computer Science
+* 🌐 You can see my some of my projects on [my portfolio](http://eyl327.mywebcommunity.org/portfolio)
+
+## 🙋‍♂️ Connect with me:
 
 <p align="left">
   <a href="http://eyl327.mywebcommunity.org/portfolio"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -26,12 +34,12 @@
   </a>
 </p>
 
-## My top open source projects
+## 📘 My top open source projects
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Projects</b></td>
+      <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
     </tr>
@@ -55,28 +63,26 @@
   </tbody>
 </table>
 
-## Languages and Tools:
+## 👨‍💻 Languages and Tools:
 
-<p align="left">
-  <img alt="JavaScript" title="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="HTML5" title="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img alt="CSS3" title="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="PHP" title="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="C++" title="C++" width="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-  <img alt="C#" title="C#" width="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-  <img alt="Java" title="Java" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img alt="Kotlin" title="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-  <img alt="Flutter" title="Flutter" width="28px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-  <img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img alt="Sheets" title="Sheets" width="28px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />
-  <img alt="Markdown" title="Markdown" width="28px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" />
-  <img alt="GitHub" title="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img alt="Terminal" title="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img  alt="Visual title="Visual Studio Code" width="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-  <img  alt="Android title="Android Studio" width="28px" src="https://i.imgur.com/6nJGNMN.png" />
-  <img alt="Heroku" title="Heroku" width="28px" src="https://img.icons8.com/color/48/000000/heroku.png" />
-</p>
+<a href="#"><img alt="JavaScript" title="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="#"><img alt="HTML5" title="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="#"><img alt="CSS3" title="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="#"><img alt="PHP" title="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+<a href="#"><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+<a href="#"><img alt="C++" title="C++" width="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
+<a href="#"><img alt="C#" title="C#" width="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a>
+<a href="#"><img alt="Java" title="Java" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a>
+<a href="#"><img alt="Kotlin" title="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+<a href="#"><img alt="Flutter" title="Flutter" width="28px" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
+<a href="#"><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+<a href="#"><img alt="Sheets" title="Sheets" width="28px" src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a>
+<a href="#"><img alt="Markdown" title="Markdown" width="28px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" /></a>
+<a href="#"><img alt="GitHub" title="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
+<a href="#"><img alt="Terminal" title="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+<a href="#"><img alt="Visual Studio" title="Visual Studio Code" width="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+<a href="#"><img alt="Android Studio" title="Android Studio" width="28px" src="https://i.imgur.com/6nJGNMN.png" /></a>
+<a href="#"><img alt="Heroku" title="Heroku" width="28px" src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
 
 ## 📺 Latest YouTube Videos
 
