@@ -3,34 +3,28 @@
 <h3 align="center">Hey there, I'm Jonah - aka <a href="http://eyl327.mywebcommunity.org/portfolio/">eyl327</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&logo=youtube&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/>
-  </a>
-  <a href="https://github.com/eyl327">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/eyl327?style=social"/>
-  </a>
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&logo=youtube&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
+  <a href="https://github.com/eyl327"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/eyl327?style=social"/></a>
 </p>
 
 ## Connect with me:
 
 <p align="left">
   <a href="http://eyl327.mywebcommunity.org/portfolio">
-    <img align="left" alt="Portfolio" title="Portfolio" width="38px" src="https://img.icons8.com/doodle/48/000000/globe--v1.png"/>
+    <img align="left" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
-    <img align="left" alt="Youtube" title="Youtube" width="38px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png"/>
+    <img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jonah-lawrence/">
-    <img align="left" alt="LinkedIn" title="LinkedIn" width="38px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+    <img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/jonah.eliyahu">
-    <img align="left" alt="Facebook" title="Facebook" width="38px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
+    <img align="left" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="http://eyl327.mywebcommunity.org/promos/">
-    <img align="left" alt="Gifts" title="Gifts for you" width="38px" src="https://img.icons8.com/doodle/48/000000/gift.png"/>
+    <img align="left" alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free stuff-d4af37?style=for-the-badge&logo=ipfs&logoColor=white"/>
   </a>
 </p>
 
