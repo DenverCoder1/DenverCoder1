@@ -18,15 +18,19 @@
 * 🌐 You can see my some of my projects on [my portfolio](http://eyl327.mywebcommunity.org/portfolio)
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
 
+<p align="left">
+  <a href="http://eyl327.mywebcommunity.org/portfolio"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
+    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free%20stuff-d4af37?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+</p>
+
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="http://eyl327.mywebcommunity.org/portfolio"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.patreon.com/jonahlawrence"><img alt="Patreon" title="Patreon" src="https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free%20stuff-d4af37?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+    <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
 <p align="left">
