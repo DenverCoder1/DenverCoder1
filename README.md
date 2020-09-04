@@ -17,10 +17,11 @@
 * 🎓 I'm studying for a bachelor's degree in Computer Science
 * 🌐 You can see my some of my projects on [my portfolio](http://eyl327.mywebcommunity.org/portfolio)
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
+* 🦁 I use [Brave Browser](https://brave.com/eyl243) for ad-free and tracker-free browsing
 
 <p align="left">
   <a href="http://eyl327.mywebcommunity.org/portfolio"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free%20stuff-d4af37?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Free%20promos-d4af37?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me:
@@ -29,8 +30,8 @@
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://www.patreon.com/jonahlawrence"><img alt="Patreon" title="Patreon" src="https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-    <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
 <p align="left">
@@ -70,24 +71,25 @@
 
 ## 👨‍💻 Languages and Tools:
 
-<a href="#"><img alt="JavaScript" title="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="#"><img alt="HTML5" title="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="#"><img alt="CSS3" title="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="#"><img alt="PHP" title="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-<a href="#"><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-<a href="#"><img alt="C++" title="C++" width="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
-<a href="#"><img alt="C#" title="C#" width="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a>
-<a href="#"><img alt="Java" title="Java" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a>
-<a href="#"><img alt="Kotlin" title="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-<a href="#"><img alt="Flutter" title="Flutter" width="28px" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
-<a href="#"><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-<a href="#"><img alt="Sheets" title="Sheets" width="28px" src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a>
-<a href="#"><img alt="Markdown" title="Markdown" width="28px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" /></a>
-<a href="#"><img alt="GitHub" title="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
-<a href="#"><img alt="Terminal" title="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-<a href="#"><img alt="Visual Studio" title="Visual Studio Code" width="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
-<a href="#"><img alt="Android Studio" title="Android Studio" width="28px" src="https://i.imgur.com/6nJGNMN.png" /></a>
-<a href="#"><img alt="Heroku" title="Heroku" width="28px" src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
+<a href="#"><img alt="JavaScript" title="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="#"><img alt="HTML5" title="HTML5" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="#"><img alt="CSS3" title="CSS3" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="#"><img alt="PHP" title="PHP" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+<a href="#"><img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+<a href="#"><img alt="C++" title="C++" height="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
+<a href="#"><img alt="C#" title="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a>
+<a href="#"><img alt="Java" title="Java" height="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a>
+<a href="#"><img alt="Kotlin" title="Kotlin" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+<a href="#"><img alt="Flutter" title="Flutter" height="28px" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
+<a href="#"><img alt="SQL" title="SQL" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+<a href="#"><img alt="Sheets" title="Sheets" height="28px" src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a>
+<a href="#"><img alt="Markdown" title="Markdown" height="28px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" /></a>
+<a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
+<a href="#"><img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+<a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+<a href="#"><img alt="Android Studio" title="Android Studio" height="28px" src="https://i.imgur.com/6nJGNMN.png" /></a>
+<a href="#"><img alt="Heroku" title="Heroku" height="28px" src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
+<a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px" src="https://i.imgur.com/UfBWFbP.png" /></a>
 
 ## 📺 Latest YouTube Videos
 
