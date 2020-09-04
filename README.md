@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&logo=youtube&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
-  <a href="https://github.com/eyl327"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/eyl327?style=social"/></a>
-  <a href="https://github.com/eyl327"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=eyl327&style=flat-square&color=7C007C"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?style=social"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=DenverCoder1&style=flat-square&color=7C007C"/></a>
 </p>
 
 ## 📖 About me
@@ -47,19 +47,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/eyl327/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/eyl327/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/eyl327/anagram-solver"><b>Anagram Solver</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/eyl327/anagram-solver?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/eyl327/anagram-solver?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/anagram-solver"><b>Anagram Solver</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/anagram-solver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/anagram-solver?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -101,13 +101,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#138](https://github.com//microsoft/calculator/issues/138) in [microsoft/calculator](https://github.com//microsoft/calculator)
-2. ❗️ Closed issue [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
-3. 🗣 Commented on [#4](https://github.com//eyl327/LaTeX-Gboard-Dictionary/issues/4) in [eyl327/LaTeX-Gboard-Dictionary](https://github.com//eyl327/LaTeX-Gboard-Dictionary)
+2. ❗️ Closed issue [#4](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary/issues/4) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🗣 Commented on [#4](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary/issues/4) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 ## 📈 Github Stats
 
-<img alt="eyl327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyl327&show_icons=true&hide=prs&count_private=true" />
+<img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&hide=prs&count_private=true" />
 
 <h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated!</h3>
 
