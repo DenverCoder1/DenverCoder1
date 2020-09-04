@@ -97,14 +97,6 @@
 
 [<img src="https://img.shields.io/badge/-more%20videos...-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg)
 
-## 💻 Recent Github Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com//microsoft/calculator/issues/138) in [microsoft/calculator](https://github.com//microsoft/calculator)
-2. ❗️ Closed issue [#4](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary/issues/4) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 🗣 Commented on [#4](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary/issues/4) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com//DenverCoder1/LaTeX-Gboard-Dictionary)
-<!--END_SECTION:activity-->
-
 ## 📈 Github Stats
 
 <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&hide=prs&count_private=true" />
