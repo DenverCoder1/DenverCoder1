@@ -94,7 +94,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [RegEx Essentials - What you NEED to know (Part 1)](https://www.youtube.com/watch?v=6JoRBsHwsPY)
+- [RegEx Essentials - What you need to know (Part 1)](https://www.youtube.com/watch?v=6JoRBsHwsPY)
 - [How to code Tic-Tac-Toe in JavaScript - Tutorial](https://www.youtube.com/watch?v=TjKLbj9Ssqo)
 - [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
 - [How to take screenshots on Windows 10 (3 Ways)](https://www.youtube.com/watch?v=gb73psswaK0)
