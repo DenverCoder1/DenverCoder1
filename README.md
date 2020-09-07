@@ -94,11 +94,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RegEx Essentials - What you NEED to know (Part 1)](https://www.youtube.com/watch?v=6JoRBsHwsPY)
 - [How to code Tic-Tac-Toe in JavaScript - Tutorial](https://www.youtube.com/watch?v=TjKLbj9Ssqo)
 - [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
 - [How to take screenshots on Windows 10 (3 Ways)](https://www.youtube.com/watch?v=gb73psswaK0)
 - [Easily type math symbol shortcuts in Microsoft Word](https://www.youtube.com/watch?v=xtzmg7SMCX4)
-- [Speed Up YouTube Videos More than 2x (3x, 4x, ..16x!)](https://www.youtube.com/watch?v=h4ngCcWcXt4)
 <!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1)
