@@ -107,7 +107,7 @@
 
 <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&hide=prs&count_private=true" />
 
-<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=5&hide=c%23" />
+<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=6&hide=c%23" />
 
 <h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated!</h3>
 
