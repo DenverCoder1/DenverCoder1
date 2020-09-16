@@ -6,6 +6,7 @@
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&logo=youtube&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
   <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?style=social"/></a>
+   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=DenverCoder1&style=flat-square&color=7C007C"/></a>
 </p>
 
@@ -91,6 +92,7 @@
 <a href="#"><img alt="Heroku" title="Heroku" height="28px" src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
 <a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px" src="https://i.imgur.com/UfBWFbP.png" /></a>
 
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -105,15 +107,9 @@
 
 ## 📈 Github Stats
 
-<img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&hide=prs&count_private=true" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="#"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
 
-<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=6&hide=c%23" />
+<a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=6&hide=c%23" /></a>
 
 <h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated!</h3>
-
-<!-- <details>
-  <summary>✨ Credits</summary>
-  * [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-  * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-  * [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter)
-</details> -->
