@@ -3,8 +3,8 @@
 <h3 align="center">Hey there, I'm Jonah - aka <a href="https://freshidea.com/jonah/">DenverCoder1</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/dynamic/json?color=blue&logo=youtube&style=flat-square&label=YouTube%20subscribers&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&logo=youtube&style=flat-square&label=YouTube%20view%20count&query=%24.items%5B0%5D.statistics.viewCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUCipSxT7a3rn81vGLw9lqRkg%26alt%3Djson%26key%3DAIzaSyBvO94r1HjHbdoCy7dEm55MZ_gIsGWiU_U"/></a> 
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php"/></a> 
+  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?style=social"/></a>
    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=DenverCoder1&style=flat-square&color=7C007C"/></a>
