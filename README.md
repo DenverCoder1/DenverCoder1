@@ -112,7 +112,7 @@
 <p align="left">
   <a href="#"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
   &nbsp;
-  <a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact" /></a>
+  <a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
 </p>
 
 <h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated!</h3>
