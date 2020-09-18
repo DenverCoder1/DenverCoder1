@@ -109,8 +109,10 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="#"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
-
-<a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=6&hide=c%23" /></a>
+<p align="left">
+  <a href="#"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  &nbsp;
+  <a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact&hide=hack" /></a>
+</p>
 
 <h3 align="center">⬇ Scroll down to see my repos! ⭐ Stars are appreciated!</h3>
