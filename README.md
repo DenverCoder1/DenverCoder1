@@ -97,11 +97,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Making a Userscript - Setup and JavaScript Tutorial](https://www.youtube.com/watch?v=UCTA9dbrVqc)
 - [Increase your online productivity with Userscripts](https://www.youtube.com/watch?v=NOjGAtRPR9E)
 - [Javascript Regular Expressions Tutorial in One Video](https://www.youtube.com/watch?v=8gJ5dGwgX8Y)
 - [Regex Essentials - Advanced Expressions (Part 2)](https://www.youtube.com/watch?v=GTUlkkNhvok)
 - [RegEx Essentials - What you need to know (Part 1)](https://www.youtube.com/watch?v=6JoRBsHwsPY)
-- [How to code Tic-Tac-Toe in JavaScript - Tutorial](https://www.youtube.com/watch?v=TjKLbj9Ssqo)
 <!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1)
