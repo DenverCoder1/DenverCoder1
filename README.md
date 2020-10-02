@@ -99,15 +99,15 @@
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><img width="140px" src="https://i.ytimg.com/vi/UCTA9dbrVqc/mqdefault.jpg"></td>
-<td><a href="https://www.youtube.com/watch?v=UCTA9dbrVqc">Making a Userscript - Setup and JavaScript Tutorial</a></td></tr>
+<td><a href="https://www.youtube.com/watch?v=UCTA9dbrVqc">Making a Userscript - Setup and JavaScript Tutorial</a><br/>Tuesday, September 29th, 2020</td></tr>
 <tr><td><img width="140px" src="https://i.ytimg.com/vi/NOjGAtRPR9E/mqdefault.jpg"></td>
-<td><a href="https://www.youtube.com/watch?v=NOjGAtRPR9E">Increase your online productivity with Userscripts</a></td></tr>
+<td><a href="https://www.youtube.com/watch?v=NOjGAtRPR9E">Increase your online productivity with Userscripts</a><br/>Sunday, September 27th, 2020</td></tr>
 <tr><td><img width="140px" src="https://i.ytimg.com/vi/8gJ5dGwgX8Y/mqdefault.jpg"></td>
-<td><a href="https://www.youtube.com/watch?v=8gJ5dGwgX8Y">Javascript Regular Expressions Tutorial in One Video</a></td></tr>
+<td><a href="https://www.youtube.com/watch?v=8gJ5dGwgX8Y">Javascript Regular Expressions Tutorial in One Video</a><br/>Tuesday, September 22nd, 2020</td></tr>
 <tr><td><img width="140px" src="https://i.ytimg.com/vi/GTUlkkNhvok/mqdefault.jpg"></td>
-<td><a href="https://www.youtube.com/watch?v=GTUlkkNhvok">Regex Essentials - Advanced Expressions (Part 2)</a></td></tr>
+<td><a href="https://www.youtube.com/watch?v=GTUlkkNhvok">Regex Essentials - Advanced Expressions (Part 2)</a><br/>Sunday, September 13th, 2020</td></tr>
 <tr><td><img width="140px" src="https://i.ytimg.com/vi/6JoRBsHwsPY/mqdefault.jpg"></td>
-<td><a href="https://www.youtube.com/watch?v=6JoRBsHwsPY">RegEx Essentials - What you need to know (Part 1)</a></td></tr>
+<td><a href="https://www.youtube.com/watch?v=6JoRBsHwsPY">RegEx Essentials - What you need to know (Part 1)</a><br/>Monday, September 7th, 2020</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
   </table>
