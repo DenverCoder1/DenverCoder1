@@ -15,3 +15,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCipSxT7a3rn81vGLw9lqRkg"
+          template: "<tr><td><a href=\"$url\">$title</a></td></tr>$newline" 
+          committer_email: "jonah@freshidea.com"
