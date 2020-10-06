@@ -11,6 +11,27 @@
   <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=DenverCoder1&style=flat-square&color=7C007C"/></a>
 </p>
 
+## 🔥 Hacktoberfest Repos for Beginners
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>💡 Issues</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/countdown"><b>Countdown</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/issues/DenverCoder1/countdown?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/countdown?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+**Tutorial: [Hacktoberfest 2020 beginner's guide](https://www.youtube.com/watch?v=mMSOIkkSIag)**
+
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
