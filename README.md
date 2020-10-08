@@ -22,7 +22,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/countdown"><b>Simple Countdown (PHP/Javascript)</b></a></td>
+      <td><a href="https://github.com/DenverCoder1/countdown"><b>Simple Countdown (PHP/JavaScript)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/issues/DenverCoder1/countdown?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/countdown?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -30,6 +30,11 @@
       <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>Github Readme YouTube Stats (PHP)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/issues/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary (Plain Text)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/issues/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
