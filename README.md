@@ -171,15 +171,15 @@
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><img width="140px" src="https://i.ytimg.com/vi/mMSOIkkSIag/mqdefault.jpg"></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=mMSOIkkSIag"><img width="140px" src="https://i.ytimg.com/vi/mMSOIkkSIag/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mMSOIkkSIag">Making a PR with Github Desktop for Hacktoberfest 2020</a><br/>Oct 6, 2020</td></tr>
-<tr><td><img width="140px" src="https://i.ytimg.com/vi/UCTA9dbrVqc/mqdefault.jpg"></td>
+<tr><td><a href="https://www.youtube.com/watch?v=UCTA9dbrVqc"><img width="140px" src="https://i.ytimg.com/vi/UCTA9dbrVqc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UCTA9dbrVqc">Making a Userscript - Setup and JavaScript Tutorial</a><br/>Sep 29, 2020</td></tr>
-<tr><td><img width="140px" src="https://i.ytimg.com/vi/NOjGAtRPR9E/mqdefault.jpg"></td>
+<tr><td><a href="https://www.youtube.com/watch?v=NOjGAtRPR9E"><img width="140px" src="https://i.ytimg.com/vi/NOjGAtRPR9E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NOjGAtRPR9E">Increase your online productivity with Userscripts</a><br/>Sep 27, 2020</td></tr>
-<tr><td><img width="140px" src="https://i.ytimg.com/vi/8gJ5dGwgX8Y/mqdefault.jpg"></td>
+<tr><td><a href="https://www.youtube.com/watch?v=8gJ5dGwgX8Y"><img width="140px" src="https://i.ytimg.com/vi/8gJ5dGwgX8Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8gJ5dGwgX8Y">Javascript Regular Expressions Tutorial in One Video</a><br/>Sep 22, 2020</td></tr>
-<tr><td><img width="140px" src="https://i.ytimg.com/vi/GTUlkkNhvok/mqdefault.jpg"></td>
+<tr><td><a href="https://www.youtube.com/watch?v=GTUlkkNhvok"><img width="140px" src="https://i.ytimg.com/vi/GTUlkkNhvok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GTUlkkNhvok">Regex Essentials - Advanced Expressions (Part 2)</a><br/>Sep 13, 2020</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
