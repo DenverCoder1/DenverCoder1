@@ -195,4 +195,12 @@
   <a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
 </p>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
