@@ -14,5 +14,6 @@ jobs:
       - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           COMMIT_USERNAME: "DenverCoder1"
-          COMMIT_EMAIL: "jonah@freshidea.com"
+          COMMIT_EMAIL: "jonah@freshidea.com"  
