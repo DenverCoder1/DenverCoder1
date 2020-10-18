@@ -191,19 +191,15 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="#"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a> 
-  <a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
 </p>
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/softvar/enhanced-github/pull/71) in [softvar/enhanced-github](https://github.com/softvar/enhanced-github)
-2. 🎉 Merged PR [#1](https://github.com/DenverCoderOne/enhanced-github/pull/1) in [DenverCoderOne/enhanced-github](https://github.com/DenverCoderOne/enhanced-github)
-3. 💪 Opened PR [#1](https://github.com/DenverCoderOne/enhanced-github/pull/1) in [DenverCoderOne/enhanced-github](https://github.com/DenverCoderOne/enhanced-github)
-4. ❌ Closed PR [#7](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/7) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. ❌ Closed PR [#15](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/15) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
 <!--END_SECTION:activity-->
 
 </details>
