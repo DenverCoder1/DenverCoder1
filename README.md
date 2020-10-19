@@ -200,11 +200,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/11) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-2. 🎉 Merged PR [#9](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/9) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 🗣 Commented on [#9](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/9) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. ❌ Closed PR [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. ❗️ Closed issue [#11](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/11) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+2. 🗣 Commented on [#11](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/11) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+3. 🗣 Commented on [#17](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/17) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+4. 🎉 Merged PR [#17](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/17) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+5. 🗣 Commented on [#17](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/17) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
 <!--END_SECTION:activity-->
 
 </details>
