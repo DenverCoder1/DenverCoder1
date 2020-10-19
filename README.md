@@ -200,11 +200,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. ❌ Closed PR [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 🎉 Merged PR [#9](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/9) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. 🗣 Commented on [#9](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/9) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 3. 🗣 Commented on [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#11](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/11) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-5. 💪 Opened PR [#71](https://github.com/softvar/enhanced-github/pull/71) in [softvar/enhanced-github](https://github.com/softvar/enhanced-github)
+4. ❌ Closed PR [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. 🗣 Commented on [#8](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/8) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 </details>
