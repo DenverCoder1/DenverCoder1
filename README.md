@@ -200,11 +200,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/10) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 🗣 Commented on [#10](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/10) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. ❌ Closed PR [#18](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/18) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-4. ❗️ Closed issue [#11](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/11) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-5. 🗣 Commented on [#11](https://github.com/DenverCoder1/github-readme-youtube-stats/issues/11) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+1. 🎉 Merged PR [#19](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/19) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+2. 💪 Opened PR [#19](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/19) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+3. 🎉 Merged PR [#11](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/11) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 💪 Opened PR [#11](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/11) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. 🎉 Merged PR [#10](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/10) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 </details>
