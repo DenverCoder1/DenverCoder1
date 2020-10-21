@@ -201,10 +201,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 🎉 Merged PR [#19](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/19) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-3. 💪 Opened PR [#19](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/19) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-4. 🎉 Merged PR [#11](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/11) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 💪 Opened PR [#11](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/11) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. 🎉 Merged PR [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. 🎉 Merged PR [#19](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/19) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
 <!--END_SECTION:activity-->
 
 </details>
