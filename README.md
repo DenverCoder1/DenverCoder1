@@ -200,10 +200,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#152](https://github.com/Justineo/github-hovercard/issues/152) in [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard)
-2. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 🎉 Merged PR [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 💪 Opened PR [#153](https://github.com/Justineo/github-hovercard/pull/153) in [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard)
+2. ❗️ Opened issue [#152](https://github.com/Justineo/github-hovercard/issues/152) in [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard)
+3. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 🎉 Merged PR [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 5. 🗣 Commented on [#12](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/12) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
