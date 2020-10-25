@@ -10,6 +10,12 @@
   <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/?label=Views#3"/></a>
 </p>
 
+## My streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="DenverCoder1's Streak" src="https://freshidea.com/jonah/app/github-readme-streak/#"/></a>
+</p>
+
 ## 🔥 Hacktoberfest Repos for Beginners
 
 <table>
