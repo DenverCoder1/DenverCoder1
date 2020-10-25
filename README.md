@@ -13,7 +13,9 @@
 ## My contribution streak
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="DenverCoder1's Streak" src="https://freshidea.com/jonah/app/github-readme-streak/#"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1"/>
+  </a>
 </p>
 
 ## 🔥 Hacktoberfest Repos for Beginners
