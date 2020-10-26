@@ -213,11 +213,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DenverCoderOne/github-profile-readme-generator-1/pull/2) in [DenverCoderOne/github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1)
-2. 💪 Opened PR [#2](https://github.com/DenverCoderOne/github-profile-readme-generator-1/pull/2) in [DenverCoderOne/github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1)
-3. 🗣 Commented on [#26](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/26) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🎉 Merged PR [#28](https://github.com/DenverCoder1/countdown/pull/28) in [DenverCoder1/countdown](https://github.com/DenverCoder1/countdown)
-5. 💪 Opened PR [#153](https://github.com/Justineo/github-hovercard/pull/153) in [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard)
+1. 💪 Opened PR [#35](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/35) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🎉 Merged PR [#2](https://github.com/DenverCoderOne/github-profile-readme-generator-1/pull/2) in [DenverCoderOne/github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1)
+3. 💪 Opened PR [#2](https://github.com/DenverCoderOne/github-profile-readme-generator-1/pull/2) in [DenverCoderOne/github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1)
+4. 🗣 Commented on [#26](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/26) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🎉 Merged PR [#28](https://github.com/DenverCoder1/countdown/pull/28) in [DenverCoder1/countdown](https://github.com/DenverCoder1/countdown)
 <!--END_SECTION:activity-->
 
 </details>
