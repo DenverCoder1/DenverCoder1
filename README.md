@@ -213,11 +213,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Opened issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 🗣 Commented on [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Opened issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 4. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 💪 Opened PR [#325](https://github.com/rahuldkjain/github-profile-readme-generator/pull/325) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+5. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 </details>
