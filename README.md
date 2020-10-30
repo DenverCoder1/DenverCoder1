@@ -200,11 +200,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ❗️ Closed issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Opened issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 🎉 Merged PR [#3](https://github.com/DenverCoder1/github-readme-streak-stats/pull/3) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#3](https://github.com/DenverCoder1/github-readme-streak-stats/pull/3) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Closed issue [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Closed issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
