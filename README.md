@@ -25,8 +25,6 @@
     <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-008888?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -34,6 +32,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
   </a>
 </p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 🙋‍♂️ Connect with me:
 
