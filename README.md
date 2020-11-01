@@ -200,11 +200,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DenverCoder1/github-readme-streak-stats/pull/3) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 💪 Opened PR [#3](https://github.com/DenverCoder1/github-readme-streak-stats/pull/3) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ❗️ Closed issue [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#2](https://github.com/DenverCoder1/github-readme-streak-stats/issues/2) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Closed issue [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#14](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/14) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. 💪 Opened PR [#14](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/14) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🗣 Commented on [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. ❗️ Opened issue [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. 🎉 Merged PR [#3](https://github.com/DenverCoder1/github-readme-streak-stats/pull/3) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
