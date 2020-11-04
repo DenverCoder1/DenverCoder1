@@ -21,8 +21,8 @@
 * 🦁 I use [Brave Browser](https://brave.com/eyl243) for ad-free and tracker-free browsing
 
 <p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-008888?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
 ## 🔥 My contribution streak
