@@ -200,11 +200,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/14) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 💪 Opened PR [#14](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/14) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 🗣 Commented on [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. ❗️ Opened issue [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 🎉 Merged PR [#3](https://github.com/DenverCoder1/github-readme-streak-stats/pull/3) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#325](https://github.com/rahuldkjain/github-profile-readme-generator/issues/325) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+2. 🎉 Merged PR [#14](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/14) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 💪 Opened PR [#14](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/14) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 🗣 Commented on [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. ❗️ Opened issue [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 </details>
