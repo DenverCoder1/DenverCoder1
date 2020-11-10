@@ -200,11 +200,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#655](https://github.com/thenewboston-developers/Website/pull/655) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
-2. 💪 Opened PR [#653](https://github.com/thenewboston-developers/Website/pull/653) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
-3. ❌ Closed PR [#1](https://github.com/DenverCoderOne/Website/pull/1) in [DenverCoderOne/Website](https://github.com/DenverCoderOne/Website)
-4. 💪 Opened PR [#1](https://github.com/DenverCoderOne/Website/pull/1) in [DenverCoderOne/Website](https://github.com/DenverCoderOne/Website)
-5. 🗣 Commented on [#325](https://github.com/rahuldkjain/github-profile-readme-generator/issues/325) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+1. 🗣 Commented on [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+2. 🗣 Commented on [#653](https://github.com/thenewboston-developers/Website/issues/653) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+3. ❗️ Opened issue [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+4. 💪 Opened PR [#655](https://github.com/thenewboston-developers/Website/pull/655) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+5. 💪 Opened PR [#653](https://github.com/thenewboston-developers/Website/pull/653) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
 <!--END_SECTION:activity-->
 
 </details>
