@@ -200,11 +200,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
-2. 🗣 Commented on [#653](https://github.com/thenewboston-developers/Website/issues/653) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
-3. ❗️ Opened issue [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
-4. 💪 Opened PR [#655](https://github.com/thenewboston-developers/Website/pull/655) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
-5. 💪 Opened PR [#653](https://github.com/thenewboston-developers/Website/pull/653) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+1. 🎉 Merged PR [#15](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/15) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. 💪 Opened PR [#15](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/15) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🗣 Commented on [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+4. 🗣 Commented on [#653](https://github.com/thenewboston-developers/Website/issues/653) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+5. ❗️ Opened issue [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
 <!--END_SECTION:activity-->
 
 </details>
