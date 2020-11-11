@@ -163,7 +163,7 @@
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mukHmFLO_GE"><img width="140px" src="https://i.ytimg.com/vi/mukHmFLO_GE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mukHmFLO_GE">VS Code Extensions Every Developer Should Know About</a><br/>Nov 3, 2020</td></tr>
+<td><a href="https://www.youtube.com/watch?v=mukHmFLO_GE">Top 10 VS Code Extensions Every Developer Should Know About</a><br/>Nov 3, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MYh6df4ZybU"><img width="140px" src="https://i.ytimg.com/vi/MYh6df4ZybU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MYh6df4ZybU">Heroku Tutorial - Deploy your app or website in under 10 minutes for free</a><br/>Oct 28, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=oDQCyQahn68"><img width="140px" src="https://i.ytimg.com/vi/oDQCyQahn68/mqdefault.jpg"></a></td>
