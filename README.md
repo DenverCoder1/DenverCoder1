@@ -200,11 +200,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/16) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 💪 Opened PR [#16](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/16) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 🎉 Merged PR [#15](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/15) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 💪 Opened PR [#15](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/15) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 🗣 Commented on [#705](https://github.com/thenewboston-developers/Website/issues/705) in [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website)
+1. ❗️ Opened issue [#4](https://github.com/DenverCoder1/unicode-formatter/issues/4) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+2. ❗️ Opened issue [#3](https://github.com/DenverCoder1/unicode-formatter/issues/3) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+3. ❗️ Opened issue [#2](https://github.com/DenverCoder1/unicode-formatter/issues/2) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+4. ❗️ Opened issue [#1](https://github.com/DenverCoder1/unicode-formatter/issues/1) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+5. 🎉 Merged PR [#16](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/16) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 
 </details>
