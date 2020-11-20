@@ -205,11 +205,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/DenverCoder1/unicode-formatter/issues/5) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-2. 🗣 Commented on [#5](https://github.com/DenverCoder1/unicode-formatter/issues/5) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-3. 🎉 Merged PR [#8](https://github.com/DenverCoder1/unicode-formatter/pull/8) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. ❗️ Closed issue [#4](https://github.com/DenverCoder1/unicode-formatter/issues/4) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. 💪 Opened PR [#8](https://github.com/DenverCoder1/unicode-formatter/pull/8) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+1. ❗️ Opened issue [#9](https://github.com/DenverCoder1/unicode-formatter/issues/9) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+2. ❗️ Closed issue [#5](https://github.com/DenverCoder1/unicode-formatter/issues/5) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+3. 🗣 Commented on [#5](https://github.com/DenverCoder1/unicode-formatter/issues/5) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+4. 🎉 Merged PR [#8](https://github.com/DenverCoder1/unicode-formatter/pull/8) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+5. ❗️ Closed issue [#4](https://github.com/DenverCoder1/unicode-formatter/issues/4) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
 <!--END_SECTION:activity-->
 
 </details>
