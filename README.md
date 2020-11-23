@@ -205,11 +205,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. ❗️ Opened issue [#9](https://github.com/DenverCoder1/unicode-formatter/issues/9) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-3. ❗️ Closed issue [#5](https://github.com/DenverCoder1/unicode-formatter/issues/5) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. 🗣 Commented on [#5](https://github.com/DenverCoder1/unicode-formatter/issues/5) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. 🎉 Merged PR [#8](https://github.com/DenverCoder1/unicode-formatter/pull/8) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+1. 🗣 Commented on [#4](https://github.com/abrahammurciano/homework/issues/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
+2. ❌ Closed PR [#4](https://github.com/abrahammurciano/homework/pull/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
+3. 💪 Opened PR [#4](https://github.com/abrahammurciano/homework/pull/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
+4. ❗️ Closed issue [#13](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/13) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. ❗️ Opened issue [#9](https://github.com/DenverCoder1/unicode-formatter/issues/9) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
 <!--END_SECTION:activity-->
 
 </details>
