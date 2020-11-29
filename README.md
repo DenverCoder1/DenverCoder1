@@ -18,7 +18,6 @@
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see my some of my projects on [my portfolio](https://freshidea.com/jonah/)
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
-* 🦁 I use [Brave Browser](https://brave.com/eyl243) for ad-free and tracker-free browsing
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
