@@ -204,11 +204,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#330](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/330) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#4](https://github.com/DenverCoder1/github-readme-streak-stats/issues/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#4](https://github.com/DenverCoder1/github-readme-streak-stats/pull/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#325](https://github.com/rahuldkjain/github-profile-readme-generator/issues/325) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-5. 🗣 Commented on [#4](https://github.com/abrahammurciano/homework/issues/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
+1. 💪 Opened PR [#446](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/446) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❌ Closed PR [#331](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/331) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. ❌ Closed PR [#330](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/330) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. 🗣 Commented on [#4](https://github.com/DenverCoder1/github-readme-streak-stats/issues/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#4](https://github.com/DenverCoder1/github-readme-streak-stats/pull/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
