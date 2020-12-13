@@ -204,11 +204,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/DenverCoder1/github-readme-streak-stats/pull/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#325](https://github.com/rahuldkjain/github-profile-readme-generator/issues/325) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-3. 🗣 Commented on [#4](https://github.com/abrahammurciano/homework/issues/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
-4. ❌ Closed PR [#4](https://github.com/abrahammurciano/homework/pull/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
-5. 💪 Opened PR [#4](https://github.com/abrahammurciano/homework/pull/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
+1. 🗣 Commented on [#4](https://github.com/DenverCoder1/github-readme-streak-stats/issues/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#4](https://github.com/DenverCoder1/github-readme-streak-stats/pull/4) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#325](https://github.com/rahuldkjain/github-profile-readme-generator/issues/325) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+4. 🗣 Commented on [#4](https://github.com/abrahammurciano/homework/issues/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
+5. ❌ Closed PR [#4](https://github.com/abrahammurciano/homework/pull/4) in [abrahammurciano/homework](https://github.com/abrahammurciano/homework)
 <!--END_SECTION:activity-->
 
 </details>
