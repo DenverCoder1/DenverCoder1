@@ -138,9 +138,9 @@
             <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://img.icons8.com/ios-filled/50/000000/markdown.png" /></a></td>
+                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
         </tr>
         <tr>
