@@ -206,11 +206,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/mdayaram/calendar2020/issues/6) in [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020)
-2. 🎉 Merged PR [#7](https://github.com/DenverCoder1/github-readme-streak-stats/pull/7) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ❗️ Closed issue [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#7](https://github.com/DenverCoder1/github-readme-streak-stats/pull/7) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 💪 Opened PR [#7](https://github.com/mdayaram/calendar2020/pull/7) in [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020)
+2. ❗️ Opened issue [#6](https://github.com/mdayaram/calendar2020/issues/6) in [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020)
+3. 🎉 Merged PR [#7](https://github.com/DenverCoder1/github-readme-streak-stats/pull/7) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Closed issue [#6](https://github.com/DenverCoder1/github-readme-streak-stats/issues/6) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#7](https://github.com/DenverCoder1/github-readme-streak-stats/pull/7) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
