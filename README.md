@@ -206,10 +206,10 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/DenverCoder1/github-readme-streak-stats/issues/12) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Opened issue [#11](https://github.com/DenverCoder1/jct-discord-bot/issues/11) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#1](https://github.com/DenverCoder1/awesome-stars/pull/1) in [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars)
+2. 💪 Opened PR [#1](https://github.com/DenverCoder1/awesome-stars/pull/1) in [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars)
 3. 🗣 Commented on [#12](https://github.com/DenverCoder1/github-readme-streak-stats/issues/12) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#625](https://github.com/EddieJaoudeCommunity/support/issues/625) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Opened issue [#11](https://github.com/DenverCoder1/jct-discord-bot/issues/11) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 5. 🗣 Commented on [#12](https://github.com/DenverCoder1/github-readme-streak-stats/issues/12) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
