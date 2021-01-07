@@ -207,10 +207,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/DenverCoder1/jct-discord-bot/issues/17) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. ❗️ Opened issue [#17](https://github.com/DenverCoder1/jct-discord-bot/issues/17) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/awesome-stars/pull/1) in [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars)
-4. 💪 Opened PR [#1](https://github.com/DenverCoder1/awesome-stars/pull/1) in [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars)
-5. 🗣 Commented on [#12](https://github.com/DenverCoder1/github-readme-streak-stats/issues/12) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#17](https://github.com/DenverCoder1/jct-discord-bot/issues/17) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. ❗️ Opened issue [#17](https://github.com/DenverCoder1/jct-discord-bot/issues/17) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#1](https://github.com/DenverCoder1/awesome-stars/pull/1) in [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars)
+5. 💪 Opened PR [#1](https://github.com/DenverCoder1/awesome-stars/pull/1) in [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars)
 <!--END_SECTION:activity-->
 
 </details>
