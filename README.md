@@ -206,11 +206,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/DenverCoder1/jct-discord-bot/issues/24) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#23](https://github.com/DenverCoder1/jct-discord-bot/pull/23) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. ❗️ Closed issue [#22](https://github.com/DenverCoder1/jct-discord-bot/issues/22) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 💪 Opened PR [#23](https://github.com/DenverCoder1/jct-discord-bot/pull/23) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. ❗️ Opened issue [#22](https://github.com/DenverCoder1/jct-discord-bot/issues/22) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🗣 Commented on [#8](https://github.com/DenverCoder1/jct-discord-bot/issues/8) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. ❗️ Opened issue [#24](https://github.com/DenverCoder1/jct-discord-bot/issues/24) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/jct-discord-bot/pull/23) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. ❗️ Closed issue [#22](https://github.com/DenverCoder1/jct-discord-bot/issues/22) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 💪 Opened PR [#23](https://github.com/DenverCoder1/jct-discord-bot/pull/23) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
