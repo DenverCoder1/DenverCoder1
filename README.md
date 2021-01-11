@@ -206,11 +206,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/DenverCoder1/github-readme-streak-stats/issues/12) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#32](https://github.com/DenverCoder1/jct-discord-bot/issues/32) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🗣 Commented on [#24](https://github.com/DenverCoder1/jct-discord-bot/issues/24) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🗣 Commented on [#8](https://github.com/DenverCoder1/jct-discord-bot/issues/8) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. ❗️ Opened issue [#24](https://github.com/DenverCoder1/jct-discord-bot/issues/24) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 💪 Opened PR [#16](https://github.com/DenverCoder1/github-readme-streak-stats/pull/16) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#15](https://github.com/DenverCoder1/github-readme-streak-stats/issues/15) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#12](https://github.com/DenverCoder1/github-readme-streak-stats/issues/12) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#32](https://github.com/DenverCoder1/jct-discord-bot/issues/32) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🗣 Commented on [#24](https://github.com/DenverCoder1/jct-discord-bot/issues/24) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
