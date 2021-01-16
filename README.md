@@ -207,9 +207,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/DenverCoder1/jct-discord-bot/issues/45) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. ❗️ Opened issue [#45](https://github.com/DenverCoder1/jct-discord-bot/issues/45) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🗣 Commented on [#152](https://github.com/Justineo/github-hovercard/issues/152) in [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard)
-4. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🗣 Commented on [#45](https://github.com/DenverCoder1/jct-discord-bot/issues/45) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. ❗️ Opened issue [#45](https://github.com/DenverCoder1/jct-discord-bot/issues/45) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🗣 Commented on [#152](https://github.com/Justineo/github-hovercard/issues/152) in [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard)
 5. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
