@@ -206,11 +206,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/DenverCoder1/jct-discord-bot/pull/48) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. ❗️ Closed issue [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 💪 Opened PR [#48](https://github.com/DenverCoder1/jct-discord-bot/pull/48) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#47](https://github.com/DenverCoder1/jct-discord-bot/issues/47) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🗣 Commented on [#47](https://github.com/DenverCoder1/jct-discord-bot/issues/47) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#1](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/1) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 💪 Opened PR [#1](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/1) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+3. 🎉 Merged PR [#48](https://github.com/DenverCoder1/jct-discord-bot/pull/48) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. ❗️ Closed issue [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 💪 Opened PR [#48](https://github.com/DenverCoder1/jct-discord-bot/pull/48) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
