@@ -206,11 +206,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#22](https://github.com/DenverCoder1/github-readme-streak-stats/issues/22) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Opened issue [#22](https://github.com/DenverCoder1/github-readme-streak-stats/issues/22) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#1](https://github.com/DenverCoder1/github-readme-streak-stats/issues/1) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Opened issue [#24](https://github.com/DenverCoder1/github-readme-streak-stats/issues/24) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Closed issue [#22](https://github.com/DenverCoder1/github-readme-streak-stats/issues/22) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#23](https://github.com/DenverCoder1/github-readme-streak-stats/pull/23) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Opened issue [#22](https://github.com/DenverCoder1/github-readme-streak-stats/issues/22) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
