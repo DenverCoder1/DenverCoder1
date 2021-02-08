@@ -207,11 +207,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#876](https://github.com/scrapinghub/dateparser/issues/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
-2. 🗣 Commented on [#876](https://github.com/scrapinghub/dateparser/issues/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
+1. ❌ Reopened PR [#876](https://github.com/scrapinghub/dateparser/pull/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
+2. ❌ Closed PR [#876](https://github.com/scrapinghub/dateparser/pull/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
 3. 🗣 Commented on [#876](https://github.com/scrapinghub/dateparser/issues/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
-4. 🎉 Merged PR [#4](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/4) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 💪 Opened PR [#4](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/4) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+4. 🗣 Commented on [#876](https://github.com/scrapinghub/dateparser/issues/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
+5. 🗣 Commented on [#876](https://github.com/scrapinghub/dateparser/issues/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
 <!--END_SECTION:activity-->
 
 </details>
