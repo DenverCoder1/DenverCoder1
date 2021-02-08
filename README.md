@@ -207,11 +207,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#876](https://github.com/scrapinghub/dateparser/pull/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
-2. 🎉 Merged PR [#79](https://github.com/DenverCoder1/jct-discord-bot/pull/79) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🗣 Commented on [#753](https://github.com/scrapinghub/dateparser/issues/753) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
-4. 💪 Opened PR [#79](https://github.com/DenverCoder1/jct-discord-bot/pull/79) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#77](https://github.com/DenverCoder1/jct-discord-bot/pull/77) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 💪 Opened PR [#2](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/2) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 💪 Opened PR [#876](https://github.com/scrapinghub/dateparser/pull/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
+3. 🎉 Merged PR [#79](https://github.com/DenverCoder1/jct-discord-bot/pull/79) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🗣 Commented on [#753](https://github.com/scrapinghub/dateparser/issues/753) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
+5. 💪 Opened PR [#79](https://github.com/DenverCoder1/jct-discord-bot/pull/79) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
