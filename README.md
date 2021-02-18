@@ -183,11 +183,11 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
-## 📈 Github Stats
+## 📊 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
-  <summary>📊 GitHub Profile Stats</summary>
+  <summary>📋 GitHub Profile Stats</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </details>
@@ -213,5 +213,12 @@
 4. 💪 Opened PR [#85](https://github.com/DenverCoder1/jct-discord-bot/pull/85) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 5. ❗️ Opened issue [#84](https://github.com/DenverCoder1/jct-discord-bot/issues/84) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
+</details>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<details> 
+  <summary>📈 GitHub Activity Graph</summary>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" /></a>
+  <br/>
 </details>
