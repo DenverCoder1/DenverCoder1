@@ -207,11 +207,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/DenverCoder1/github-readme-streak-stats/pull/35) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#34](https://github.com/DenverCoder1/github-readme-streak-stats/issues/34) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#35](https://github.com/DenverCoder1/github-readme-streak-stats/pull/35) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Opened issue [#34](https://github.com/DenverCoder1/github-readme-streak-stats/issues/34) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#52](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/52) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+1. ❗️ Closed issue [#36](https://github.com/DenverCoder1/github-readme-streak-stats/issues/36) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#36](https://github.com/DenverCoder1/github-readme-streak-stats/issues/36) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#37](https://github.com/DenverCoder1/github-readme-streak-stats/pull/37) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#37](https://github.com/DenverCoder1/github-readme-streak-stats/pull/37) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Opened issue [#36](https://github.com/DenverCoder1/github-readme-streak-stats/issues/36) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
