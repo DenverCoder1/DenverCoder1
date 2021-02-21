@@ -10,6 +10,15 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://jonahlawrence.hashnode.dev/"><img alt="Hashnode" title="Jonah Lawrence's Blog" src="https://img.shields.io/badge/Hashnode-2962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://dev.to/denvercoder1"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support%20on%20Ko‐fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20stuff-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+</p>
+
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
@@ -17,12 +26,6 @@
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
-
-<p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-0D1117?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
-</p>
 
 ## 🔥 My contribution streak
 
@@ -36,22 +39,6 @@
 </p>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-## 🙋‍♂️ Connect with me:
-
-<p align="left">
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
-
-<p align="left">
-  <a href="https://stackexchange.com/users/16082556/eyl327">
-    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-  </a>
-</p>
 
 ## 📘 My top open source projects
 
