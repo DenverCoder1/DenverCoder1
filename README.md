@@ -1,6 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Jonah</a> - aka DenverCoder1 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">
+  Hey there, I'm <a href="https://freshidea.com/jonah/">Jonah</a> - aka DenverCoder1
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
@@ -19,13 +23,9 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20stuff-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
-## 📖 About me
-
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+<p align="center">
+  Experienced full stack web developer and self-taught UI designer. Wrote code since age 10 and always improving my skills. Skilled with web development, Android apps, graphic design, spreadsheets, and working toward a bachelor's degree in Computer Science. You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.
+</p>
 
 ## 🔥 My contribution streak
 
@@ -37,8 +37,6 @@
   <br/>
   🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
 </p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 📘 My top open source projects
 
