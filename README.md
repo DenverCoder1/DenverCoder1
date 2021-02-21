@@ -79,7 +79,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-0D1117?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-0D1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 Languages and Tools:
