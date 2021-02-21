@@ -24,7 +24,11 @@
 </p>
 
 <p align="center">
-  Experienced full stack web developer and self-taught UI designer. Wrote code since age 10 and always improving my skills. Skilled with web development, Android apps, graphic design, spreadsheets, and working toward a bachelor's degree in Computer Science. You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.
+  🖥 Experienced full stack web developer and self-taught UI designer.<br/>
+  👨‍💻 Wrote code since age 10 and always improving my skills.<br/>
+  📱 Skilled with web development, Android apps, graphic design, spreadsheets.<br/>
+  🎓 Working toward a bachelor's degree in Computer Science.<br/>
+  🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.
 </p>
 
 ## 🔥 My contribution streak
