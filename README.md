@@ -31,8 +31,6 @@
   🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.
 </p>
 
-## 🔥 My contribution streak
-
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
