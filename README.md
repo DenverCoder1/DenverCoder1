@@ -14,21 +14,19 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
+
 <p align="center">
   🖥 Experienced full stack web developer and self-taught UI designer.<br/>
   👨‍💻 Wrote code since age 10 and always improving my skills.<br/>
   📱 Skilled with web development, Android apps, graphic design, spreadsheets.<br/>
   🎓 Working toward a bachelor's degree in Computer Science.<br/>
   🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.
-</p>
-
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-  <br/>
-  🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
 </p>
 
 ## 🙋‍♂️ Connect with me
