@@ -132,7 +132,7 @@
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=EreE-0hQibM"><img width="140px" src="https://i.ytimg.com/vi/EreE-0hQibM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EreE-0hQibM">How to Host a Discord Bot 24/7 for FREE [Part 2]</a><br/>Mar 4, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=arLTipYONl8"><img width="140px" src="https://i.ytimg.com/vi/arLTipYONl8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=arLTipYONl8">Building a Discord Bot with Python - Bot Basics</a><br/>Mar 1, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=arLTipYONl8">Building a Discord Bot with Python - Bot Basics [Part 1]</a><br/>Mar 1, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DCP1elBAy_U"><img width="140px" src="https://i.ytimg.com/vi/DCP1elBAy_U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DCP1elBAy_U">How to Bulk Rename Files Easily on Windows</a><br/>Feb 15, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
