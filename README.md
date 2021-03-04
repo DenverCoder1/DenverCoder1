@@ -129,7 +129,9 @@
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=arLTipYONl8"><img width="140px" src="https://i.ytimg.com/vi/arLTipYONl8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=EreE-0hQibM"><img width="140px" src="https://i.ytimg.com/vi/EreE-0hQibM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EreE-0hQibM">How to Host a Discord Bot 24/7 for Free</a><br/>Mar 4, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=arLTipYONl8"><img width="140px" src="https://i.ytimg.com/vi/arLTipYONl8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=arLTipYONl8">Building a Discord Bot with Python - Bot Basics</a><br/>Mar 1, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DCP1elBAy_U"><img width="140px" src="https://i.ytimg.com/vi/DCP1elBAy_U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DCP1elBAy_U">How to Bulk Rename Files Easily on Windows</a><br/>Feb 15, 2021</td></tr>
@@ -137,8 +139,6 @@
 <td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI">Build a Weather App with HTML, CSS & JavaScript</a><br/>Dec 10, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
   </table>
