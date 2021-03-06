@@ -26,15 +26,11 @@
   👨‍💻 Wrote code since age 10 and always improving my skills.<br/>
   📱 Skilled with web development, Android apps, graphic design, spreadsheets.<br/>
   🎓 Working toward a bachelor's degree in Computer Science.<br/>
-  🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dev.to/denvercoder1"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support%20on%20Ko‐fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20stuff-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+  📺 I make programming tutorials on <a href="https://www.youtube.com/c/DevProTips">YouTube</a>.<br/>
+  🐦 I share content and quizes on <a href="https://twitter.com/DenverCoder1">Twitter</a>.<br/>
+  ✍ I write tutorial blogs on <a href="https://jonahlawrence.hashnode.dev">Hashnode</a> and <a href="https://dev.to/denvercoder1">Dev.to</a>.<br/>
+  🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.<br/>
+  💖 You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>
 </p>
 
 ## 📘 My top open source projects
