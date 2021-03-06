@@ -30,7 +30,7 @@
   🐦 I share developer content and JavaScript quizzes on <a href="https://twitter.com/DenverCoder1">Twitter</a>.<br/>
   ✍ I write tutorial blogs on <a href="https://jonahlawrence.hashnode.dev">Hashnode</a> and <a href="https://dev.to/denvercoder1">Dev.to</a>.<br/>
   🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.<br/>
-  💖 You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>
+  💖 You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>.
 </p>
 
 ## 📘 My top open source projects
