@@ -27,7 +27,7 @@
   📱 Skilled with web development, Android apps, graphic design, spreadsheets.<br/>
   🎓 Working toward a bachelor's degree in Computer Science.<br/>
   📺 I make programming tutorials on <a href="https://www.youtube.com/c/DevProTips">YouTube</a>.<br/>
-  🐦 I share content and quizes on <a href="https://twitter.com/DenverCoder1">Twitter</a>.<br/>
+  🐦 I share developer content and JavaScript quizes on <a href="https://twitter.com/DenverCoder1">Twitter</a>.<br/>
   ✍ I write tutorial blogs on <a href="https://jonahlawrence.hashnode.dev">Hashnode</a> and <a href="https://dev.to/denvercoder1">Dev.to</a>.<br/>
   🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.<br/>
   💖 You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>
