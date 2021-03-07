@@ -21,6 +21,8 @@
   </a>
 </p>
 
+## 🙋‍♂️ About Me
+
 <p align="center">
   🖥 Experienced full stack web developer and self-taught UI designer.<br/>
   👨‍💻 Wrote code since age 10 and always improving my skills.<br/>
