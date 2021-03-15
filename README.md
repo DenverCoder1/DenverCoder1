@@ -65,7 +65,7 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 <p align="center">
   <a href="#"><img alt="JavaScript" title="JavaScript" height="36px"
