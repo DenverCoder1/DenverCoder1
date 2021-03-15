@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
   <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/?labelColor=640464"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
 
 ## 📘 My top open source projects
