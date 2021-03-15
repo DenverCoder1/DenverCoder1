@@ -18,43 +18,27 @@
 
 ## 📘 My top open source projects
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
+<p align="left">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&hide_border=true&bg_color=0D1117" alt="github-readme-streak-stats">
+  </a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary">
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&hide_border=true&bg_color=0D1117" alt="github-readme-youtube-stats">
+  </a>
+  <a href="https://github.com/DenverCoder1/weather-app-tutorial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=weather-app-tutorial&theme=react&hide_border=true&bg_color=0D1117" alt="weather-app-tutorial">
+  </a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&hide_border=true&bg_color=0D1117" alt="unicode-formatter">
+  </a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&hide_border=true&bg_color=0D1117" alt="Unedit-for-Reddit">
+  </a>
+</p>
 
 <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
