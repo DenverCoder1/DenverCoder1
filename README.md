@@ -3,11 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- WIP by DenverCoder1 - repo coming soon! -->
+<!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
 <p align="center">
-  <img src="https://lev.net/jonah/svg/bio.php?lines=Full-stack%20web%20developer;Self-taught%20UI%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20developer;Self-taught%20UI%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&height=50">
 </p>
 
+<!-- Badges template - https://github.com/badges/shields -->
+<!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
   <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
@@ -18,8 +21,8 @@
 
 ## 📘 My top open source projects
 
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&hide_border=true&bg_color=0D1117" alt="github-readme-streak-stats">
   </a>
@@ -46,6 +49,7 @@
 
 ## 🙋‍♂️ Connect with me
 
+<!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -57,7 +61,7 @@
 
 ## 🔥 Streak Stats
 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -104,13 +108,13 @@
       src="https://i.imgur.com/6nJGNMN.png" /></a>
   <a href="#"><img alt="Heroku" title="Heroku" height="36px"
       src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
-  <a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="36px"
+  <a href="#"><img alt="Brave" title="Brave" height="36px"
       src="https://i.imgur.com/UfBWFbP.png" /></a>
 </p>
 
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 ## 📺 Latest YouTube Videos
 
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=rgS_OOA12NA"><img width="140px" src="https://i.ytimg.com/vi/rgS_OOA12NA/mqdefault.jpg"></a></td>
