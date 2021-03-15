@@ -1,9 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h3 align="center">
-  Hey there, I'm <a href="https://freshidea.com/jonah/">Jonah</a> - aka DenverCoder1
+  Welcome to Jonah Lawrence's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
 
 <!-- WIP by DenverCoder1 - repo coming soon! -->
@@ -17,20 +14,6 @@
   <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p>
-
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-<p align="center">
-  I make programming tutorials on <a href="https://www.youtube.com/c/DevProTips">YouTube</a><br/>
-  I share developer content and JavaScript quizzes on <a href="https://twitter.com/DenverCoder1">Twitter</a><br/>
-  I write tutorial blogs on <a href="https://jonahlawrence.hashnode.dev">Hashnode</a> and <a href="https://dev.to/denvercoder1">Dev.to</a><br/>
-  You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>
 </p>
 
 ## 📘 My top open source projects
@@ -75,6 +58,27 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+## 🙋‍♂️ Connect with me
+
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://jonahlawrence.hashnode.dev/"><img alt="Hashnode" title="Jonah Lawrence's Blog" src="https://img.shields.io/badge/Hashnode-2962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://dev.to/denvercoder1"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support%20on%20Ko‐fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+</p>
+
+## 🔥 Streak Stats
+
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ## 👨‍💻 Languages and Tools:
