@@ -6,6 +6,11 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
 
+<!-- WIP by DenverCoder1 - repo coming soon! -->
+<p align="center">
+  <img src="https://lev.net/jonah/svg/bio.php?lines=Full-stack%20web%20developer;Self-taught%20UI%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&height=50">
+</p>
+
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
   <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
@@ -21,18 +26,11 @@
   </a>
 </p>
 
-## 🙋‍♂️ About Me
-
 <p align="center">
-  🖥 Experienced full stack web developer and self-taught UI designer.<br/>
-  👨‍💻 Wrote code since age 10 and always improving my skills.<br/>
-  📱 Skilled with web development, Android apps, graphic design, spreadsheets.<br/>
-  🎓 Working toward a bachelor's degree in Computer Science.<br/>
-  📺 I make programming tutorials on <a href="https://www.youtube.com/c/DevProTips">YouTube</a>.<br/>
-  🐦 I share developer content and JavaScript quizzes on <a href="https://twitter.com/DenverCoder1">Twitter</a>.<br/>
-  ✍ I write tutorial blogs on <a href="https://jonahlawrence.hashnode.dev">Hashnode</a> and <a href="https://dev.to/denvercoder1">Dev.to</a>.<br/>
-  🌐 You can see some of my projects on <a href="https://freshidea.com/jonah/">my portfolio</a>.<br/>
-  💖 You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>.
+  I make programming tutorials on <a href="https://www.youtube.com/c/DevProTips">YouTube</a><br/>
+  I share developer content and JavaScript quizzes on <a href="https://twitter.com/DenverCoder1">Twitter</a><br/>
+  I write tutorial blogs on <a href="https://jonahlawrence.hashnode.dev">Hashnode</a> and <a href="https://dev.to/denvercoder1">Dev.to</a><br/>
+  You can support me on <a href="https://ko-fi.com/jlawrence">Ko-fi</a> or check out my <a href="http://eyl327.mywebcommunity.org/promos">free promo links</a>
 </p>
 
 ## 📘 My top open source projects
