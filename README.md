@@ -24,22 +24,16 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&hide_border=true&bg_color=0D1117" alt="github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats">
   </a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary">
   </a>
-  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&hide_border=true&bg_color=0D1117" alt="github-readme-youtube-stats">
-  </a>
   <a href="https://github.com/DenverCoder1/weather-app-tutorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=weather-app-tutorial&theme=react&hide_border=true&bg_color=0D1117" alt="weather-app-tutorial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial">
   </a>
   <a href="https://github.com/DenverCoder1/unicode-formatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&hide_border=true&bg_color=0D1117" alt="unicode-formatter">
-  </a>
-  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&hide_border=true&bg_color=0D1117" alt="Unedit-for-Reddit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter">
   </a>
 </p>
 
