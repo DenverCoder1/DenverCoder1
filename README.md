@@ -12,11 +12,16 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
-  <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
+  <a href="https://twitter.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
 
 ## 📘 My top open source projects
@@ -24,12 +29,18 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-youtube-stats"></a>
-  <a href="https://github.com/DenverCoder1/weather-app-tutorial"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=0D1117&hide_border=true" alt="Unedit-for-Reddit"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-youtube-stats"></a>
+  <a href="https://github.com/DenverCoder1/weather-app-tutorial">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&hide_border=true&bg_color=0D1117&theme=react" alt="Unedit-for-Reddit"></a>
 </p>
 
 <p align="left">
