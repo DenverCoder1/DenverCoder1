@@ -144,24 +144,12 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-<a href="https://www.youtube.com/watch?v=rgS_OOA12NA">
-  <img alt="Creating Cogs and Commands - Python Discord Bot [Part 3]" title="Creating Cogs and Commands - Python Discord Bot [Part 3]" src="https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA"/>
-</a>
-<a href="https://www.youtube.com/watch?v=EreE-0hQibM">
-  <img alt="How to Host a Discord Bot 24/7 for FREE [Part 2]" title="How to Host a Discord Bot 24/7 for FREE [Part 2]" src="https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM"/>
-</a>
-<a href="https://www.youtube.com/watch?v=arLTipYONl8">
-  <img alt="Building a Discord Bot with Python - Bot Basics [Part 1]" title="Building a Discord Bot with Python - Bot Basics [Part 1]" src="https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8"/>
-</a>
-<a href="https://www.youtube.com/watch?v=DCP1elBAy_U">
-  <img alt="How to Bulk Rename Files Easily on Windows" title="How to Bulk Rename Files Easily on Windows" src="https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U"/>
-</a>
-<a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">
-  <img alt="Getting the user's location with JavaScript (Geolocation API tutorial)" title="Getting the user's location with JavaScript (Geolocation API tutorial)" src="https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ"/>
-</a>
-<a href="https://www.youtube.com/watch?v=WZNG8UomjSI">
-  <img alt="Build a Weather App with HTML, CSS & JavaScript" title="Build a Weather App with HTML, CSS & JavaScript" src="https://freshidea.com/jonah/app/youtube-card/?id=WZNG8UomjSI"/>
-</a><!-- YOUTUBE:END -->
+[![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
+[![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")
+[![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")
+[![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
+[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")
+[![Build a Weather App with HTML, CSS & JavaScript](https://freshidea.com/jonah/app/youtube-card/?id=WZNG8UomjSI)](https://www.youtube.com/watch?v=WZNG8UomjSI "Build a Weather App with HTML, CSS & JavaScript")<!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
