@@ -22,6 +22,7 @@
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
@@ -49,7 +50,7 @@
 
 ## 🔥 Streak Stats
 
-<!-- GitHub Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
@@ -60,29 +61,41 @@
 ## 👨‍💻 Languages and Tools
 
 <p align="center">
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" title="JavaScript" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
+    <img alt="JavaScript" title="JavaScript" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML5" title="HTML5" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml">
+    <img alt="HTML5" title="HTML5" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS3" title="CSS3" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
+    <img alt="CSS3" title="CSS3" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" title="PHP" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp">
+    <img alt="PHP" title="PHP" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" title="Python" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython">
+    <img alt="Python" title="Python" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" title="C++" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp">
+    <img alt="C++" title="C++" height="36px"
       src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" title="C#" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp">
+    <img alt="C#" title="C#" height="36px"
       src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" title="Java" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
+    <img alt="Java" title="Java" height="36px"
       src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin"><img alt="Kotlin" title="Kotlin" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin">
+    <img alt="Kotlin" title="Kotlin" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart"><img alt="Flutter" title="Flutter" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart">
+    <img alt="Flutter" title="Flutter" height="36px"
       src="https://img.icons8.com/color/48/000000/flutter.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" title="NodeJS" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
+    <img alt="NodeJS" title="NodeJS" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" title="SQL" height="36px"
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql">
+    <img alt="SQL" title="SQL" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
   <a><img alt="Sheets" title="Sheets" height="36px" 
       src="https://img.icons8.com/color/48/000000/google-sheets.png"></a>
