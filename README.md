@@ -109,21 +109,21 @@
 ## 📺 Latest YouTube Videos
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-<table>
-  <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=rgS_OOA12NA"><img width="140px" src="https://i.ytimg.com/vi/rgS_OOA12NA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rgS_OOA12NA">Creating Cogs and Commands - Python Discord Bot [Part 3]</a><br/>Mar 11, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=EreE-0hQibM"><img width="140px" src="https://i.ytimg.com/vi/EreE-0hQibM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EreE-0hQibM">How to Host a Discord Bot 24/7 for FREE [Part 2]</a><br/>Mar 4, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=arLTipYONl8"><img width="140px" src="https://i.ytimg.com/vi/arLTipYONl8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=arLTipYONl8">Building a Discord Bot with Python - Bot Basics [Part 1]</a><br/>Mar 1, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=DCP1elBAy_U"><img width="140px" src="https://i.ytimg.com/vi/DCP1elBAy_U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DCP1elBAy_U">How to Bulk Rename Files Easily on Windows</a><br/>Feb 15, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td></tr>
+
+<!-- YOUTUBE:START -->
+<a href="https://www.youtube.com/watch?v=rgS_OOA12NA">
+  <img alt="Creating Cogs and Commands - Python Discord Bot [Part 3]" title="Creating Cogs and Commands - Python Discord Bot [Part 3]" src="https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA#"/>
+</a>
+<a href="https://www.youtube.com/watch?v=EreE-0hQibM">
+  <img alt="Creating Cogs and Commands - Python Discord Bot [Part 3]" title="Creating Cogs and Commands - Python Discord Bot [Part 3]" src="https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM"/>
+</a>
+<a href="https://www.youtube.com/watch?v=arLTipYONl8">
+  <img alt="Creating Cogs and Commands - Python Discord Bot [Part 3]" title="Creating Cogs and Commands - Python Discord Bot [Part 3]" src="https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8"/>
+</a>
+<a href="https://www.youtube.com/watch?v=DCP1elBAy_U">
+  <img alt="Creating Cogs and Commands - Python Discord Bot [Part 3]" title="Creating Cogs and Commands - Python Discord Bot [Part 3]" src="https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U"/>
+</a>
 <!-- YOUTUBE:END -->
-</tbody>
-  </table>
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
