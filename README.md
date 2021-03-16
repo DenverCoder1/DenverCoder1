@@ -23,10 +23,12 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/DenverCoder1/weather-app-tutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-youtube-stats"></a>
+  <a href="https://github.com/DenverCoder1/weather-app-tutorial"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=0D1117&hide_border=true" alt="Unedit-for-Reddit"></a>
 </p>
 
 <p align="left">
@@ -121,8 +123,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
