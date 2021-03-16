@@ -66,44 +66,76 @@
 ## 👨‍💻 Languages and Tools
 
 <p align="center">
-  <a href="#"><img alt="JavaScript" title="JavaScript" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-  <a href="#"><img alt="HTML5" title="HTML5" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-  <a href="#"><img alt="CSS3" title="CSS3" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-  <a href="#"><img alt="PHP" title="PHP" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-  <a href="#"><img alt="Python" title="Python" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-  <a href="#"><img alt="C++" title="C++" height="36px"
-      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
-  <a href="#"><img alt="C#" title="C#" height="36px"
-      src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a>
-  <a href="#"><img alt="Java" title="Java" height="36px"
-      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a>
-  <a href="#"><img alt="Kotlin" title="Kotlin" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-  <a href="#"><img alt="Flutter" title="Flutter" height="36px"
-      src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
-  <a href="#"><img alt="NodeJS" title="NodeJS" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-  <a href="#"><img alt="SQL" title="SQL" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-  <a href="#"><img alt="Sheets" title="Sheets" height="36px"
-      src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a>
-  <a href="#"><img alt="Markdown" title="Markdown" height="36px" src="https://i.imgur.com/eO5z1xV.png" /></a>
-  <a href="#"><img alt="GitHub" title="GitHub" height="36px" src="https://i.imgur.com/DZgetVv.png" /></a>
-  <a href="#"><img alt="Terminal" title="Terminal" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-  <a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="36px"
-      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
-  <a href="#"><img alt="Android Studio" title="Android Studio" height="36px"
-      src="https://i.imgur.com/6nJGNMN.png" /></a>
-  <a href="#"><img alt="Heroku" title="Heroku" height="36px"
-      src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
-  <a href="#"><img alt="Brave" title="Brave" height="36px"
-      src="https://i.imgur.com/UfBWFbP.png" /></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
+    <img alt="JavaScript" title="JavaScript" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml">
+    <img alt="HTML5" title="HTML5" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
+    <img alt="CSS3" title="CSS3" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp">
+    <img alt="PHP" title="PHP" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython">
+    <img alt="Python" title="Python" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp">
+    <img alt="C++" title="C++" height="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp">
+    <img alt="C#" title="C#" height="36px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
+    <img alt="Java" title="Java" height="36px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin">
+    <img alt="Kotlin" title="Kotlin" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart">
+    <img alt="Flutter" title="Flutter" height="36px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
+    <img alt="NodeJS" title="NodeJS" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql">
+    <img alt="SQL" title="SQL" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  </a>
+  <a>
+    <img alt="Sheets" title="Sheets" height="36px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />
+  </a>
+  <a>
+    <img alt="Markdown" title="Markdown" height="36px" src="https://i.imgur.com/eO5z1xV.png" />
+  </a>
+  <a>
+    <img alt="GitHub" title="GitHub" height="36px" src="https://i.imgur.com/DZgetVv.png" />
+  </a>
+  <a>
+    <img alt="Terminal" title="Terminal" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  </a>
+  <a>
+    <img alt="Visual Studio" title="Visual Studio Code" height="36px"
+      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+  </a>
+  <a>
+    <img alt="Android Studio" title="Android Studio" height="36px" src="https://i.imgur.com/6nJGNMN.png" />
+  </a>
+  <a>
+    <img alt="Heroku" title="Heroku" height="36px" src="https://img.icons8.com/color/48/000000/heroku.png" />
+  </a>
+  <a>
+    <img alt="Brave" title="Brave" height="36px" src="https://i.imgur.com/UfBWFbP.png" />
+  </a>
 </p>
 
 ## 📺 Latest YouTube Videos
