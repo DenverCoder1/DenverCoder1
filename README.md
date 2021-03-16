@@ -5,7 +5,7 @@
 
 <!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20developer;Self-taught%20UI%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20developer;Self-taught%20UI%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
