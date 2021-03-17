@@ -59,7 +59,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak Stats
+## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -69,7 +69,7 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and tools
 
 <p align="center">
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
@@ -126,7 +126,7 @@
       src="https://i.imgur.com/UfBWFbP.png"></a>
 </p>
 
-## 📺 Latest YouTube Videos
+## 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
@@ -141,7 +141,7 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
-## 📊 Github Stats
+## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
