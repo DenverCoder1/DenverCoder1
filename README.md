@@ -53,17 +53,17 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-readme-stats"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-readme-stats"></a>
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-profile-readme-generator"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-profile-readme-generator"></a>
   <a href="https://github.com/scrapinghub/dateparser">
-    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="dateparser"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="dateparser"></a>
   <a href="https://github.com/arturssmirnovs/github-profile-readme-generator">
-    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=arturssmirnovs&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-profile-readme-generator"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=arturssmirnovs&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-profile-readme-generator"></a>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-readme-activity-graph"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-readme-activity-graph"></a>
   <a href="https://github.com/icanhazstring/random-issue-picker">
-    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=icanhazstring&repo=random-issue-picker&hide_border=true&bg_color=0D1117&theme=react&show_icons=false#" alt="random-issue-picker"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=icanhazstring&repo=random-issue-picker&hide_border=true&bg_color=0D1117&theme=react&show_icons=false#" alt="random-issue-picker"></a>
 </p>
 
 <p align="left">
