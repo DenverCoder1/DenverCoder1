@@ -30,21 +30,44 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-youtube-stats"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-readme-youtube-stats"></a>
   <a href="https://github.com/DenverCoder1/weather-app-tutorial">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
   <a href="https://github.com/DenverCoder1/unicode-formatter">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
   <a href="https://github.com/DenverCoder1/Unedit-for-Reddit">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&hide_border=true&bg_color=0D1117&theme=react" alt="Unedit-for-Reddit"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&hide_border=true&bg_color=0D1117&theme=react&show_icons=false" alt="Unedit-for-Reddit"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+## 📘 Top projects I've contributed to
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-readme-stats"></a>
+  <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/scrapinghub/dateparser">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="dateparser"></a>
+  <a href="https://github.com/arturssmirnovs/github-profile-readme-generator">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=arturssmirnovs&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=0D1117&hide_border=true&show_icons=false#" alt="github-readme-activity-graph"></a>
+  <a href="https://github.com/icanhazstring/random-issue-picker">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=icanhazstring&repo=random-issue-picker&hide_border=true&bg_color=0D1117&theme=react&show_icons=false#" alt="random-issue-picker"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Forks-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
