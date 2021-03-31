@@ -24,7 +24,7 @@
     <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
 
-## 📘 My top open source projects
+## 📗 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
