@@ -24,7 +24,7 @@
     <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
 
-## 📗 My top open source projects
+## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -47,7 +47,7 @@
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-## 📘 Top projects I've contributed to
+## 📕 Top projects I've contributed to
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
