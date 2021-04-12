@@ -184,11 +184,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/DenverCoder1/github-readme-streak-stats/issues/67) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#29](https://github.com/DenverCoder1/github-readme-streak-stats/issues/29) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#151](https://github.com/DenverCoder1/jct-discord-bot/pull/151) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 💪 Opened PR [#151](https://github.com/DenverCoder1/jct-discord-bot/pull/151) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#66](https://github.com/DenverCoder1/github-readme-streak-stats/pull/66) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Opened issue [#61](https://github.com/maguowei/starred/issues/61) in [maguowei/starred](https://github.com/maguowei/starred)
+2. 💪 Opened PR [#70](https://github.com/DenverCoder1/github-readme-streak-stats/pull/70) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Opened issue [#69](https://github.com/DenverCoder1/github-readme-streak-stats/issues/69) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#68](https://github.com/DenverCoder1/github-readme-streak-stats/pull/68) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Closed issue [#67](https://github.com/DenverCoder1/github-readme-streak-stats/issues/67) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
