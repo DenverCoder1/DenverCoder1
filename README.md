@@ -30,17 +30,17 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-readme-youtube-stats"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-youtube-stats"></a>
   <a href="https://github.com/DenverCoder1/weather-app-tutorial">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
   <a href="https://github.com/DenverCoder1/unicode-formatter">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
   <a href="https://github.com/DenverCoder1/Unedit-for-Reddit">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&hide_border=true&bg_color=0D1117&theme=react&show_icons=false" alt="Unedit-for-Reddit"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Unedit-for-Reddit"></a>
 </p>
 
 <p align="left">
@@ -53,17 +53,17 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
   <a href="https://github.com/scrapinghub/dateparser">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="dateparser"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="dateparser"></a>
   <a href="https://github.com/Justineo/github-hovercard">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Justineo&repo=github-hovercard&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-hovercard"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Justineo&repo=github-hovercard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-hovercard"></a>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=0D1117&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
   <a href="https://github.com/icanhazstring/random-issue-picker">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=icanhazstring&repo=random-issue-picker&hide_border=true&bg_color=0D1117&theme=react&show_icons=false" alt="random-issue-picker"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=icanhazstring&repo=random-issue-picker&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="random-issue-picker"></a>
 </p>
 
 <p align="left">
@@ -88,7 +88,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
@@ -156,12 +156,12 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-[![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA&title=60D9FA)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
-[![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM&title=60D9FA)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")
-[![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8&title=60D9FA)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")
-[![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U&title=60D9FA)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
-[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ&title=60D9FA)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")
-[![Build a Weather App with HTML, CSS & JavaScript](https://freshidea.com/jonah/app/youtube-card/?id=WZNG8UomjSI&title=60D9FA)](https://www.youtube.com/watch?v=WZNG8UomjSI "Build a Weather App with HTML, CSS & JavaScript")<!-- YOUTUBE:END -->
+[![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
+[![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")
+[![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")
+[![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
+[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")
+[![Build a Weather App with HTML, CSS & JavaScript](https://freshidea.com/jonah/app/youtube-card/?id=WZNG8UomjSI)](https://www.youtube.com/watch?v=WZNG8UomjSI "Build a Weather App with HTML, CSS & JavaScript")<!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
@@ -171,8 +171,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -193,4 +193,4 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
