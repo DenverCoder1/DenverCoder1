@@ -184,11 +184,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/DenverCoder1/github-readme-streak-stats/pull/80) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#75](https://github.com/DenverCoder1/github-readme-streak-stats/issues/75) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#80](https://github.com/DenverCoder1/github-readme-streak-stats/issues/80) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#159](https://github.com/DenverCoder1/jct-discord-bot/pull/159) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. ❗️ Closed issue [#158](https://github.com/DenverCoder1/jct-discord-bot/issues/158) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. ❗️ Closed issue [#1](https://github.com/DenverCoder1/unicode-formatter/issues/1) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+2. 🎉 Merged PR [#14](https://github.com/DenverCoder1/unicode-formatter/pull/14) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+3. 💪 Opened PR [#14](https://github.com/DenverCoder1/unicode-formatter/pull/14) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+4. 🎉 Merged PR [#13](https://github.com/DenverCoder1/unicode-formatter/pull/13) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+5. ❗️ Closed issue [#12](https://github.com/DenverCoder1/unicode-formatter/issues/12) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
 <!--END_SECTION:activity-->
 </details>
 
