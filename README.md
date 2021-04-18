@@ -184,11 +184,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/DenverCoder1/unicode-formatter/issues/1) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-2. 🎉 Merged PR [#14](https://github.com/DenverCoder1/unicode-formatter/pull/14) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-3. 💪 Opened PR [#14](https://github.com/DenverCoder1/unicode-formatter/pull/14) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. 🎉 Merged PR [#13](https://github.com/DenverCoder1/unicode-formatter/pull/13) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. ❗️ Closed issue [#12](https://github.com/DenverCoder1/unicode-formatter/issues/12) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+1. 🎉 Merged PR [#165](https://github.com/DenverCoder1/jct-discord-bot/pull/165) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#164](https://github.com/DenverCoder1/jct-discord-bot/pull/164) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#163](https://github.com/DenverCoder1/jct-discord-bot/pull/163) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#162](https://github.com/DenverCoder1/jct-discord-bot/pull/162) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#161](https://github.com/DenverCoder1/jct-discord-bot/pull/161) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
