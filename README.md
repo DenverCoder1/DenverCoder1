@@ -132,7 +132,6 @@
 
 <p align="center">
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="CodeMirror" src="https://img.shields.io/badge/CodeMirror-D30707.svg?&style=for-the-badge&logo=codemirror&logoColor=white"></a>
     <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-03EF62.svg?&style=for-the-badge&logo=coursera&logoColor=white"></a>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=white"></a>
