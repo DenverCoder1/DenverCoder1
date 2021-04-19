@@ -117,54 +117,64 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
-## 🧰 Development Tools
+## 💻 Development Environments
 
 <p align="center">
-    <a href="#-development-tools"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="CodeMirror" src="https://img.shields.io/badge/CodeMirror-D30707.svg?&style=for-the-badge&logo=codemirror&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-03EF62.svg?&style=for-the-badge&logo=coursera&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black"></a>
-    <a href="#-development-tools"><img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express&style=for-the-badge&logoColor=white"></a>
-    <a href="#-development-tools"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://github.com/DenverCoder1"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Google Sheets" src="https://img.shields.io/badge/google%20sheets%20-%2334A853.svg?&style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-    <a href="#-develoment-tools"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/11608064/denvercoder1"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-    <a href="#-develoment-tools"><img alt=".Net/WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?&style=for-the-badge&logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/google%20sheets%20-%2334A853.svg?&style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+## 🧰 Frameworks and Libraries
+
+<p align="center">
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="CodeMirror" src="https://img.shields.io/badge/CodeMirror-D30707.svg?&style=for-the-badge&logo=codemirror&logoColor=white"></a>
+    <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-03EF62.svg?&style=for-the-badge&logo=coursera&logoColor=white"></a>
+    <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black"></a>
+    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express&style=for-the-badge&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt=".Net/WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+</p>
+
+## 🗄️ Hosting and Database Management
+
+<p align="center">
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ## 🛠️ Other Tools
 
 <p align="center">
-    <a href="#-other-tools"><img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?style=for-the-badge&logo=dark-reader&logoColor=white"></a>
-    <a href="#-other-tools"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?&style=for-the-badge&logo=wolfram-mathematica&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?style=for-the-badge&logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?&style=for-the-badge&logo=wolfram-mathematica&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/11608064/denvercoder1"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
 ## 📺 Latest YouTube videos
