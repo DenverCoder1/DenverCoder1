@@ -46,18 +46,12 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
-  <a href="https://github.com/scrapinghub/dateparser">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="dateparser"></a>
-  <a href="https://github.com/Justineo/github-hovercard">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Justineo&repo=github-hovercard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-hovercard"></a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-  <a href="https://github.com/icanhazstring/random-issue-picker">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=icanhazstring&repo=random-issue-picker&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="random-issue-picker"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/scrapinghub/dateparser"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="dateparser"></a>
+  <a href="https://github.com/Justineo/github-hovercard"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Justineo&repo=github-hovercard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-hovercard"></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+  <a href="https://github.com/Hermanya/friendly-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hermanya&repo=friendly-github&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="friendly-github"></a>
 </p>
 
 <p align="left">
