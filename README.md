@@ -211,11 +211,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/DenverCoder1/github-readme-streak-stats/issues/83) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#85](https://github.com/DenverCoder1/github-readme-streak-stats/pull/85) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#85](https://github.com/DenverCoder1/github-readme-streak-stats/pull/85) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#83](https://github.com/DenverCoder1/github-readme-streak-stats/issues/83) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#84](https://github.com/DenverCoder1/github-readme-streak-stats/pull/84) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 💪 Opened PR [#12](https://github.com/Hermanya/friendly-github/pull/12) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
+2. ❗️ Opened issue [#11](https://github.com/Hermanya/friendly-github/issues/11) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
+3. 💪 Opened PR [#10](https://github.com/Hermanya/friendly-github/pull/10) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
+4. ❗️ Opened issue [#9](https://github.com/Hermanya/friendly-github/issues/9) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
+5. 🗣 Commented on [#7](https://github.com/DenverCoder1/readme-typing-svg/issues/7) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 </details>
 
