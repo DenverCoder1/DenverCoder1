@@ -194,11 +194,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5506](https://github.com/simple-icons/simple-icons/issues/5506) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🎉 Merged PR [#2](https://github.com/DenverCoder1/DenverCoder1/pull/2) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-3. 💪 Opened PR [#2](https://github.com/DenverCoder1/DenverCoder1/pull/2) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-4. 🗣 Commented on [#3556](https://github.com/simple-icons/simple-icons/issues/3556) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#7](https://github.com/DenverCoder1/readme-typing-svg/issues/7) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#5518](https://github.com/simple-icons/simple-icons/issues/5518) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 💪 Opened PR [#5518](https://github.com/simple-icons/simple-icons/pull/5518) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#5517](https://github.com/simple-icons/simple-icons/issues/5517) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 </details>
 
