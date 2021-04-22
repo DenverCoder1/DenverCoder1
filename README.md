@@ -208,10 +208,10 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Hermanya/friendly-github/pull/12) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
-2. ❗️ Opened issue [#11](https://github.com/Hermanya/friendly-github/issues/11) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
-3. 💪 Opened PR [#10](https://github.com/Hermanya/friendly-github/pull/10) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
-4. ❗️ Opened issue [#9](https://github.com/Hermanya/friendly-github/issues/9) in [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github)
+1. ❗️ Opened issue [#5506](https://github.com/simple-icons/simple-icons/issues/5506) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#2](https://github.com/DenverCoder1/DenverCoder1/pull/2) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
+3. 💪 Opened PR [#2](https://github.com/DenverCoder1/DenverCoder1/pull/2) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
+4. 🗣 Commented on [#3556](https://github.com/simple-icons/simple-icons/issues/3556) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 5. 🗣 Commented on [#7](https://github.com/DenverCoder1/readme-typing-svg/issues/7) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 </details>
