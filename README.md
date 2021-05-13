@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/DenverCoder1/give-and-take-bot/pull/9) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-2. 💪 Opened PR [#9](https://github.com/DenverCoder1/give-and-take-bot/pull/9) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-3. 🎉 Merged PR [#8](https://github.com/DenverCoder1/give-and-take-bot/pull/8) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-4. 💪 Opened PR [#8](https://github.com/DenverCoder1/give-and-take-bot/pull/8) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-5. 🎉 Merged PR [#7](https://github.com/DenverCoder1/give-and-take-bot/pull/7) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+1. 🎉 Merged PR [#23](https://github.com/DenverCoder1/unicode-formatter/pull/23) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+2. 💪 Opened PR [#23](https://github.com/DenverCoder1/unicode-formatter/pull/23) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+3. 🎉 Merged PR [#10](https://github.com/DenverCoder1/give-and-take-bot/pull/10) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+4. 💪 Opened PR [#10](https://github.com/DenverCoder1/give-and-take-bot/pull/10) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+5. 🎉 Merged PR [#183](https://github.com/DenverCoder1/jct-discord-bot/pull/183) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
