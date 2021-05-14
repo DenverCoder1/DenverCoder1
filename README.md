@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/DenverCoder1/unicode-formatter/pull/23) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-2. 💪 Opened PR [#23](https://github.com/DenverCoder1/unicode-formatter/pull/23) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-3. 🎉 Merged PR [#10](https://github.com/DenverCoder1/give-and-take-bot/pull/10) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-4. 💪 Opened PR [#10](https://github.com/DenverCoder1/give-and-take-bot/pull/10) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-5. 🎉 Merged PR [#183](https://github.com/DenverCoder1/jct-discord-bot/pull/183) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#6](https://github.com/DenverCoder1/weasley-chess-bot/pull/6) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 💪 Opened PR [#6](https://github.com/DenverCoder1/weasley-chess-bot/pull/6) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/1) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 💪 Opened PR [#1](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/1) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. ❗️ Opened issue [#3](https://github.com/saviomartin/loficlub/issues/3) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
 <!--END_SECTION:activity-->
 </details>
 
