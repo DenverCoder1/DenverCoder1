@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DenverCoder1/weasley-chess-bot/pull/6) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-2. 💪 Opened PR [#6](https://github.com/DenverCoder1/weasley-chess-bot/pull/6) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/1) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 💪 Opened PR [#1](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/1) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. ❗️ Opened issue [#3](https://github.com/saviomartin/loficlub/issues/3) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+1. 🎉 Merged PR [#13](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/13) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 💪 Opened PR [#13](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/13) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+3. 🎉 Merged PR [#12](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/12) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+4. 💪 Opened PR [#12](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/12) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+5. 🎉 Merged PR [#11](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/11) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
