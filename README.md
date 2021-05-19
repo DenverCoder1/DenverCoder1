@@ -185,12 +185,12 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
+[![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ&title=FFFFFF)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")
 [![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA&title=FFFFFF)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
 [![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM&title=FFFFFF)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")
 [![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8&title=FFFFFF)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")
 [![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U&title=FFFFFF)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
-[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ&title=FFFFFF)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")
-[![Build a Weather App with HTML, CSS & JavaScript](https://freshidea.com/jonah/app/youtube-card/?id=WZNG8UomjSI&title=FFFFFF)](https://www.youtube.com/watch?v=WZNG8UomjSI "Build a Weather App with HTML, CSS & JavaScript")<!-- YOUTUBE:END -->
+[![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ&title=FFFFFF)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")<!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
