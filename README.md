@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/3) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-2. 🎉 Merged PR [#2](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/2) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/1) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-4. 💪 Opened PR [#1](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/1) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-5. 🎉 Merged PR [#7](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot/pull/7) in [DenverCoder1/Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot)
+1. 🎉 Merged PR [#185](https://github.com/DenverCoder1/jct-discord-bot/pull/185) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 💪 Opened PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 🎉 Merged PR [#2](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/2) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 💪 Opened PR [#2](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/2) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
 <!--END_SECTION:activity-->
 </details>
 
