@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/DenverCoder1/jct-discord-bot/pull/185) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 💪 Opened PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 🎉 Merged PR [#2](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/2) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. 💪 Opened PR [#2](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/2) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+1. 🗣 Commented on [#2](https://github.com/DenverCoder1/readme-typing-svg/issues/2) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#2](https://github.com/DenverCoder1/readme-typing-svg/issues/2) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#185](https://github.com/DenverCoder1/jct-discord-bot/pull/185) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 💪 Opened PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
 <!--END_SECTION:activity-->
 </details>
 
