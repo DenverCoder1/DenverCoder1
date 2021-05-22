@@ -21,7 +21,7 @@
   <a href="https://github.com/DenverCoder1">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
+    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 ## 📘 My top open source projects
