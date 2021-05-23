@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#2](https://github.com/DenverCoder1/readme-typing-svg/issues/2) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🗣 Commented on [#95](https://github.com/DenverCoder1/github-readme-streak-stats/issues/95) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 3. 🗣 Commented on [#2](https://github.com/DenverCoder1/readme-typing-svg/issues/2) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🎉 Merged PR [#185](https://github.com/DenverCoder1/jct-discord-bot/pull/185) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#3](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/3) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 🗣 Commented on [#2](https://github.com/DenverCoder1/readme-typing-svg/issues/2) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🎉 Merged PR [#185](https://github.com/DenverCoder1/jct-discord-bot/pull/185) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
