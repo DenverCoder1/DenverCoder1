@@ -214,10 +214,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/patrickxchong/hide-discord-sidebar/issues/4) in [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar)
-2. 🎉 Merged PR [#34](https://github.com/DenverCoder1/readme-typing-svg/pull/34) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#103](https://github.com/DenverCoder1/github-readme-streak-stats/pull/103) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#103](https://github.com/DenverCoder1/github-readme-streak-stats/pull/103) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#102](https://github.com/DenverCoder1/github-readme-streak-stats/pull/102) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#190](https://github.com/DenverCoder1/jct-discord-bot/pull/190) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#189](https://github.com/DenverCoder1/jct-discord-bot/pull/189) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#8](https://github.com/DenverCoder1/weasley-chess-bot/pull/8) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+5. 🎉 Merged PR [#14](https://github.com/DenverCoder1/give-and-take-bot/pull/14) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
 <!--END_SECTION:activity-->
 </details>
 
