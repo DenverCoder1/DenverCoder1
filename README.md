@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Simple-View-Counter/pull/1) in [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
-2. 💪 Opened PR [#1](https://github.com/DenverCoder1/Simple-View-Counter/pull/1) in [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
+1. 🎉 Merged PR [#14](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/14) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 💪 Opened PR [#14](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/14) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
 3. 🗣 Commented on [#4](https://github.com/patrickxchong/hide-discord-sidebar/issues/4) in [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar)
-4. 🎉 Merged PR [#190](https://github.com/DenverCoder1/jct-discord-bot/pull/190) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#189](https://github.com/DenverCoder1/jct-discord-bot/pull/189) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Simple-View-Counter/pull/1) in [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
+5. 💪 Opened PR [#1](https://github.com/DenverCoder1/Simple-View-Counter/pull/1) in [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
 <!--END_SECTION:activity-->
 </details>
 
