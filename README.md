@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/14) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-2. 💪 Opened PR [#14](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/14) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+1. 🎉 Merged PR [#10](https://github.com/DenverCoder1/weasley-chess-bot/pull/10) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 💪 Opened PR [#10](https://github.com/DenverCoder1/weasley-chess-bot/pull/10) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
 3. 🗣 Commented on [#4](https://github.com/patrickxchong/hide-discord-sidebar/issues/4) in [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar)
-4. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Simple-View-Counter/pull/1) in [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
-5. 💪 Opened PR [#1](https://github.com/DenverCoder1/Simple-View-Counter/pull/1) in [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
+4. 🎉 Merged PR [#9](https://github.com/DenverCoder1/weasley-chess-bot/pull/9) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+5. 💪 Opened PR [#9](https://github.com/DenverCoder1/weasley-chess-bot/pull/9) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
 <!--END_SECTION:activity-->
 </details>
 
