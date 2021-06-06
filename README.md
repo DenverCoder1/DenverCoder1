@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/21) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-2. 💪 Opened PR [#21](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/21) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-3. 🗣 Commented on [#5474](https://github.com/simple-icons/simple-icons/issues/5474) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#12](https://github.com/DenverCoder1/weasley-chess-bot/pull/12) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+1. 🗣 Commented on [#197](https://github.com/DenverCoder1/jct-discord-bot/issues/197) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#21](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/21) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+3. 💪 Opened PR [#21](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/21) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
+4. 🗣 Commented on [#5474](https://github.com/simple-icons/simple-icons/issues/5474) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 </details>
 
