@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/DenverCoder1/jct-discord-bot/issues/197) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#21](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/21) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-3. 💪 Opened PR [#21](https://github.com/DenverCoder1/github-readme-youtube-stats/pull/21) in [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
-4. 🗣 Commented on [#5474](https://github.com/simple-icons/simple-icons/issues/5474) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#5871](https://github.com/simple-icons/simple-icons/pull/5871) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#15](https://github.com/DenverCoder1/give-and-take-bot/pull/15) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+3. 🎉 Merged PR [#13](https://github.com/DenverCoder1/weasley-chess-bot/pull/13) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+4. 🎉 Merged PR [#200](https://github.com/DenverCoder1/jct-discord-bot/pull/200) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#35](https://github.com/DenverCoder1/readme-typing-svg/pull/35) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 </details>
 
