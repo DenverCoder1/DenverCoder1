@@ -15,7 +15,7 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCipSxT7a3rn81vGLw9lqRkg"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
           template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
           committer_email: "jonah@freshidea.com"
