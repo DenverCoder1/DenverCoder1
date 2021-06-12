@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/DenverCoder1/table2ascii/pull/12) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. 💪 Opened PR [#12](https://github.com/DenverCoder1/table2ascii/pull/12) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 🎉 Merged PR [#11](https://github.com/DenverCoder1/table2ascii/pull/11) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-4. 💪 Opened PR [#11](https://github.com/DenverCoder1/table2ascii/pull/11) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 🎉 Merged PR [#3](https://github.com/DenverCoder1/DenverCoder1/pull/3) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
+1. ❗️ Closed issue [#17](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/17) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. 🗣 Commented on [#17](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/17) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🎉 Merged PR [#12](https://github.com/DenverCoder1/table2ascii/pull/12) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 💪 Opened PR [#12](https://github.com/DenverCoder1/table2ascii/pull/12) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. 🎉 Merged PR [#11](https://github.com/DenverCoder1/table2ascii/pull/11) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 </details>
 
