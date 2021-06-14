@@ -213,11 +213,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/16) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-2. 💪 Opened PR [#16](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/16) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-3. ❗️ Closed issue [#17](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/17) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#17](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/17) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 🎉 Merged PR [#12](https://github.com/DenverCoder1/table2ascii/pull/12) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🎉 Merged PR [#4](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/4) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+2. 🎉 Merged PR [#16](https://github.com/DenverCoder1/give-and-take-bot/pull/16) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+3. 🎉 Merged PR [#16](https://github.com/DenverCoder1/weasley-chess-bot/pull/16) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+4. 🎉 Merged PR [#15](https://github.com/DenverCoder1/weasley-chess-bot/pull/15) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+5. 🎉 Merged PR [#205](https://github.com/DenverCoder1/jct-discord-bot/pull/205) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
