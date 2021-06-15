@@ -129,7 +129,8 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%233C9CD7.svg?logo=jekyll&logoColor=white"></a>
+    <a href="#"><img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%23366488.svg?logo=jekyll&logoColor=white"></a>
+    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%23111111.svg?logo=symfony&logoColor=white"></a>
