@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/DenverCoder1/jct-discord-bot/issues/209) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. ❗️ Opened issue [#209](https://github.com/DenverCoder1/jct-discord-bot/issues/209) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#17](https://github.com/DenverCoder1/weasley-chess-bot/pull/17) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-4. 🗣 Commented on [#5871](https://github.com/simple-icons/simple-icons/issues/5871) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#208](https://github.com/DenverCoder1/jct-discord-bot/pull/208) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#37](https://github.com/DenverCoder1/readme-typing-svg/pull/37) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Closed issue [#36](https://github.com/DenverCoder1/readme-typing-svg/issues/36) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 💪 Opened PR [#37](https://github.com/DenverCoder1/readme-typing-svg/pull/37) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Opened issue [#36](https://github.com/DenverCoder1/readme-typing-svg/issues/36) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. ❗️ Closed issue [#1](https://github.com/skilldisk/skilldisk/issues/1) in [skilldisk/skilldisk](https://github.com/skilldisk/skilldisk)
 <!--END_SECTION:activity-->
 </details>
 
