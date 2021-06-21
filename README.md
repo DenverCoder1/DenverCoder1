@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/DenverCoder1/jct-discord-bot/pull/210) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#37](https://github.com/DenverCoder1/readme-typing-svg/pull/37) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❗️ Closed issue [#36](https://github.com/DenverCoder1/readme-typing-svg/issues/36) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#37](https://github.com/DenverCoder1/readme-typing-svg/pull/37) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. ❗️ Opened issue [#36](https://github.com/DenverCoder1/readme-typing-svg/issues/36) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#17](https://github.com/DenverCoder1/give-and-take-bot/pull/17) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+2. 🎉 Merged PR [#211](https://github.com/DenverCoder1/jct-discord-bot/pull/211) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#5](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/5) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+4. 🎉 Merged PR [#210](https://github.com/DenverCoder1/jct-discord-bot/pull/210) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#37](https://github.com/DenverCoder1/readme-typing-svg/pull/37) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 </details>
 
