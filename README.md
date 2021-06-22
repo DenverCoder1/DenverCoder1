@@ -38,7 +38,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyLjVBMi41IDIuNSAwIDAxNC41IDBoOC43NWEuNzUuNzUgMCAwMS43NS43NXYxMi41YS43NS43NSAwIDAxLS43NS43NWgtMi41YS43NS43NSAwIDExMC0xLjVoMS43NXYtMmgtOGExIDEgMCAwMC0uNzE0IDEuNy43NS43NSAwIDAxLTEuMDcyIDEuMDVBMi40OTUgMi40OTUgMCAwMTIgMTEuNXYtOXptMTAuNS0xVjloLThjLS4zNTYgMC0uNjk0LjA3NC0xIC4yMDhWMi41YTEgMSAwIDAxMS0xaDh6TTUgMTIuMjV2My4yNWEuMjUuMjUgMCAwMC40LjJsMS40NS0xLjA4N2EuMjUuMjUgMCAwMS4zIDBMOC42IDE1LjdhLjI1LjI1IDAgMDAuNC0uMnYtMy4yNWEuMjUuMjUgMCAwMC0uMjUtLjI1aC0zLjVhLjI1LjI1IDAgMDAtLjI1LjI1eiIgIGZpbGw9IiNmZmYiLz48L3N2Zz4="/></a>
 </p>
 
 ## 📕 Top projects I've contributed to
@@ -55,7 +55,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Forks-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzLjI1YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTAgMi4xMjJhMi4yNSAyLjI1IDAgMTAtMS41IDB2Ljg3OEEyLjI1IDIuMjUgMCAwMDUuNzUgOC41aDEuNXYyLjEyOGEyLjI1MSAyLjI1MSAwIDEwMS41IDBWOC41aDEuNWEyLjI1IDIuMjUgMCAwMDIuMjUtMi4yNXYtLjg3OGEyLjI1IDIuMjUgMCAxMC0xLjUgMHYuODc4YS43NS43NSAwIDAxLS43NS43NWgtNC41QS43NS43NSAwIDAxNSA2LjI1di0uODc4em0zLjc1IDcuMzc4YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTMtOC43NWEuNzUuNzUgMCAxMDAtMS41Ljc1Ljc1IDAgMDAwIDEuNXoiIGZpbGw9IiNmZmYiPjwvcGF0aD48L3N2Zz4="/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
