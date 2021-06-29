@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/DenverCoder1/readme-typing-svg/pull/39) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 💪 Opened PR [#39](https://github.com/DenverCoder1/readme-typing-svg/pull/39) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#22](https://github.com/DenverCoder1/weasley-chess-bot/pull/22) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-4. 🎉 Merged PR [#216](https://github.com/DenverCoder1/jct-discord-bot/pull/216) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#21](https://github.com/DenverCoder1/give-and-take-bot/pull/21) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+1. 🗣 Commented on [#92](https://github.com/DXsmiley/mathbot/issues/92) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
+2. ❗️ Opened issue [#92](https://github.com/DXsmiley/mathbot/issues/92) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
+3. 🎉 Merged PR [#39](https://github.com/DenverCoder1/readme-typing-svg/pull/39) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 💪 Opened PR [#39](https://github.com/DenverCoder1/readme-typing-svg/pull/39) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🎉 Merged PR [#22](https://github.com/DenverCoder1/weasley-chess-bot/pull/22) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
 <!--END_SECTION:activity-->
 </details>
 
