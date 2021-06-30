@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/DXsmiley/mathbot/issues/92) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
-2. ❗️ Opened issue [#92](https://github.com/DXsmiley/mathbot/issues/92) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
-3. 🎉 Merged PR [#39](https://github.com/DenverCoder1/readme-typing-svg/pull/39) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#39](https://github.com/DenverCoder1/readme-typing-svg/pull/39) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#22](https://github.com/DenverCoder1/weasley-chess-bot/pull/22) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+1. 🎉 Merged PR [#5](https://github.com/DenverCoderOne/math-bot-with-steps/pull/5) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
+2. 💪 Opened PR [#5](https://github.com/DenverCoderOne/math-bot-with-steps/pull/5) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
+3. 🎉 Merged PR [#4](https://github.com/DenverCoderOne/math-bot-with-steps/pull/4) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
+4. 💪 Opened PR [#4](https://github.com/DenverCoderOne/math-bot-with-steps/pull/4) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
+5. 🎉 Merged PR [#3](https://github.com/DenverCoderOne/math-bot-with-steps/pull/3) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
 <!--END_SECTION:activity-->
 </details>
 
