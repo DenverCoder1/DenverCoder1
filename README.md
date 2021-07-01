@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/DenverCoderOne/math-bot-with-steps/pull/5) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
-2. 💪 Opened PR [#5](https://github.com/DenverCoderOne/math-bot-with-steps/pull/5) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
-3. 🎉 Merged PR [#4](https://github.com/DenverCoderOne/math-bot-with-steps/pull/4) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
-4. 💪 Opened PR [#4](https://github.com/DenverCoderOne/math-bot-with-steps/pull/4) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
-5. 🎉 Merged PR [#3](https://github.com/DenverCoderOne/math-bot-with-steps/pull/3) in [DenverCoderOne/math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps)
+1. 🎉 Merged PR [#4](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/4) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+2. 💪 Opened PR [#4](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/4) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 🎉 Merged PR [#18](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/18) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 🗣 Commented on [#18](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/18) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. 💪 Opened PR [#95](https://github.com/DXsmiley/mathbot/pull/95) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
 <!--END_SECTION:activity-->
 </details>
 
