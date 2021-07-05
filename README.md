@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/DenverCoder1/weather-app-tutorial/issues/1) in [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial)
-2. 🗣 Commented on [#1](https://github.com/DenverCoder1/weather-app-tutorial/issues/1) in [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial)
-3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/give-and-take-bot/pull/23) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-4. 🎉 Merged PR [#219](https://github.com/DenverCoder1/jct-discord-bot/pull/219) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#4](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/4) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+1. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Closed issue [#1](https://github.com/DenverCoder1/weather-app-tutorial/issues/1) in [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial)
 <!--END_SECTION:activity-->
 </details>
 
