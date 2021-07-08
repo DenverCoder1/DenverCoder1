@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#107](https://github.com/DenverCoder1/github-readme-streak-stats/issues/107) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Closed issue [#1](https://github.com/DenverCoder1/weather-app-tutorial/issues/1) in [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial)
+1. 🎉 Merged PR [#40](https://github.com/DenverCoder1/readme-typing-svg/pull/40) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#40](https://github.com/DenverCoder1/readme-typing-svg/pull/40) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#108](https://github.com/DenverCoder1/github-readme-streak-stats/pull/108) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#108](https://github.com/DenverCoder1/github-readme-streak-stats/pull/108) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#26](https://github.com/DenverCoder1/weasley-chess-bot/pull/26) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
 <!--END_SECTION:activity-->
 </details>
 
