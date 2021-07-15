@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DenverCoder1/play-lichess/pull/1) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
-2. 🗣 Commented on [#199](https://github.com/DenverCoder1/jct-discord-bot/issues/199) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#28](https://github.com/DenverCoder1/weasley-chess-bot/pull/28) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-4. 🎉 Merged PR [#226](https://github.com/DenverCoder1/jct-discord-bot/pull/226) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 💪 Opened PR [#226](https://github.com/DenverCoder1/jct-discord-bot/pull/226) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#20](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/20) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+2. 💪 Opened PR [#20](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/20) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+3. 🎉 Merged PR [#19](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/19) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+4. 💪 Opened PR [#19](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/19) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+5. 🎉 Merged PR [#17](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/17) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
 <!--END_SECTION:activity-->
 </details>
 
