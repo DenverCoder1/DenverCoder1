@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/20) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
-2. 💪 Opened PR [#20](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/20) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
-3. 🎉 Merged PR [#19](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/19) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
-4. 💪 Opened PR [#19](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/19) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
-5. 🎉 Merged PR [#17](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/17) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+1. ❗️ Opened issue [#6110](https://github.com/simple-icons/simple-icons/issues/6110) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Opened issue [#229](https://github.com/DenverCoder1/jct-discord-bot/issues/229) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#20](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/20) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+4. 💪 Opened PR [#20](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/20) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
+5. 🎉 Merged PR [#19](https://github.com/DenverCoder1/Java-Ray-Tracing-Project/pull/19) in [DenverCoder1/Java-Ray-Tracing-Project](https://github.com/DenverCoder1/Java-Ray-Tracing-Project)
 <!--END_SECTION:activity-->
 </details>
 
