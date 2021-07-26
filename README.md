@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/DenverCoder1/give-and-take-bot/pull/25) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-2. 🎉 Merged PR [#27](https://github.com/DenverCoder1/weasley-chess-bot/pull/27) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-3. 🎉 Merged PR [#19](https://github.com/DenverCoder1/custom-icon-badges/pull/19) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#13](https://github.com/DenverCoder1/table2ascii/pull/13) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 💪 Opened PR [#13](https://github.com/DenverCoder1/table2ascii/pull/13) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🎉 Merged PR [#26](https://github.com/DenverCoder1/give-and-take-bot/pull/26) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+2. 🎉 Merged PR [#221](https://github.com/DenverCoder1/jct-discord-bot/pull/221) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#230](https://github.com/DenverCoder1/jct-discord-bot/pull/230) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#231](https://github.com/DenverCoder1/jct-discord-bot/pull/231) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#22](https://github.com/DenverCoder1/custom-icon-badges/pull/22) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
