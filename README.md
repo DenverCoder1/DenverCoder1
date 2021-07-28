@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#232](https://github.com/DenverCoder1/jct-discord-bot/pull/232) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#25](https://github.com/DenverCoder1/custom-icon-badges/pull/25) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/custom-icon-badges/pull/23) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🗣 Commented on [#114](https://github.com/DenverCoder1/github-readme-streak-stats/issues/114) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#29](https://github.com/DenverCoder1/weasley-chess-bot/pull/29) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+1. 🎉 Merged PR [#26](https://github.com/DenverCoder1/custom-icon-badges/pull/26) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#232](https://github.com/DenverCoder1/jct-discord-bot/pull/232) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#25](https://github.com/DenverCoder1/custom-icon-badges/pull/25) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#23](https://github.com/DenverCoder1/custom-icon-badges/pull/23) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🗣 Commented on [#114](https://github.com/DenverCoder1/github-readme-streak-stats/issues/114) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
