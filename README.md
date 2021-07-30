@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/albertlauncher/plugins/issues/50) in [albertlauncher/plugins](https://github.com/albertlauncher/plugins)
-2. 🎉 Merged PR [#4](https://github.com/DenverCoder1/godel-number-to-code/pull/4) in [DenverCoder1/godel-number-to-code](https://github.com/DenverCoder1/godel-number-to-code)
-3. 💪 Opened PR [#4](https://github.com/DenverCoder1/godel-number-to-code/pull/4) in [DenverCoder1/godel-number-to-code](https://github.com/DenverCoder1/godel-number-to-code)
-4. 🎉 Merged PR [#3](https://github.com/DenverCoder1/godel-number-to-code/pull/3) in [DenverCoder1/godel-number-to-code](https://github.com/DenverCoder1/godel-number-to-code)
-5. 💪 Opened PR [#3](https://github.com/DenverCoder1/godel-number-to-code/pull/3) in [DenverCoder1/godel-number-to-code](https://github.com/DenverCoder1/godel-number-to-code)
+1. 🎉 Merged PR [#5](https://github.com/DenverCoder1/godel-program-converter/pull/5) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
+2. 💪 Opened PR [#5](https://github.com/DenverCoder1/godel-program-converter/pull/5) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
+3. 🎉 Merged PR [#233](https://github.com/DenverCoder1/jct-discord-bot/pull/233) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 💪 Opened PR [#99](https://github.com/DXsmiley/mathbot/pull/99) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
+5. ❗️ Opened issue [#98](https://github.com/DXsmiley/mathbot/issues/98) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
 <!--END_SECTION:activity-->
 </details>
 
