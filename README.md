@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/DenverCoder1/godel-program-converter/pull/7) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
-2. 💪 Opened PR [#7](https://github.com/DenverCoder1/godel-program-converter/pull/7) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
-3. 🎉 Merged PR [#6](https://github.com/DenverCoder1/godel-program-converter/pull/6) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
-4. 💪 Opened PR [#6](https://github.com/DenverCoder1/godel-program-converter/pull/6) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
-5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/godel-program-converter/pull/5) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
+1. 🎉 Merged PR [#19](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/19) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 🎉 Merged PR [#18](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/18) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+3. 🎉 Merged PR [#17](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/17) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+4. 💪 Opened PR [#17](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/17) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+5. 🎉 Merged PR [#14](https://github.com/DenverCoder1/table2ascii/pull/14) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 </details>
 
