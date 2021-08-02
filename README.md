@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/19) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-2. 🎉 Merged PR [#18](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/18) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-3. 🎉 Merged PR [#17](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/17) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-4. 💪 Opened PR [#17](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/17) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 🎉 Merged PR [#14](https://github.com/DenverCoder1/table2ascii/pull/14) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🎉 Merged PR [#44](https://github.com/DenverCoder1/readme-typing-svg/pull/44) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#118](https://github.com/DenverCoder1/github-readme-streak-stats/issues/118) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#118](https://github.com/DenverCoder1/github-readme-streak-stats/issues/118) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#21](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/21) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+5. 🎉 Merged PR [#31](https://github.com/DenverCoder1/custom-icon-badges/pull/31) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
