@@ -214,11 +214,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/DenverCoder1/give-and-take-bot/pull/27) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-2. ❗️ Opened issue [#236](https://github.com/DenverCoder1/jct-discord-bot/issues/236) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#8](https://github.com/DenverCoder1/godel-program-converter/pull/8) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
-4. 💪 Opened PR [#8](https://github.com/DenverCoder1/godel-program-converter/pull/8) in [DenverCoder1/godel-program-converter](https://github.com/DenverCoder1/godel-program-converter)
-5. 🎉 Merged PR [#119](https://github.com/DenverCoder1/github-readme-streak-stats/pull/119) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#36](https://github.com/DenverCoder1/custom-icon-badges/pull/36) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#36](https://github.com/DenverCoder1/custom-icon-badges/pull/36) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#35](https://github.com/DenverCoder1/custom-icon-badges/pull/35) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#27](https://github.com/DenverCoder1/give-and-take-bot/pull/27) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+5. ❗️ Opened issue [#236](https://github.com/DenverCoder1/jct-discord-bot/issues/236) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
