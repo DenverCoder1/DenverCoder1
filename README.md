@@ -216,11 +216,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/DenverCoder1/custom-icon-badges/pull/44) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. ❗️ Closed issue [#37](https://github.com/DenverCoder1/custom-icon-badges/issues/37) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#44](https://github.com/DenverCoder1/custom-icon-badges/pull/44) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#43](https://github.com/DenverCoder1/custom-icon-badges/pull/43) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#43](https://github.com/DenverCoder1/custom-icon-badges/pull/43) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#123](https://github.com/DenverCoder1/github-readme-streak-stats/pull/123) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#123](https://github.com/DenverCoder1/github-readme-streak-stats/pull/123) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Closed issue [#121](https://github.com/DenverCoder1/github-readme-streak-stats/issues/121) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#122](https://github.com/DenverCoder1/github-readme-streak-stats/pull/122) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#122](https://github.com/DenverCoder1/github-readme-streak-stats/pull/122) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
