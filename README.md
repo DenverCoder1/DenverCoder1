@@ -93,7 +93,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-2370ED.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aceylon"><img alt="Ceylon" src="https://img.shields.io/badge/Ceylon-E39842.svg?logo=gradle&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.herokuapp.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ags"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-02569B.svg?logo=google-cloud&logoColor=white"></a>
