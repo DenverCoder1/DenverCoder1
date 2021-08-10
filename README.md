@@ -217,11 +217,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DenverCoder1/C-Workshop/pull/2) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
-2. 💪 Opened PR [#2](https://github.com/DenverCoder1/C-Workshop/pull/2) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
-3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/C-Workshop/pull/1) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
-4. 💪 Opened PR [#1](https://github.com/DenverCoder1/C-Workshop/pull/1) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
-5. 🎉 Merged PR [#32](https://github.com/DenverCoder1/weasley-chess-bot/pull/32) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+1. 🎉 Merged PR [#70](https://github.com/DenverCoder1/custom-icon-badges/pull/70) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#70](https://github.com/DenverCoder1/custom-icon-badges/pull/70) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#69](https://github.com/DenverCoder1/custom-icon-badges/pull/69) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#69](https://github.com/DenverCoder1/custom-icon-badges/pull/69) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#68](https://github.com/DenverCoder1/custom-icon-badges/pull/68) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
