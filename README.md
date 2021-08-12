@@ -217,11 +217,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#74](https://github.com/DenverCoder1/custom-icon-badges/issues/74) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. ❗️ Closed issue [#76](https://github.com/DenverCoder1/custom-icon-badges/issues/76) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#78](https://github.com/DenverCoder1/custom-icon-badges/pull/78) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#78](https://github.com/DenverCoder1/custom-icon-badges/pull/78) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#77](https://github.com/DenverCoder1/custom-icon-badges/pull/77) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#33](https://github.com/DenverCoder1/weasley-chess-bot/pull/33) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 🎉 Merged PR [#22](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/22) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 💪 Opened PR [#22](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/22) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. ❗️ Closed issue [#82](https://github.com/DenverCoder1/custom-icon-badges/issues/82) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#83](https://github.com/DenverCoder1/custom-icon-badges/pull/83) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
