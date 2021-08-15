@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/DenverCoder1/give-and-take-bot/pull/30) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-2. 🎉 Merged PR [#34](https://github.com/DenverCoder1/weasley-chess-bot/pull/34) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-3. ❗️ Reopened issue [#29](https://github.com/DenverCoder1/github-readme-streak-stats/issues/29) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#29](https://github.com/DenverCoder1/github-readme-streak-stats/issues/29) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#23](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/23) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. ❗️ Opened issue [#88](https://github.com/DenverCoder1/custom-icon-badges/issues/88) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#16](https://github.com/DenverCoder1/table2ascii/pull/16) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 💪 Opened PR [#16](https://github.com/DenverCoder1/table2ascii/pull/16) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 🎉 Merged PR [#87](https://github.com/DenverCoder1/custom-icon-badges/pull/87) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#87](https://github.com/DenverCoder1/custom-icon-badges/pull/87) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
