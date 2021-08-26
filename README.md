@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#248](https://github.com/DenverCoder1/jct-discord-bot/pull/248) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#247](https://github.com/DenverCoder1/jct-discord-bot/pull/247) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#113](https://github.com/DenverCoder1/custom-icon-badges/pull/113) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#112](https://github.com/DenverCoder1/custom-icon-badges/pull/112) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#111](https://github.com/DenverCoder1/custom-icon-badges/pull/111) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#2](https://github.com/DenverCoder1/Connect-4-AI/pull/2) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
+2. 💪 Opened PR [#2](https://github.com/DenverCoder1/Connect-4-AI/pull/2) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
+3. 🎉 Merged PR [#15](https://github.com/DenverCoder1/C-Workshop/pull/15) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
+4. 💪 Opened PR [#15](https://github.com/DenverCoder1/C-Workshop/pull/15) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
+5. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Connect-4-AI/pull/1) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
 <!--END_SECTION:activity-->
 </details>
 
