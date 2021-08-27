@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DenverCoder1/Connect-4-AI/pull/2) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
-2. 💪 Opened PR [#2](https://github.com/DenverCoder1/Connect-4-AI/pull/2) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
-3. 🎉 Merged PR [#15](https://github.com/DenverCoder1/C-Workshop/pull/15) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
-4. 💪 Opened PR [#15](https://github.com/DenverCoder1/C-Workshop/pull/15) in [DenverCoder1/C-Workshop](https://github.com/DenverCoder1/C-Workshop)
-5. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Connect-4-AI/pull/1) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
+1. ❗️ Closed issue [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#116](https://github.com/DenverCoder1/custom-icon-badges/pull/116) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#115](https://github.com/DenverCoder1/custom-icon-badges/pull/115) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#4](https://github.com/DenverCoder1/Connect-4-AI/pull/4) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
 <!--END_SECTION:activity-->
 </details>
 
