@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/DenverCoder1/custom-icon-badges/pull/117) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 💪 Opened PR [#117](https://github.com/DenverCoder1/custom-icon-badges/pull/117) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. ❗️ Closed issue [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🗣 Commented on [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#116](https://github.com/DenverCoder1/custom-icon-badges/pull/116) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#36](https://github.com/DenverCoder1/weasley-chess-bot/pull/36) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 💪 Opened PR [#69](https://github.com/nextcord/nextcord/pull/69) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/chess-piece-classifier/pull/1) in [DenverCoder1/chess-piece-classifier](https://github.com/DenverCoder1/chess-piece-classifier)
+4. 💪 Opened PR [#1](https://github.com/DenverCoder1/chess-piece-classifier/pull/1) in [DenverCoder1/chess-piece-classifier](https://github.com/DenverCoder1/chess-piece-classifier)
+5. 🎉 Merged PR [#120](https://github.com/DenverCoder1/custom-icon-badges/pull/120) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
