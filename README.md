@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/nextcord/nextcord/pull/101) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#250](https://github.com/DenverCoder1/jct-discord-bot/pull/250) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🗣 Commented on [#93](https://github.com/nextcord/nextcord/issues/93) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#93](https://github.com/nextcord/nextcord/pull/93) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#91](https://github.com/nextcord/nextcord/pull/91) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#251](https://github.com/DenverCoder1/jct-discord-bot/pull/251) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#130](https://github.com/DenverCoder1/github-readme-streak-stats/pull/130) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Closed issue [#129](https://github.com/DenverCoder1/github-readme-streak-stats/issues/129) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#7](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/7) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+5. 💪 Opened PR [#7](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/7) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
 <!--END_SECTION:activity-->
 </details>
 
