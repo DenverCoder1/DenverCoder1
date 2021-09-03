@@ -194,12 +194,12 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
+[![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial")
 [![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")
 [![Edit and RUN your code from GitHub online in seconds](https://freshidea.com/jonah/app/youtube-card/?id=0YLTILjOxIE)](https://www.youtube.com/watch?v=0YLTILjOxIE "Edit and RUN your code from GitHub online in seconds")
 [![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")
 [![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
-[![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")
-[![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")<!-- YOUTUBE:END -->
+[![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")<!-- YOUTUBE:END -->
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
