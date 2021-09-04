@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#142](https://github.com/nextcord/nextcord/issues/142) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#142](https://github.com/nextcord/nextcord/issues/142) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Opened issue [#142](https://github.com/nextcord/nextcord/issues/142) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#1](https://github.com/nextcord/nextcord-ext-menus/pull/1) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🗣 Commented on [#52](https://github.com/DenverCoder1/readme-typing-svg/issues/52) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. ❌ Closed PR [#3](https://github.com/nextcord/nextcord-ext-menus/pull/3) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+2. 💪 Opened PR [#3](https://github.com/nextcord/nextcord-ext-menus/pull/3) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. ❌ Closed PR [#1](https://github.com/DenverCoderOne/nextcord-ext-menus/pull/1) in [DenverCoderOne/nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus)
+4. 💪 Opened PR [#1](https://github.com/DenverCoderOne/nextcord-ext-menus/pull/1) in [DenverCoderOne/nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus)
+5. ❗️ Opened issue [#2](https://github.com/nextcord/nextcord-ext-menus/issues/2) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
 <!--END_SECTION:activity-->
 </details>
 
