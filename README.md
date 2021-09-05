@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/nextcord/nextcord-ext-menus/pull/3) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-2. 💪 Opened PR [#3](https://github.com/nextcord/nextcord-ext-menus/pull/3) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. ❌ Closed PR [#1](https://github.com/DenverCoderOne/nextcord-ext-menus/pull/1) in [DenverCoderOne/nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus)
-4. 💪 Opened PR [#1](https://github.com/DenverCoderOne/nextcord-ext-menus/pull/1) in [DenverCoderOne/nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus)
-5. ❗️ Opened issue [#2](https://github.com/nextcord/nextcord-ext-menus/issues/2) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+1. 🎉 Merged PR [#9](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/9) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+2. 💪 Opened PR [#9](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/9) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 🎉 Merged PR [#8](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/8) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 💪 Opened PR [#8](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/8) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 🎉 Merged PR [#8](https://github.com/nextcord/nextcord-ext-menus/pull/8) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
 <!--END_SECTION:activity-->
 </details>
 
