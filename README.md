@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/25) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 💪 Opened PR [#25](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/25) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 🎉 Merged PR [#24](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/24) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#101](https://github.com/nextcord/nextcord/issues/101) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#256](https://github.com/DenverCoder1/jct-discord-bot/pull/256) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🗣 Commented on [#100](https://github.com/DXsmiley/mathbot/issues/100) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
+2. 🎉 Merged PR [#10](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/10) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 💪 Opened PR [#10](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/10) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 🎉 Merged PR [#136](https://github.com/DenverCoder1/custom-icon-badges/pull/136) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#25](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/25) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 </details>
 
