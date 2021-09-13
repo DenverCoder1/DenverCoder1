@@ -222,11 +222,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/DXsmiley/mathbot/issues/100) in [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot)
-2. 🎉 Merged PR [#10](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/10) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 💪 Opened PR [#10](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/10) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 🎉 Merged PR [#136](https://github.com/DenverCoder1/custom-icon-badges/pull/136) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#25](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/25) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 🎉 Merged PR [#5](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/5) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+2. 💪 Opened PR [#5](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/5) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+3. 🎉 Merged PR [#4](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/4) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+4. 💪 Opened PR [#4](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/4) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+5. 🎉 Merged PR [#3](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/3) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
