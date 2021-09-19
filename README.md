@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/4) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
-2. 💪 Opened PR [#4](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/4) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
-3. 🎉 Merged PR [#145](https://github.com/DenverCoder1/custom-icon-badges/pull/145) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#146](https://github.com/DenverCoder1/custom-icon-badges/pull/146) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#144](https://github.com/DenverCoder1/custom-icon-badges/pull/144) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#832](https://github.com/BeccaLyria/discord-bot/issues/832) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+2. 💪 Opened PR [#2](https://github.com/abrahammurciano/plasma-splash-sweet-arch/pull/2) in [abrahammurciano/plasma-splash-sweet-arch](https://github.com/abrahammurciano/plasma-splash-sweet-arch)
+3. ❗️ Opened issue [#1](https://github.com/abrahammurciano/plasma-splash-sweet-arch/issues/1) in [abrahammurciano/plasma-splash-sweet-arch](https://github.com/abrahammurciano/plasma-splash-sweet-arch)
+4. 🎉 Merged PR [#4](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/4) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
+5. 💪 Opened PR [#4](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/4) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
 <!--END_SECTION:activity-->
 </details>
 
