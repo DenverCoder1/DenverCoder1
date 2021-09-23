@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#159](https://github.com/DenverCoder1/custom-icon-badges/pull/159) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#260](https://github.com/DenverCoder1/jct-discord-bot/pull/260) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#158](https://github.com/DenverCoder1/custom-icon-badges/pull/158) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#157](https://github.com/DenverCoder1/custom-icon-badges/pull/157) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#151](https://github.com/DenverCoder1/custom-icon-badges/pull/151) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#8](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/8) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+2. 🎉 Merged PR [#20](https://github.com/DenverCoder1/discord-bot-template/pull/20) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+3. 🎉 Merged PR [#159](https://github.com/DenverCoder1/custom-icon-badges/pull/159) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#260](https://github.com/DenverCoder1/jct-discord-bot/pull/260) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#158](https://github.com/DenverCoder1/custom-icon-badges/pull/158) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
