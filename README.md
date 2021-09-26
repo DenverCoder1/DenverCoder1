@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/nextcord/nextcord-ext-menus/pull/11) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-2. 🎉 Merged PR [#8](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/8) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-3. 🎉 Merged PR [#20](https://github.com/DenverCoder1/discord-bot-template/pull/20) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
-4. 🎉 Merged PR [#159](https://github.com/DenverCoder1/custom-icon-badges/pull/159) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#260](https://github.com/DenverCoder1/jct-discord-bot/pull/260) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#13](https://github.com/nextcord/nextcord-ext-menus/pull/13) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+2. 💪 Opened PR [#13](https://github.com/nextcord/nextcord-ext-menus/pull/13) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. 🎉 Merged PR [#11](https://github.com/nextcord/nextcord-ext-menus/pull/11) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+4. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-menus/issues/11) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🎉 Merged PR [#12](https://github.com/nextcord/nextcord-ext-menus/pull/12) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
 <!--END_SECTION:activity-->
 </details>
 
