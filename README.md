@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/DenverCoder1/jct-discord-bot/pull/261) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#163](https://github.com/DenverCoder1/custom-icon-badges/pull/163) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#165](https://github.com/DenverCoder1/custom-icon-badges/pull/165) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#164](https://github.com/DenverCoder1/custom-icon-badges/pull/164) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#162](https://github.com/DenverCoder1/custom-icon-badges/pull/162) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#27](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/27) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. 💪 Opened PR [#27](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/27) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 💪 Opened PR [#2](https://github.com/DenverCoderOne/LaTeX-Gboard-Dictionary-Testing/pull/2) in [DenverCoderOne/LaTeX-Gboard-Dictionary-Testing](https://github.com/DenverCoderOne/LaTeX-Gboard-Dictionary-Testing)
+4. 🎉 Merged PR [#5](https://github.com/DenverCoderOne/release-with-changelog/pull/5) in [DenverCoderOne/release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog)
+5. 💪 Opened PR [#5](https://github.com/DenverCoderOne/release-with-changelog/pull/5) in [DenverCoderOne/release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog)
 <!--END_SECTION:activity-->
 </details>
 
