@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/27) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 💪 Opened PR [#27](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/27) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. 💪 Opened PR [#2](https://github.com/DenverCoderOne/LaTeX-Gboard-Dictionary-Testing/pull/2) in [DenverCoderOne/LaTeX-Gboard-Dictionary-Testing](https://github.com/DenverCoderOne/LaTeX-Gboard-Dictionary-Testing)
-4. 🎉 Merged PR [#5](https://github.com/DenverCoderOne/release-with-changelog/pull/5) in [DenverCoderOne/release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog)
-5. 💪 Opened PR [#5](https://github.com/DenverCoderOne/release-with-changelog/pull/5) in [DenverCoderOne/release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog)
+1. 🗣 Commented on [#139](https://github.com/DenverCoder1/github-readme-streak-stats/issues/139) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#135](https://github.com/DenverCoder1/github-readme-streak-stats/issues/135) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#55](https://github.com/DenverCoder1/readme-typing-svg/issues/55) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/42) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. 🗣 Commented on [#42](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/42) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 </details>
 
