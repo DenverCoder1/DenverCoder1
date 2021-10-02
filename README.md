@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/DenverCoder1/github-readme-streak-stats/issues/139) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#135](https://github.com/DenverCoder1/github-readme-streak-stats/issues/135) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#55](https://github.com/DenverCoder1/readme-typing-svg/issues/55) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/42) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 🗣 Commented on [#42](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/42) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 💪 Opened PR [#86](https://github.com/Ashutosh00710/github-readme-activity-graph/pull/86) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+2. ❗️ Opened issue [#85](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/85) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+3. 🗣 Commented on [#141](https://github.com/DenverCoder1/github-readme-streak-stats/issues/141) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#11](https://github.com/TheLastProject/Hacktoberfest-2021-legit/issues/11) in [TheLastProject/Hacktoberfest-2021-legit](https://github.com/TheLastProject/Hacktoberfest-2021-legit)
+5. ❗️ Opened issue [#173](https://github.com/DenverCoder1/custom-icon-badges/issues/173) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
