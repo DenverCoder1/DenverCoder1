@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/Ashutosh00710/github-readme-activity-graph/pull/86) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-2. ❗️ Opened issue [#85](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/85) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-3. 🗣 Commented on [#141](https://github.com/DenverCoder1/github-readme-streak-stats/issues/141) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#11](https://github.com/TheLastProject/Hacktoberfest-2021-legit/issues/11) in [TheLastProject/Hacktoberfest-2021-legit](https://github.com/TheLastProject/Hacktoberfest-2021-legit)
-5. ❗️ Opened issue [#173](https://github.com/DenverCoder1/custom-icon-badges/issues/173) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#163](https://github.com/DenverCoder1/github-readme-streak-stats/issues/163) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#163](https://github.com/DenverCoder1/github-readme-streak-stats/issues/163) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#149](https://github.com/DenverCoder1/github-readme-streak-stats/issues/149) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#167](https://github.com/DenverCoder1/github-readme-streak-stats/pull/167) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#167](https://github.com/DenverCoder1/github-readme-streak-stats/pull/167) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
