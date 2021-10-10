@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/nextcord/nextcord/issues/210) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#209](https://github.com/DenverCoder1/jct-discord-bot/issues/209) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🗣 Commented on [#209](https://github.com/DenverCoder1/jct-discord-bot/issues/209) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🎉 Merged PR [#14](https://github.com/nextcord/nextcord-ext-menus/pull/14) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🗣 Commented on [#72](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/72) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 🗣 Commented on [#189](https://github.com/DenverCoder1/github-readme-streak-stats/issues/189) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#210](https://github.com/nextcord/nextcord/issues/210) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#209](https://github.com/DenverCoder1/jct-discord-bot/issues/209) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🗣 Commented on [#209](https://github.com/DenverCoder1/jct-discord-bot/issues/209) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#14](https://github.com/nextcord/nextcord-ext-menus/pull/14) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
 <!--END_SECTION:activity-->
 </details>
 
