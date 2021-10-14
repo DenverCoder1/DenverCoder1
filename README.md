@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/DenverCoder1/custom-icon-badges/pull/197) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#196](https://github.com/DenverCoder1/custom-icon-badges/pull/196) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#195](https://github.com/DenverCoder1/custom-icon-badges/pull/195) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#194](https://github.com/DenverCoder1/custom-icon-badges/pull/194) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#193](https://github.com/DenverCoder1/custom-icon-badges/pull/193) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#189](https://github.com/DenverCoder1/github-readme-streak-stats/issues/189) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#22](https://github.com/DenverCoder1/table2ascii/issues/22) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/table2ascii/pull/23) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 💪 Opened PR [#23](https://github.com/DenverCoder1/table2ascii/pull/23) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. ❗️ Opened issue [#22](https://github.com/DenverCoder1/table2ascii/issues/22) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 </details>
 
