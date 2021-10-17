@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/1) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-2. 💪 Opened PR [#1](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/1) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-3. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#204](https://github.com/DenverCoder1/custom-icon-badges/pull/204) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#11](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/11) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+2. 💪 Opened PR [#11](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/11) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+3. 🎉 Merged PR [#1](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/1) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+4. 💪 Opened PR [#1](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/1) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+5. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
