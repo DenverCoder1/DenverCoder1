@@ -202,7 +202,7 @@
 [![Edit and RUN your code from GitHub online in seconds](https://freshidea.com/jonah/app/youtube-card/?id=0YLTILjOxIE)](https://www.youtube.com/watch?v=0YLTILjOxIE "Edit and RUN your code from GitHub online in seconds")
 [![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")<!-- YOUTUBE:END -->
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
 ## 📊 Github stats
 
