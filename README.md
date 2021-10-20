@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/nextcord/nextcord-ext-menus/pull/16) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-2. 💪 Opened PR [#15](https://github.com/nextcord/nextcord-ext-menus/pull/15) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. 🎉 Merged PR [#205](https://github.com/DenverCoder1/custom-icon-badges/pull/205) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#11](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/11) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-5. 💪 Opened PR [#11](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/11) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+1. 🎉 Merged PR [#73](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/73) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+2. ❗️ Closed issue [#72](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/72) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🗣 Commented on [#73](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/73) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. ❗️ Opened issue [#17](https://github.com/nextcord/nextcord-ext-menus/issues/17) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🗣 Commented on [#73](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/73) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 </details>
 
