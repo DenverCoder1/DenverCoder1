@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#276](https://github.com/DenverCoder1/jct-discord-bot/issues/276) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#191](https://github.com/DenverCoder1/github-readme-streak-stats/issues/191) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#275](https://github.com/DenverCoder1/jct-discord-bot/pull/275) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🎉 Merged PR [#208](https://github.com/DenverCoder1/custom-icon-badges/pull/208) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#211](https://github.com/DenverCoder1/custom-icon-badges/pull/211) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#18](https://github.com/nextcord/nextcord-ext-menus/issues/18) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+2. ❗️ Opened issue [#276](https://github.com/DenverCoder1/jct-discord-bot/issues/276) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🗣 Commented on [#191](https://github.com/DenverCoder1/github-readme-streak-stats/issues/191) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#275](https://github.com/DenverCoder1/jct-discord-bot/pull/275) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#208](https://github.com/DenverCoder1/custom-icon-badges/pull/208) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
