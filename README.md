@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/nextcord/nextcord-ext-ipc/issues/4) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 🗣 Commented on [#4](https://github.com/nextcord/nextcord-ext-ipc/issues/4) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 🎉 Merged PR [#75](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/75) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#75](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/75) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 🗣 Commented on [#190](https://github.com/DenverCoder1/github-readme-streak-stats/issues/190) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#194](https://github.com/jaimeadf/BetterDiscordPlugins/issues/194) in [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins)
+2. 🎉 Merged PR [#6](https://github.com/nextcord/nextcord-ext-ipc/pull/6) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+3. 💪 Opened PR [#194](https://github.com/jaimeadf/BetterDiscordPlugins/pull/194) in [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins)
+4. ❌ Closed PR [#1](https://github.com/DenverCoderOne/BetterDiscordPlugins/pull/1) in [DenverCoderOne/BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins)
+5. 💪 Opened PR [#1](https://github.com/DenverCoderOne/BetterDiscordPlugins/pull/1) in [DenverCoderOne/BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins)
 <!--END_SECTION:activity-->
 </details>
 
