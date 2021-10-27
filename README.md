@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/jaimeadf/BetterDiscordPlugins/issues/194) in [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins)
-2. 🎉 Merged PR [#6](https://github.com/nextcord/nextcord-ext-ipc/pull/6) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 💪 Opened PR [#194](https://github.com/jaimeadf/BetterDiscordPlugins/pull/194) in [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins)
-4. ❌ Closed PR [#1](https://github.com/DenverCoderOne/BetterDiscordPlugins/pull/1) in [DenverCoderOne/BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins)
-5. 💪 Opened PR [#1](https://github.com/DenverCoderOne/BetterDiscordPlugins/pull/1) in [DenverCoderOne/BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins)
+1. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+2. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+3. 🎉 Merged PR [#8](https://github.com/nextcord/nextcord-ext-ipc/pull/8) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+4. 💪 Opened PR [#8](https://github.com/nextcord/nextcord-ext-ipc/pull/8) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+5. 🎉 Merged PR [#7](https://github.com/nextcord/nextcord-ext-ipc/pull/7) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
 <!--END_SECTION:activity-->
 </details>
 
