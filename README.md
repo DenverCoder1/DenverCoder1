@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 🎉 Merged PR [#8](https://github.com/nextcord/nextcord-ext-ipc/pull/8) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-4. 💪 Opened PR [#8](https://github.com/nextcord/nextcord-ext-ipc/pull/8) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-5. 🎉 Merged PR [#7](https://github.com/nextcord/nextcord-ext-ipc/pull/7) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+1. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+2. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+3. 🎉 Merged PR [#220](https://github.com/DenverCoder1/custom-icon-badges/pull/220) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+5. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
 <!--END_SECTION:activity-->
 </details>
 
