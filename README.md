@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/78) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-2. 🎉 Merged PR [#34](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/34) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-3. ❗️ Closed issue [#33](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/33) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🗣 Commented on [#34](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/34) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. ❌ Closed PR [#77](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/77) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 💪 Opened PR [#241](https://github.com/nextcord/nextcord/pull/241) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 💪 Opened PR [#240](https://github.com/nextcord/nextcord/pull/240) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#78](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/78) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 🎉 Merged PR [#34](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/34) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+5. ❗️ Closed issue [#33](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/33) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
 <!--END_SECTION:activity-->
 </details>
 
