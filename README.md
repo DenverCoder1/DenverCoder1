@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#241](https://github.com/nextcord/nextcord/pull/241) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#240](https://github.com/nextcord/nextcord/pull/240) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#78](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/78) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-4. 🎉 Merged PR [#34](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/34) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. ❗️ Closed issue [#33](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/33) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+1. 💪 Opened PR [#21](https://github.com/nextcord/nextcord-ext-menus/pull/21) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+2. 💪 Opened PR [#20](https://github.com/nextcord/nextcord-ext-menus/pull/20) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. 🎉 Merged PR [#19](https://github.com/nextcord/nextcord-ext-menus/pull/19) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+4. ❗️ Closed issue [#18](https://github.com/nextcord/nextcord-ext-menus/issues/18) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🎉 Merged PR [#10](https://github.com/nextcord/nextcord-ext-ipc/pull/10) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
 <!--END_SECTION:activity-->
 </details>
 
