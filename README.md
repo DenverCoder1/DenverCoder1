@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/7) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-2. 💪 Opened PR [#7](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/7) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-3. 🎉 Merged PR [#6](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/6) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-4. 💪 Opened PR [#6](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/6) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 🎉 Merged PR [#33](https://github.com/DenverCoder1/give-and-take-bot/pull/33) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+1. 🗣 Commented on [#68](https://github.com/DenverCoder1/readme-typing-svg/issues/68) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Closed issue [#68](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/68) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 🎉 Merged PR [#285](https://github.com/DenverCoder1/jct-discord-bot/pull/285) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#69](https://github.com/DenverCoder1/readme-typing-svg/pull/69) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🎉 Merged PR [#238](https://github.com/DenverCoder1/custom-icon-badges/pull/238) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
