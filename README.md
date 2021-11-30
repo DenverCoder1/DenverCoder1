@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#275](https://github.com/nextcord/nextcord/pull/275) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❌ Closed PR [#3](https://github.com/DenverCoderOne/nextcord/pull/3) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
-3. 💪 Opened PR [#3](https://github.com/DenverCoderOne/nextcord/pull/3) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
-4. 💪 Opened PR [#24](https://github.com/nextcord/nextcord-ext-menus/pull/24) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🎉 Merged PR [#1](https://github.com/DenverCoderOne/awesome-albert/pull/1) in [DenverCoderOne/awesome-albert](https://github.com/DenverCoderOne/awesome-albert)
+1. 🎉 Merged PR [#253](https://github.com/DenverCoder1/custom-icon-badges/pull/253) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#255](https://github.com/DenverCoder1/custom-icon-badges/pull/255) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#1003](https://github.com/albertlauncher/albert/issues/1003) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
+4. 💪 Opened PR [#275](https://github.com/nextcord/nextcord/pull/275) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❌ Closed PR [#3](https://github.com/DenverCoderOne/nextcord/pull/3) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
