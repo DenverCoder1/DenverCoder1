@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#298](https://github.com/DenverCoder1/jct-discord-bot/pull/298) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#24](https://github.com/nextcord/nextcord-ext-menus/pull/24) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. 🗣 Commented on [#28](https://github.com/DenverCoder1/unicode-formatter/issues/28) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. 🎉 Merged PR [#256](https://github.com/DenverCoder1/custom-icon-badges/pull/256) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#253](https://github.com/DenverCoder1/custom-icon-badges/pull/253) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#4](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/4) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+2. 💪 Opened PR [#4](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/4) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+3. 🎉 Merged PR [#3](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/3) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+4. 💪 Opened PR [#3](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/3) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+5. 🎉 Merged PR [#2](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/2) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
 <!--END_SECTION:activity-->
 </details>
 
