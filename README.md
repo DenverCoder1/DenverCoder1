@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/nextcord/nextcord-ext-menus/pull/25) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-2. 💪 Opened PR [#25](https://github.com/nextcord/nextcord-ext-menus/pull/25) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. 🎉 Merged PR [#34](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/34) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
-4. 💪 Opened PR [#34](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/34) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
-5. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/33) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+1. ❗️ Opened issue [#71](https://github.com/DenverCoder1/readme-typing-svg/issues/71) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🎉 Merged PR [#195](https://github.com/DenverCoder1/github-readme-streak-stats/pull/195) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#39](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/39) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+4. 💪 Opened PR [#39](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/39) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+5. 🎉 Merged PR [#38](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/38) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
 <!--END_SECTION:activity-->
 </details>
 
