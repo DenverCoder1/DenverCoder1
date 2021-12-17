@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/DenverCoder1/discord-bot-template/pull/23) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
-2. 🎉 Merged PR [#24](https://github.com/DenverCoder1/table2ascii/pull/24) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 💪 Opened PR [#24](https://github.com/DenverCoder1/table2ascii/pull/24) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-4. 🎉 Merged PR [#13](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/13) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-5. 🎉 Merged PR [#272](https://github.com/DenverCoder1/custom-icon-badges/pull/272) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#196](https://github.com/DenverCoder1/github-readme-streak-stats/issues/196) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Opened issue [#25](https://github.com/DenverCoder1/table2ascii/issues/25) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 🎉 Merged PR [#56](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/56) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+4. 💪 Opened PR [#56](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/56) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+5. 🎉 Merged PR [#55](https://github.com/DenverCoder1/Advent-of-Code-2021/pull/55) in [DenverCoder1/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
 <!--END_SECTION:activity-->
 </details>
 
