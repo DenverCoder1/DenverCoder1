@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/DenverCoder1/discord-bot-template/pull/24) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
-2. 🎉 Merged PR [#292](https://github.com/DenverCoder1/custom-icon-badges/pull/292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#291](https://github.com/DenverCoder1/custom-icon-badges/pull/291) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. ❗️ Opened issue [#11](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/issues/11) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 🎉 Merged PR [#10](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/10) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+1. 🎉 Merged PR [#296](https://github.com/DenverCoder1/custom-icon-badges/pull/296) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#297](https://github.com/DenverCoder1/custom-icon-badges/pull/297) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#77](https://github.com/DenverCoder1/readme-typing-svg/pull/77) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#24](https://github.com/DenverCoder1/discord-bot-template/pull/24) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+5. 🎉 Merged PR [#292](https://github.com/DenverCoder1/custom-icon-badges/pull/292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
