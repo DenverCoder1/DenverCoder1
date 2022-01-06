@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/9) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-2. 🎉 Merged PR [#32](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/32) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-3. 💪 Opened PR [#32](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/32) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-4. 🎉 Merged PR [#31](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/31) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 💪 Opened PR [#31](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/31) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+1. 🎉 Merged PR [#305](https://github.com/DenverCoder1/jct-discord-bot/pull/305) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#3](https://github.com/DenverCoder1/play-lichess/pull/3) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+3. 🎉 Merged PR [#46](https://github.com/DenverCoder1/weasley-chess-bot/pull/46) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+4. 🎉 Merged PR [#49](https://github.com/DenverCoder1/weasley-chess-bot/pull/49) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+5. 🗣 Commented on [#9](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/9) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
 <!--END_SECTION:activity-->
 </details>
 
