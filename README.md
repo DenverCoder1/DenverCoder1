@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#305](https://github.com/DenverCoder1/jct-discord-bot/pull/305) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#3](https://github.com/DenverCoder1/play-lichess/pull/3) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
-3. 🎉 Merged PR [#46](https://github.com/DenverCoder1/weasley-chess-bot/pull/46) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-4. 🎉 Merged PR [#49](https://github.com/DenverCoder1/weasley-chess-bot/pull/49) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-5. 🗣 Commented on [#9](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/9) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+1. 🎉 Merged PR [#12](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/12) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+2. 💪 Opened PR [#12](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/12) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+3. 🎉 Merged PR [#305](https://github.com/DenverCoder1/jct-discord-bot/pull/305) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#3](https://github.com/DenverCoder1/play-lichess/pull/3) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+5. 🎉 Merged PR [#46](https://github.com/DenverCoder1/weasley-chess-bot/pull/46) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
 <!--END_SECTION:activity-->
 </details>
 
