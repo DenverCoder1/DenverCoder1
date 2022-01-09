@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/13) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-2. 🎉 Merged PR [#12](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/12) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-3. 💪 Opened PR [#12](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/12) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-4. 🎉 Merged PR [#305](https://github.com/DenverCoder1/jct-discord-bot/pull/305) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#3](https://github.com/DenverCoder1/play-lichess/pull/3) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+1. 🎉 Merged PR [#15](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/15) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+2. 💪 Opened PR [#15](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/15) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+3. 🎉 Merged PR [#14](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/14) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+4. 💪 Opened PR [#14](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/14) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+5. 🎉 Merged PR [#13](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/13) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
