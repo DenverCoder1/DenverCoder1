@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/27) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-2. 🎉 Merged PR [#19](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/19) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-3. 💪 Opened PR [#19](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/19) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-4. 🎉 Merged PR [#18](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/18) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 💪 Opened PR [#18](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/18) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+1. 🎉 Merged PR [#306](https://github.com/DenverCoder1/custom-icon-badges/pull/306) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#79](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/79) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+3. 💪 Opened PR [#79](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/79) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
+4. 🎉 Merged PR [#27](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/27) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 🎉 Merged PR [#19](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/19) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
