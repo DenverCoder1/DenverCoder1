@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#293](https://github.com/DenverCoder1/custom-icon-badges/pull/293) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#285](https://github.com/DenverCoder1/custom-icon-badges/pull/285) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#304](https://github.com/DenverCoder1/custom-icon-badges/pull/304) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#20](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/20) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 💪 Opened PR [#20](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/20) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+1. 🎉 Merged PR [#79](https://github.com/DenverCoder1/readme-typing-svg/pull/79) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Closed issue [#57](https://github.com/DenverCoder1/readme-typing-svg/issues/57) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#293](https://github.com/DenverCoder1/custom-icon-badges/pull/293) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#285](https://github.com/DenverCoder1/custom-icon-badges/pull/285) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#304](https://github.com/DenverCoder1/custom-icon-badges/pull/304) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
