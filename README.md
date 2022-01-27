@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#388](https://github.com/nextcord/nextcord/pull/388) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#387](https://github.com/nextcord/nextcord/pull/387) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#384](https://github.com/nextcord/nextcord/pull/384) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#29](https://github.com/nextcord/nextcord-ext-menus/issues/29) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🎉 Merged PR [#311](https://github.com/DenverCoder1/jct-discord-bot/pull/311) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 💪 Opened PR [#6](https://github.com/DenverCoder1/play-lichess/pull/6) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+2. ❗️ Opened issue [#10446](https://github.com/lichess-org/lila/issues/10446) in [lichess-org/lila](https://github.com/lichess-org/lila)
+3. 🎉 Merged PR [#51](https://github.com/DenverCoder1/weasley-chess-bot/pull/51) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+4. 💪 Opened PR [#51](https://github.com/DenverCoder1/weasley-chess-bot/pull/51) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/play-lichess/pull/5) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
 <!--END_SECTION:activity-->
 </details>
 
