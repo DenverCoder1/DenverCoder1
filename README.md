@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/DenverCoder1/play-lichess/pull/6) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
-2. ❗️ Opened issue [#10446](https://github.com/lichess-org/lila/issues/10446) in [lichess-org/lila](https://github.com/lichess-org/lila)
-3. 🎉 Merged PR [#51](https://github.com/DenverCoder1/weasley-chess-bot/pull/51) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-4. 💪 Opened PR [#51](https://github.com/DenverCoder1/weasley-chess-bot/pull/51) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/play-lichess/pull/5) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+1. 🗣 Commented on [#394](https://github.com/nextcord/nextcord/issues/394) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 💪 Opened PR [#31](https://github.com/nextcord/nextcord-ext-menus/pull/31) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. 🎉 Merged PR [#209](https://github.com/DenverCoder1/github-readme-streak-stats/pull/209) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#30](https://github.com/nextcord/nextcord-ext-menus/pull/30) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 💪 Opened PR [#394](https://github.com/nextcord/nextcord/pull/394) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
