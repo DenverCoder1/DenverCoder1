@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#394](https://github.com/nextcord/nextcord/issues/394) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#31](https://github.com/nextcord/nextcord-ext-menus/pull/31) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. 🎉 Merged PR [#209](https://github.com/DenverCoder1/github-readme-streak-stats/pull/209) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#30](https://github.com/nextcord/nextcord-ext-menus/pull/30) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 💪 Opened PR [#394](https://github.com/nextcord/nextcord/pull/394) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#26](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/26) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+2. 💪 Opened PR [#26](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/26) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+3. 🎉 Merged PR [#32](https://github.com/nextcord/nextcord-ext-menus/pull/32) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+4. 💪 Opened PR [#32](https://github.com/nextcord/nextcord-ext-menus/pull/32) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🗣 Commented on [#149](https://github.com/DenverCoder1/github-readme-streak-stats/issues/149) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
