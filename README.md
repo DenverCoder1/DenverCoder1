@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#412](https://github.com/nextcord/nextcord/pull/412) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#325](https://github.com/DenverCoder1/custom-icon-badges/pull/325) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#327](https://github.com/DenverCoder1/custom-icon-badges/pull/327) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#29](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/29) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. 🗣 Commented on [#394](https://github.com/nextcord/nextcord/issues/394) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Opened issue [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🎉 Merged PR [#328](https://github.com/DenverCoder1/custom-icon-badges/pull/328) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
