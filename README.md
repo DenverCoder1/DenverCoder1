@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. ❗️ Opened issue [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🎉 Merged PR [#328](https://github.com/DenverCoder1/custom-icon-badges/pull/328) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#5](https://github.com/DenverCoder1/discord-wordle-clone/pull/5) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+2. 💪 Opened PR [#5](https://github.com/DenverCoder1/discord-wordle-clone/pull/5) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+3. 🎉 Merged PR [#4](https://github.com/DenverCoder1/discord-wordle-clone/pull/4) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+4. ❗️ Closed issue [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 💪 Opened PR [#4](https://github.com/DenverCoder1/discord-wordle-clone/pull/4) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
 <!--END_SECTION:activity-->
 </details>
 
