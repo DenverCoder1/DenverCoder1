@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/DenverCoder1/discord-wordle-clone/pull/5) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
-2. 💪 Opened PR [#5](https://github.com/DenverCoder1/discord-wordle-clone/pull/5) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
-3. 🎉 Merged PR [#4](https://github.com/DenverCoder1/discord-wordle-clone/pull/4) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
-4. ❗️ Closed issue [#4431](https://github.com/discord/discord-api-docs/issues/4431) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 💪 Opened PR [#4](https://github.com/DenverCoder1/discord-wordle-clone/pull/4) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+1. 🗣 Commented on [#410](https://github.com/nextcord/nextcord/issues/410) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 💪 Opened PR [#3](https://github.com/TAG-Epic/wordless/pull/3) in [TAG-Epic/wordless](https://github.com/TAG-Epic/wordless)
+3. ❌ Closed PR [#1](https://github.com/DenverCoderOne/wordless/pull/1) in [DenverCoderOne/wordless](https://github.com/DenverCoderOne/wordless)
+4. 💪 Opened PR [#1](https://github.com/DenverCoderOne/wordless/pull/1) in [DenverCoderOne/wordless](https://github.com/DenverCoderOne/wordless)
+5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/discord-wordle-clone/pull/5) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
 <!--END_SECTION:activity-->
 </details>
 
