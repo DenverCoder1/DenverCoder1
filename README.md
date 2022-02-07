@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#410](https://github.com/nextcord/nextcord/issues/410) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#3](https://github.com/TAG-Epic/wordless/pull/3) in [TAG-Epic/wordless](https://github.com/TAG-Epic/wordless)
-3. ❌ Closed PR [#1](https://github.com/DenverCoderOne/wordless/pull/1) in [DenverCoderOne/wordless](https://github.com/DenverCoderOne/wordless)
-4. 💪 Opened PR [#1](https://github.com/DenverCoderOne/wordless/pull/1) in [DenverCoderOne/wordless](https://github.com/DenverCoderOne/wordless)
-5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/discord-wordle-clone/pull/5) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+1. 🎉 Merged PR [#331](https://github.com/DenverCoder1/custom-icon-badges/pull/331) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#12](https://github.com/burkeholland/nodele/pull/12) in [burkeholland/nodele](https://github.com/burkeholland/nodele)
+3. 💪 Opened PR [#1](https://github.com/burkeholland/node-wordle/pull/1) in [burkeholland/node-wordle](https://github.com/burkeholland/node-wordle)
+4. ❌ Closed PR [#1](https://github.com/DenverCoderOne/node-wordle/pull/1) in [DenverCoderOne/node-wordle](https://github.com/DenverCoderOne/node-wordle)
+5. 💪 Opened PR [#1](https://github.com/DenverCoderOne/node-wordle/pull/1) in [DenverCoderOne/node-wordle](https://github.com/DenverCoderOne/node-wordle)
 <!--END_SECTION:activity-->
 </details>
 
