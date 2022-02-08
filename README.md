@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#331](https://github.com/DenverCoder1/custom-icon-badges/pull/331) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 💪 Opened PR [#12](https://github.com/burkeholland/nodele/pull/12) in [burkeholland/nodele](https://github.com/burkeholland/nodele)
-3. 💪 Opened PR [#1](https://github.com/burkeholland/node-wordle/pull/1) in [burkeholland/node-wordle](https://github.com/burkeholland/node-wordle)
-4. ❌ Closed PR [#1](https://github.com/DenverCoderOne/node-wordle/pull/1) in [DenverCoderOne/node-wordle](https://github.com/DenverCoderOne/node-wordle)
-5. 💪 Opened PR [#1](https://github.com/DenverCoderOne/node-wordle/pull/1) in [DenverCoderOne/node-wordle](https://github.com/DenverCoderOne/node-wordle)
+1. 🎉 Merged PR [#330](https://github.com/DenverCoder1/custom-icon-badges/pull/330) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#334](https://github.com/DenverCoder1/custom-icon-badges/pull/334) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#30](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/30) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 🎉 Merged PR [#331](https://github.com/DenverCoder1/custom-icon-badges/pull/331) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#12](https://github.com/burkeholland/nodele/pull/12) in [burkeholland/nodele](https://github.com/burkeholland/nodele)
 <!--END_SECTION:activity-->
 </details>
 
