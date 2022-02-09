@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#330](https://github.com/DenverCoder1/custom-icon-badges/pull/330) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#334](https://github.com/DenverCoder1/custom-icon-badges/pull/334) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#30](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/30) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 🎉 Merged PR [#331](https://github.com/DenverCoder1/custom-icon-badges/pull/331) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#12](https://github.com/burkeholland/nodele/pull/12) in [burkeholland/nodele](https://github.com/burkeholland/nodele)
+1. 🗣 Commented on [#439](https://github.com/nextcord/nextcord/issues/439) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#439](https://github.com/nextcord/nextcord/issues/439) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#330](https://github.com/DenverCoder1/custom-icon-badges/pull/330) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#334](https://github.com/DenverCoder1/custom-icon-badges/pull/334) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#30](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/30) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
 <!--END_SECTION:activity-->
 </details>
 
