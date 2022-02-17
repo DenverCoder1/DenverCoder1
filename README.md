@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#473](https://github.com/nextcord/nextcord/pull/473) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#472](https://github.com/nextcord/nextcord/pull/472) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#329](https://github.com/DenverCoder1/custom-icon-badges/pull/329) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#341](https://github.com/DenverCoder1/custom-icon-badges/pull/341) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#340](https://github.com/DenverCoder1/custom-icon-badges/pull/340) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#342](https://github.com/DenverCoder1/custom-icon-badges/pull/342) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#28](https://github.com/DenverCoder1/discord-bot-template/pull/28) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+3. 💪 Opened PR [#28](https://github.com/DenverCoder1/discord-bot-template/pull/28) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+4. 🗣 Commented on [#687](https://github.com/YTVanced/VancedManager/issues/687) in [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
+5. 💪 Opened PR [#473](https://github.com/nextcord/nextcord/pull/473) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
