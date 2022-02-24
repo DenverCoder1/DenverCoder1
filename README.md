@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DenverCoder1/play-lichess/pull/6) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
-2. 🎉 Merged PR [#86](https://github.com/DenverCoder1/readme-typing-svg/pull/86) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#495](https://github.com/nextcord/nextcord/issues/495) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#492](https://github.com/nextcord/nextcord/issues/492) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#317](https://github.com/DenverCoder1/jct-discord-bot/issues/317) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#10](https://github.com/DenverCoder1/play-lichess/pull/10) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+2. 💪 Opened PR [#10](https://github.com/DenverCoder1/play-lichess/pull/10) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+3. 🎉 Merged PR [#9](https://github.com/DenverCoder1/play-lichess/pull/9) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+4. 💪 Opened PR [#9](https://github.com/DenverCoder1/play-lichess/pull/9) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+5. 🎉 Merged PR [#319](https://github.com/DenverCoder1/jct-discord-bot/pull/319) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
