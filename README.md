@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/DenverCoder1/table2ascii/issues/32) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. 🗣 Commented on [#500](https://github.com/nextcord/nextcord/issues/500) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#10](https://github.com/DenverCoder1/play-lichess/pull/10) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
-4. 💪 Opened PR [#10](https://github.com/DenverCoder1/play-lichess/pull/10) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
-5. 🎉 Merged PR [#9](https://github.com/DenverCoder1/play-lichess/pull/9) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+1. 🎉 Merged PR [#349](https://github.com/DenverCoder1/custom-icon-badges/pull/349) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#348](https://github.com/DenverCoder1/custom-icon-badges/pull/348) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#87](https://github.com/DenverCoder1/readme-typing-svg/issues/87) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🗣 Commented on [#32](https://github.com/DenverCoder1/table2ascii/issues/32) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. 🗣 Commented on [#500](https://github.com/nextcord/nextcord/issues/500) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
