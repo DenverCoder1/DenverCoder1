@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/31) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-2. 💪 Opened PR [#31](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/31) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-3. 🎉 Merged PR [#322](https://github.com/DenverCoder1/jct-discord-bot/pull/322) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🗣 Commented on [#522](https://github.com/nextcord/nextcord/issues/522) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Opened issue [#77](https://github.com/nextcord/previous/issues/77) in [nextcord/previous](https://github.com/nextcord/previous)
+1. 💪 Opened PR [#525](https://github.com/nextcord/nextcord/pull/525) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#524](https://github.com/nextcord/nextcord/issues/524) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#31](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/31) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+4. 💪 Opened PR [#31](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/31) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+5. 🎉 Merged PR [#322](https://github.com/DenverCoder1/jct-discord-bot/pull/322) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
