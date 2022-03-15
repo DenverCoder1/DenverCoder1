@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/DenverCoderOne/nextcord/pull/2) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
-2. ❌ Closed PR [#6](https://github.com/DenverCoderOne/nextcord/pull/6) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
-3. 🗣 Commented on [#531](https://github.com/nextcord/nextcord/issues/531) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#365](https://github.com/DenverCoder1/custom-icon-badges/pull/365) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#364](https://github.com/DenverCoder1/custom-icon-badges/pull/364) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#93](https://github.com/DenverCoder1/readme-typing-svg/pull/93) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#1](https://github.com/MaskDuck/nextcord/pull/1) in [MaskDuck/nextcord](https://github.com/MaskDuck/nextcord)
+3. 💪 Opened PR [#78](https://github.com/nextcord/previous/pull/78) in [nextcord/previous](https://github.com/nextcord/previous)
+4. ❗️ Opened issue [#532](https://github.com/nextcord/nextcord/issues/532) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❌ Closed PR [#2](https://github.com/DenverCoderOne/nextcord/pull/2) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
