@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/DenverCoder1/readme-typing-svg/pull/93) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 💪 Opened PR [#1](https://github.com/MaskDuck/nextcord/pull/1) in [MaskDuck/nextcord](https://github.com/MaskDuck/nextcord)
-3. 💪 Opened PR [#78](https://github.com/nextcord/previous/pull/78) in [nextcord/previous](https://github.com/nextcord/previous)
-4. ❗️ Opened issue [#532](https://github.com/nextcord/nextcord/issues/532) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❌ Closed PR [#2](https://github.com/DenverCoderOne/nextcord/pull/2) in [DenverCoderOne/nextcord](https://github.com/DenverCoderOne/nextcord)
+1. 🎉 Merged PR [#324](https://github.com/DenverCoder1/jct-discord-bot/pull/324) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#323](https://github.com/DenverCoder1/jct-discord-bot/pull/323) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#222](https://github.com/DenverCoder1/github-readme-streak-stats/pull/222) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#1](https://github.com/MaskDuck/nextcord-ext-activities/issues/1) in [MaskDuck/nextcord-ext-activities](https://github.com/MaskDuck/nextcord-ext-activities)
+5. 🗣 Commented on [#1](https://github.com/MaskDuck/nextcord-ext-activities/issues/1) in [MaskDuck/nextcord-ext-activities](https://github.com/MaskDuck/nextcord-ext-activities)
 <!--END_SECTION:activity-->
 </details>
 
