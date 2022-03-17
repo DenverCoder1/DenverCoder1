@@ -223,10 +223,10 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#324](https://github.com/DenverCoder1/jct-discord-bot/pull/324) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#323](https://github.com/DenverCoder1/jct-discord-bot/pull/323) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#222](https://github.com/DenverCoder1/github-readme-streak-stats/pull/222) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#1](https://github.com/MaskDuck/nextcord-ext-activities/issues/1) in [MaskDuck/nextcord-ext-activities](https://github.com/MaskDuck/nextcord-ext-activities)
+1. 🗣 Commented on [#535](https://github.com/nextcord/nextcord/issues/535) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#324](https://github.com/DenverCoder1/jct-discord-bot/pull/324) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#323](https://github.com/DenverCoder1/jct-discord-bot/pull/323) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#222](https://github.com/DenverCoder1/github-readme-streak-stats/pull/222) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 5. 🗣 Commented on [#1](https://github.com/MaskDuck/nextcord-ext-activities/issues/1) in [MaskDuck/nextcord-ext-activities](https://github.com/MaskDuck/nextcord-ext-activities)
 <!--END_SECTION:activity-->
 </details>
