@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#383](https://github.com/nextcord/nextcord/issues/383) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#464](https://github.com/nextcord/nextcord/issues/464) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#368](https://github.com/DenverCoder1/custom-icon-badges/pull/368) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#367](https://github.com/DenverCoder1/custom-icon-badges/pull/367) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#36](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/36) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+1. 🗣 Commented on [#546](https://github.com/nextcord/nextcord/issues/546) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#370](https://github.com/DenverCoder1/custom-icon-badges/pull/370) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 💪 Opened PR [#545](https://github.com/nextcord/nextcord/pull/545) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#543](https://github.com/nextcord/nextcord/issues/543) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#544](https://github.com/nextcord/nextcord/pull/544) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
