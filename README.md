@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/nextcord/nextcord/issues/467) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#552](https://github.com/nextcord/nextcord/pull/552) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#551](https://github.com/nextcord/nextcord/pull/551) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#536](https://github.com/nextcord/nextcord/issues/536) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#467](https://github.com/nextcord/nextcord/issues/467) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#555](https://github.com/nextcord/nextcord/pull/555) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#551](https://github.com/nextcord/nextcord/issues/551) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#29](https://github.com/DenverCoder1/unicode-formatter/issues/29) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+4. 🎉 Merged PR [#30](https://github.com/DenverCoder1/unicode-formatter/pull/30) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+5. 💪 Opened PR [#30](https://github.com/DenverCoder1/unicode-formatter/pull/30) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
 <!--END_SECTION:activity-->
 </details>
 
