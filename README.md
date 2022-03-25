@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#555](https://github.com/nextcord/nextcord/pull/555) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#551](https://github.com/nextcord/nextcord/issues/551) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#29](https://github.com/DenverCoder1/unicode-formatter/issues/29) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. 🎉 Merged PR [#30](https://github.com/DenverCoder1/unicode-formatter/pull/30) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. 💪 Opened PR [#30](https://github.com/DenverCoder1/unicode-formatter/pull/30) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+1. 🎉 Merged PR [#55](https://github.com/DenverCoder1/weasley-chess-bot/pull/55) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 🎉 Merged PR [#35](https://github.com/DenverCoder1/give-and-take-bot/pull/35) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
+3. 🎉 Merged PR [#325](https://github.com/DenverCoder1/jct-discord-bot/pull/325) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#326](https://github.com/DenverCoder1/jct-discord-bot/pull/326) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#373](https://github.com/DenverCoder1/custom-icon-badges/pull/373) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
