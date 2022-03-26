@@ -223,11 +223,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/DenverCoder1/weasley-chess-bot/pull/55) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-2. 🎉 Merged PR [#35](https://github.com/DenverCoder1/give-and-take-bot/pull/35) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
-3. 🎉 Merged PR [#325](https://github.com/DenverCoder1/jct-discord-bot/pull/325) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🎉 Merged PR [#326](https://github.com/DenverCoder1/jct-discord-bot/pull/326) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#373](https://github.com/DenverCoder1/custom-icon-badges/pull/373) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#95](https://github.com/DenverCoder1/readme-typing-svg/pull/95) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#95](https://github.com/DenverCoder1/readme-typing-svg/pull/95) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#38](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/38) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 🎉 Merged PR [#55](https://github.com/DenverCoder1/weasley-chess-bot/pull/55) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+5. 🎉 Merged PR [#35](https://github.com/DenverCoder1/give-and-take-bot/pull/35) in [DenverCoder1/give-and-take-bot](https://github.com/DenverCoder1/give-and-take-bot)
 <!--END_SECTION:activity-->
 </details>
 
