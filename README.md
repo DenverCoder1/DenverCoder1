@@ -225,11 +225,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#328](https://github.com/DenverCoder1/jct-discord-bot/pull/328) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#377](https://github.com/DenverCoder1/custom-icon-badges/pull/377) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#557](https://github.com/nextcord/nextcord/pull/557) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#95](https://github.com/DenverCoder1/readme-typing-svg/pull/95) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 💪 Opened PR [#95](https://github.com/DenverCoder1/readme-typing-svg/pull/95) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#8](https://github.com/DenverCoder1/discord-wordle-clone/pull/8) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+2. 💪 Opened PR [#8](https://github.com/DenverCoder1/discord-wordle-clone/pull/8) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+3. 🎉 Merged PR [#379](https://github.com/DenverCoder1/custom-icon-badges/pull/379) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 💪 Opened PR [#182](https://github.com/IonicaBizau/git-stats/pull/182) in [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats)
+5. 🗣 Commented on [#178](https://github.com/IonicaBizau/git-stats/issues/178) in [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats)
 <!--END_SECTION:activity-->
 </details>
 
