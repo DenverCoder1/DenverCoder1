@@ -226,11 +226,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DenverCoder1/discord-wordle-clone/pull/8) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
-2. 💪 Opened PR [#8](https://github.com/DenverCoder1/discord-wordle-clone/pull/8) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
-3. 🎉 Merged PR [#379](https://github.com/DenverCoder1/custom-icon-badges/pull/379) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#182](https://github.com/IonicaBizau/git-stats/pull/182) in [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats)
-5. 🗣 Commented on [#178](https://github.com/IonicaBizau/git-stats/issues/178) in [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats)
+1. 🗣 Commented on [#7809](https://github.com/Rapptz/discord.py/issues/7809) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 💪 Opened PR [#7809](https://github.com/Rapptz/discord.py/pull/7809) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 💪 Opened PR [#7808](https://github.com/Rapptz/discord.py/pull/7808) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 🎉 Merged PR [#382](https://github.com/DenverCoder1/custom-icon-badges/pull/382) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#383](https://github.com/DenverCoder1/custom-icon-badges/pull/383) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
