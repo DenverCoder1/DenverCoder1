@@ -226,11 +226,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7809](https://github.com/Rapptz/discord.py/issues/7809) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 💪 Opened PR [#7809](https://github.com/Rapptz/discord.py/pull/7809) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 💪 Opened PR [#7808](https://github.com/Rapptz/discord.py/pull/7808) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🎉 Merged PR [#382](https://github.com/DenverCoder1/custom-icon-badges/pull/382) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#383](https://github.com/DenverCoder1/custom-icon-badges/pull/383) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#384](https://github.com/DenverCoder1/custom-icon-badges/pull/384) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#562](https://github.com/nextcord/nextcord/pull/562) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#7814](https://github.com/Rapptz/discord.py/pull/7814) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 💪 Opened PR [#7813](https://github.com/Rapptz/discord.py/pull/7813) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+5. 🗣 Commented on [#7809](https://github.com/Rapptz/discord.py/issues/7809) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 </details>
 
