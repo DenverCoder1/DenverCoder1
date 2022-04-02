@@ -226,11 +226,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#385](https://github.com/DenverCoder1/custom-icon-badges/pull/385) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 💪 Opened PR [#443](https://github.com/DisnakeDev/disnake/pull/443) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
-3. 💪 Opened PR [#442](https://github.com/DisnakeDev/disnake/pull/442) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
-4. 💪 Opened PR [#564](https://github.com/nextcord/nextcord/pull/564) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#384](https://github.com/DenverCoder1/custom-icon-badges/pull/384) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#96](https://github.com/DenverCoder1/readme-typing-svg/pull/96) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🎉 Merged PR [#385](https://github.com/DenverCoder1/custom-icon-badges/pull/385) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 💪 Opened PR [#443](https://github.com/DisnakeDev/disnake/pull/443) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
+4. 💪 Opened PR [#442](https://github.com/DisnakeDev/disnake/pull/442) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
+5. 💪 Opened PR [#564](https://github.com/nextcord/nextcord/pull/564) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
