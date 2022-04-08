@@ -226,11 +226,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DenverCoder1/docstring-utils/pull/6) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
-2. 💪 Opened PR [#6](https://github.com/DenverCoder1/docstring-utils/pull/6) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
-3. 🎉 Merged PR [#5](https://github.com/DenverCoder1/docstring-utils/pull/5) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
-4. 💪 Opened PR [#5](https://github.com/DenverCoder1/docstring-utils/pull/5) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
-5. 🎉 Merged PR [#4](https://github.com/DenverCoder1/docstring-utils/pull/4) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
+1. 🗣 Commented on [#383](https://github.com/nextcord/nextcord/issues/383) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#575](https://github.com/nextcord/nextcord/issues/575) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#6](https://github.com/DenverCoder1/docstring-utils/pull/6) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
+4. 💪 Opened PR [#6](https://github.com/DenverCoder1/docstring-utils/pull/6) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
+5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/docstring-utils/pull/5) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
 <!--END_SECTION:activity-->
 </details>
 
