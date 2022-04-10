@@ -226,11 +226,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/nextcord/nextcord/issues/578) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#578](https://github.com/nextcord/nextcord/issues/578) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#383](https://github.com/nextcord/nextcord/issues/383) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#575](https://github.com/nextcord/nextcord/issues/575) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#6](https://github.com/DenverCoder1/docstring-utils/pull/6) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
+1. 🗣 Commented on [#586](https://github.com/nextcord/nextcord/issues/586) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#567](https://github.com/nextcord/nextcord/issues/567) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
