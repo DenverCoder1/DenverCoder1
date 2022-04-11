@@ -226,11 +226,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#586](https://github.com/nextcord/nextcord/issues/586) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#97](https://github.com/DenverCoder1/readme-typing-svg/pull/97) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#586](https://github.com/nextcord/nextcord/issues/586) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#567](https://github.com/nextcord/nextcord/issues/567) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#567](https://github.com/nextcord/nextcord/issues/567) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
