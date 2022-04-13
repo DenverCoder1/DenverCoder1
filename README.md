@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7872](https://github.com/Rapptz/discord.py/pull/7872) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🎉 Merged PR [#97](https://github.com/DenverCoder1/readme-typing-svg/pull/97) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#586](https://github.com/nextcord/nextcord/issues/586) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#585](https://github.com/nextcord/nextcord/issues/585) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#39](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/39) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+2. 💪 Opened PR [#39](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/39) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 🗣 Commented on [#21](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/21) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 🎉 Merged PR [#332](https://github.com/DenverCoder1/jct-discord-bot/pull/332) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#34](https://github.com/DenverCoder1/table2ascii/pull/34) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 </details>
 
