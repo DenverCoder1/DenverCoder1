@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/39) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-2. 💪 Opened PR [#39](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/39) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 🗣 Commented on [#21](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/21) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 🎉 Merged PR [#332](https://github.com/DenverCoder1/jct-discord-bot/pull/332) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#34](https://github.com/DenverCoder1/table2ascii/pull/34) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. ❗️ Closed issue [#21](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/21) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+2. 🗣 Commented on [#21](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/21) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 🎉 Merged PR [#41](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/41) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 💪 Opened PR [#41](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/41) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 🎉 Merged PR [#40](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/40) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
 <!--END_SECTION:activity-->
 </details>
 
