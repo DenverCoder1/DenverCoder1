@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/nextcord/nextcord-ext-menus/pull/37) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-2. ❗️ Opened issue [#15](https://github.com/nextcord/nextcord-ext-ipc/issues/15) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. ❗️ Opened issue [#14](https://github.com/nextcord/nextcord-ext-ipc/issues/14) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-4. ❗️ Opened issue [#38](https://github.com/nextcord/nextcord-ext-menus/issues/38) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🎉 Merged PR [#398](https://github.com/DenverCoder1/custom-icon-badges/pull/398) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#334](https://github.com/DenverCoder1/jct-discord-bot/pull/334) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
