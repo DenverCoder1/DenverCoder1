@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#334](https://github.com/DenverCoder1/jct-discord-bot/pull/334) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🗣 Commented on [#610](https://github.com/nextcord/nextcord/issues/610) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#610](https://github.com/nextcord/nextcord/issues/610) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#92](https://github.com/nextcord/previous/issues/92) in [nextcord/previous](https://github.com/nextcord/previous)
+4. 🗣 Commented on [#92](https://github.com/nextcord/previous/issues/92) in [nextcord/previous](https://github.com/nextcord/previous)
+5. 🗣 Commented on [#173](https://github.com/nextcord/nextcord/issues/173) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
