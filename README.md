@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/DenverCoder1/readme-typing-svg/issues/100) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#626](https://github.com/nextcord/nextcord/issues/626) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#621](https://github.com/nextcord/nextcord/issues/621) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#607](https://github.com/nextcord/nextcord/issues/607) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#621](https://github.com/nextcord/nextcord/issues/621) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#630](https://github.com/nextcord/nextcord/pull/630) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#100](https://github.com/DenverCoder1/readme-typing-svg/issues/100) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🗣 Commented on [#626](https://github.com/nextcord/nextcord/issues/626) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#621](https://github.com/nextcord/nextcord/issues/621) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#607](https://github.com/nextcord/nextcord/issues/607) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
