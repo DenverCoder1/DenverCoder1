@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/13) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-2. 🗣 Commented on [#13](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/13) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-3. 🗣 Commented on [#12](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/12) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-4. 🎉 Merged PR [#11](https://github.com/DenverCoder1/doxygen-github-pages-action/pull/11) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-5. 🗣 Commented on [#10](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/10) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+1. 🎉 Merged PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+2. 💪 Opened PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+3. 🎉 Merged PR [#10](https://github.com/DenverCoder1/math-bot-with-steps/pull/10) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+4. 🗣 Commented on [#9](https://github.com/DenverCoder1/math-bot-with-steps/issues/9) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+5. ❌ Closed PR [#9](https://github.com/DenverCoder1/math-bot-with-steps/pull/9) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
 <!--END_SECTION:activity-->
 </details>
 
