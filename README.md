@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7994](https://github.com/Rapptz/discord.py/issues/7994) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🎉 Merged PR [#338](https://github.com/DenverCoder1/jct-discord-bot/pull/338) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 2. 🗣 Commented on [#7994](https://github.com/Rapptz/discord.py/issues/7994) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 🎉 Merged PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
-4. 💪 Opened PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
-5. 🎉 Merged PR [#10](https://github.com/DenverCoder1/math-bot-with-steps/pull/10) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+3. 🗣 Commented on [#7994](https://github.com/Rapptz/discord.py/issues/7994) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 🎉 Merged PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+5. 💪 Opened PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
 <!--END_SECTION:activity-->
 </details>
 
