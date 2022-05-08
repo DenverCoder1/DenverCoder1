@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#338](https://github.com/DenverCoder1/jct-discord-bot/pull/338) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#7994](https://github.com/Rapptz/discord.py/issues/7994) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 🗣 Commented on [#7994](https://github.com/Rapptz/discord.py/issues/7994) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🎉 Merged PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
-5. 💪 Opened PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+1. 🗣 Commented on [#11](https://github.com/DenverCoder1/discord-wordle-clone/issues/11) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+2. 🗣 Commented on [#15](https://github.com/nextcord/nextcord-ext-ipc/issues/15) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+3. 🗣 Commented on [#10](https://github.com/DenverCoder1/discord-wordle-clone/issues/10) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
+4. 🗣 Commented on [#638](https://github.com/nextcord/nextcord/issues/638) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#338](https://github.com/DenverCoder1/jct-discord-bot/pull/338) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
