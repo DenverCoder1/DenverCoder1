@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#664](https://github.com/o2sh/onefetch/issues/664) in [o2sh/onefetch](https://github.com/o2sh/onefetch)
-2. 💪 Opened PR [#664](https://github.com/o2sh/onefetch/pull/664) in [o2sh/onefetch](https://github.com/o2sh/onefetch)
-3. 🎉 Merged PR [#339](https://github.com/DenverCoder1/jct-discord-bot/pull/339) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🗣 Commented on [#11](https://github.com/DenverCoder1/discord-wordle-clone/issues/11) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
-5. 🗣 Commented on [#15](https://github.com/nextcord/nextcord-ext-ipc/issues/15) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+1. 🗣 Commented on [#643](https://github.com/nextcord/nextcord/issues/643) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#642](https://github.com/nextcord/nextcord/pull/642) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#642](https://github.com/nextcord/nextcord/issues/642) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#12](https://github.com/DenverCoder1/math-bot-with-steps/pull/12) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+5. 💪 Opened PR [#12](https://github.com/DenverCoder1/math-bot-with-steps/pull/12) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
 <!--END_SECTION:activity-->
 </details>
 
