@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#643](https://github.com/nextcord/nextcord/issues/643) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❌ Closed PR [#642](https://github.com/nextcord/nextcord/pull/642) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#642](https://github.com/nextcord/nextcord/issues/642) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#12](https://github.com/DenverCoder1/math-bot-with-steps/pull/12) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
-5. 💪 Opened PR [#12](https://github.com/DenverCoder1/math-bot-with-steps/pull/12) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+1. 🎉 Merged PR [#101](https://github.com/DenverCoder1/readme-typing-svg/pull/101) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🎉 Merged PR [#102](https://github.com/DenverCoder1/readme-typing-svg/pull/102) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 💪 Opened PR [#102](https://github.com/DenverCoder1/readme-typing-svg/pull/102) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Closed issue [#87](https://github.com/DenverCoder1/readme-typing-svg/issues/87) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🗣 Commented on [#643](https://github.com/nextcord/nextcord/issues/643) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
