@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/33) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-2. 💪 Opened PR [#33](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/33) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-3. 🎉 Merged PR [#101](https://github.com/DenverCoder1/readme-typing-svg/pull/101) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🎉 Merged PR [#102](https://github.com/DenverCoder1/readme-typing-svg/pull/102) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 💪 Opened PR [#102](https://github.com/DenverCoder1/readme-typing-svg/pull/102) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 💪 Opened PR [#416](https://github.com/DenverCoder1/custom-icon-badges/pull/416) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. ❗️ Closed issue [#414](https://github.com/DenverCoder1/custom-icon-badges/issues/414) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#414](https://github.com/DenverCoder1/custom-icon-badges/issues/414) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/33) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+5. 💪 Opened PR [#33](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/33) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
