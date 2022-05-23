@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/rzashakeri/beautify-github-profile/issues/9) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. 🎉 Merged PR [#424](https://github.com/DenverCoder1/custom-icon-badges/pull/424) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#424](https://github.com/DenverCoder1/custom-icon-badges/pull/424) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#423](https://github.com/DenverCoder1/custom-icon-badges/pull/423) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#423](https://github.com/DenverCoder1/custom-icon-badges/pull/423) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#342](https://github.com/DenverCoder1/jct-discord-bot/pull/342) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#426](https://github.com/DenverCoder1/custom-icon-badges/pull/426) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#425](https://github.com/DenverCoder1/custom-icon-badges/pull/425) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#42](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/42) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+5. 💪 Opened PR [#42](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/42) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
