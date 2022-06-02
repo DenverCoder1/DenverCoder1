@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/54) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-2. 💪 Opened PR [#54](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/54) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-3. 🎉 Merged PR [#53](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/53) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-4. 💪 Opened PR [#53](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/53) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 🎉 Merged PR [#52](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/52) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+1. 🎉 Merged PR [#441](https://github.com/DenverCoder1/custom-icon-badges/pull/441) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🗣 Commented on [#242](https://github.com/DenverCoder1/github-readme-streak-stats/issues/242) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 💪 Opened PR [#40](https://github.com/nextcord/nextcord-ext-menus/pull/40) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+4. 🎉 Merged PR [#39](https://github.com/nextcord/nextcord-ext-menus/pull/39) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🎉 Merged PR [#54](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/54) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
