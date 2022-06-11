@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#673](https://github.com/nextcord/nextcord/issues/673) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#672](https://github.com/nextcord/nextcord/issues/672) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#672](https://github.com/nextcord/nextcord/pull/672) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#17](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/17) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+2. 💪 Opened PR [#17](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/17) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+3. ❗️ Opened issue [#673](https://github.com/nextcord/nextcord/issues/673) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
