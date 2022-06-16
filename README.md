@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#348](https://github.com/DenverCoder1/jct-discord-bot/pull/348) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#462](https://github.com/DenverCoder1/custom-icon-badges/pull/462) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#461](https://github.com/DenverCoder1/custom-icon-badges/pull/461) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#460](https://github.com/DenverCoder1/custom-icon-badges/pull/460) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#459](https://github.com/DenverCoder1/custom-icon-badges/pull/459) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 💪 Opened PR [#9](https://github.com/badges/awesome-badges/pull/9) in [badges/awesome-badges](https://github.com/badges/awesome-badges)
+2. 🎉 Merged PR [#4](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/4) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
+3. 💪 Opened PR [#4](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/4) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
+4. 🎉 Merged PR [#3](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/3) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
+5. 🗣 Commented on [#1961](https://github.com/OpenUserJS/OpenUserJS.org/issues/1961) in [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)
 <!--END_SECTION:activity-->
 </details>
 
