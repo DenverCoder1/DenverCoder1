@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/badges/awesome-badges/pull/9) in [badges/awesome-badges](https://github.com/badges/awesome-badges)
-2. 🎉 Merged PR [#4](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/4) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
-3. 💪 Opened PR [#4](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/4) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
-4. 🎉 Merged PR [#3](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/3) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
-5. 🗣 Commented on [#1961](https://github.com/OpenUserJS/OpenUserJS.org/issues/1961) in [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)
+1. 🎉 Merged PR [#5](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/5) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
+2. 💪 Opened PR [#5](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/5) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
+3. 🎉 Merged PR [#57](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/57) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+4. 🎉 Merged PR [#467](https://github.com/DenverCoder1/custom-icon-badges/pull/467) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#57](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/57) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 <!--END_SECTION:activity-->
 </details>
 
