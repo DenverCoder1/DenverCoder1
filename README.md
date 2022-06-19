@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/5) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
-2. 💪 Opened PR [#5](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/5) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
-3. 🎉 Merged PR [#57](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/57) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-4. 🎉 Merged PR [#467](https://github.com/DenverCoder1/custom-icon-badges/pull/467) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#57](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/57) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+1. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
+2. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
+3. 🎉 Merged PR [#262](https://github.com/DenverCoder1/github-readme-streak-stats/pull/262) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#10](https://github.com/badges/awesome-badges/issues/10) in [badges/awesome-badges](https://github.com/badges/awesome-badges)
+5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/dynamic-badge-formatter/pull/5) in [DenverCoder1/dynamic-badge-formatter](https://github.com/DenverCoder1/dynamic-badge-formatter)
 <!--END_SECTION:activity-->
 </details>
 
