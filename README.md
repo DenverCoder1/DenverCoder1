@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#264](https://github.com/DenverCoder1/github-readme-streak-stats/pull/264) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#38](https://github.com/DenverCoder1/discord-bot-template/pull/38) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
-3. 🎉 Merged PR [#23](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/23) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
-4. 💪 Opened PR [#11](https://github.com/badges/awesome-badges/pull/11) in [badges/awesome-badges](https://github.com/badges/awesome-badges)
-5. 🗣 Commented on [#5967](https://github.com/badges/shields/issues/5967) in [badges/shields](https://github.com/badges/shields)
+1. 🎉 Merged PR [#473](https://github.com/DenverCoder1/custom-icon-badges/pull/473) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#348](https://github.com/ZeppelinBot/Zeppelin/pull/348) in [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin)
+3. 💪 Opened PR [#23](https://github.com/ZeppelinBot/CLA/pull/23) in [ZeppelinBot/CLA](https://github.com/ZeppelinBot/CLA)
+4. ❗️ Opened issue [#347](https://github.com/ZeppelinBot/Zeppelin/issues/347) in [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin)
+5. 🎉 Merged PR [#264](https://github.com/DenverCoder1/github-readme-streak-stats/pull/264) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
