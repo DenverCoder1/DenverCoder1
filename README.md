@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8081](https://github.com/badges/shields/issues/8081) in [badges/shields](https://github.com/badges/shields)
-2. 💪 Opened PR [#698](https://github.com/nextcord/nextcord/pull/698) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Opened issue [#697](https://github.com/nextcord/nextcord/issues/697) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#58](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/58) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 💪 Opened PR [#58](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/58) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+1. 🎉 Merged PR [#31](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/31) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+2. 💪 Opened PR [#31](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/31) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+3. 🎉 Merged PR [#474](https://github.com/DenverCoder1/custom-icon-badges/pull/474) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#24](https://github.com/DenverCoder1/Tutorial-Discord-Bot/pull/24) in [DenverCoder1/Tutorial-Discord-Bot](https://github.com/DenverCoder1/Tutorial-Discord-Bot)
+5. 🎉 Merged PR [#39](https://github.com/DenverCoder1/discord-bot-template/pull/39) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
 <!--END_SECTION:activity-->
 </details>
 
