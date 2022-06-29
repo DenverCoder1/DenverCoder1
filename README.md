@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/nextcord/previous/issues/107) in [nextcord/previous](https://github.com/nextcord/previous)
-2. 💪 Opened PR [#717](https://github.com/nextcord/nextcord/pull/717) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#478](https://github.com/DenverCoder1/custom-icon-badges/pull/478) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#38](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/38) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 🎉 Merged PR [#39](https://github.com/DenverCoder1/table2ascii/pull/39) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🎉 Merged PR [#61](https://github.com/DenverCoder1/weasley-chess-bot/pull/61) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 🗣 Commented on [#8192](https://github.com/Rapptz/discord.py/issues/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#8192](https://github.com/Rapptz/discord.py/issues/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 🗣 Commented on [#8192](https://github.com/Rapptz/discord.py/issues/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+5. 💪 Opened PR [#8192](https://github.com/Rapptz/discord.py/pull/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 </details>
 
