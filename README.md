@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/DenverCoder1/weasley-chess-bot/pull/61) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
-2. 🗣 Commented on [#8192](https://github.com/Rapptz/discord.py/issues/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 🗣 Commented on [#8192](https://github.com/Rapptz/discord.py/issues/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🗣 Commented on [#8192](https://github.com/Rapptz/discord.py/issues/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-5. 💪 Opened PR [#8192](https://github.com/Rapptz/discord.py/pull/8192) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. ❗️ Closed issue [#722](https://github.com/nextcord/nextcord/issues/722) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#722](https://github.com/nextcord/nextcord/issues/722) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#267](https://github.com/DenverCoder1/github-readme-streak-stats/issues/267) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#678](https://github.com/nextcord/nextcord/issues/678) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#349](https://github.com/DenverCoder1/jct-discord-bot/pull/349) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
