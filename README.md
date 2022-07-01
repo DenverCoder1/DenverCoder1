@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#722](https://github.com/nextcord/nextcord/issues/722) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#722](https://github.com/nextcord/nextcord/issues/722) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#267](https://github.com/DenverCoder1/github-readme-streak-stats/issues/267) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#678](https://github.com/nextcord/nextcord/issues/678) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#349](https://github.com/DenverCoder1/jct-discord-bot/pull/349) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#39](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/39) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 💪 Opened PR [#39](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/39) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+3. 🗣 Commented on [#701](https://github.com/nextcord/nextcord/issues/701) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#723](https://github.com/nextcord/nextcord/pull/723) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#5](https://github.com/DenverCoder1/hogwarts-ghosts/pull/5) in [DenverCoder1/hogwarts-ghosts](https://github.com/DenverCoder1/hogwarts-ghosts)
 <!--END_SECTION:activity-->
 </details>
 
