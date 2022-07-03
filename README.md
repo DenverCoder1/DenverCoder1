@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#724](https://github.com/nextcord/nextcord/issues/724) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#39](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/39) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-3. 💪 Opened PR [#39](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/39) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-4. 🗣 Commented on [#701](https://github.com/nextcord/nextcord/issues/701) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#723](https://github.com/nextcord/nextcord/pull/723) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#2](https://github.com/nextcord/nextcord-ext-help-commands/pull/2) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+2. 🎉 Merged PR [#1](https://github.com/nextcord/nextcord-ext-help-commands/pull/1) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+3. 💪 Opened PR [#1](https://github.com/nextcord/nextcord-ext-help-commands/pull/1) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+4. ❗️ Opened issue [#728](https://github.com/nextcord/nextcord/issues/728) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#727](https://github.com/nextcord/nextcord/pull/727) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
