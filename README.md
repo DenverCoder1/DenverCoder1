@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/DenverCoder1/github-readme-streak-stats/issues/272) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#40](https://github.com/DenverCoder1/table2ascii/pull/40) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 🗣 Commented on [#729](https://github.com/nextcord/nextcord/issues/729) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#729](https://github.com/nextcord/nextcord/issues/729) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#729](https://github.com/nextcord/nextcord/issues/729) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Reopened issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#273](https://github.com/DenverCoder1/github-readme-streak-stats/pull/273) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#272](https://github.com/DenverCoder1/github-readme-streak-stats/pull/272) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Closed issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#62](https://github.com/DenverCoder1/weasley-chess-bot/pull/62) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
 <!--END_SECTION:activity-->
 </details>
 
