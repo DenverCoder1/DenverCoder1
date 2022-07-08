@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#270](https://github.com/DenverCoder1/github-readme-streak-stats/pull/270) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Reopened issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#273](https://github.com/DenverCoder1/github-readme-streak-stats/pull/273) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#272](https://github.com/DenverCoder1/github-readme-streak-stats/pull/272) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Closed issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+2. 💪 Opened PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+3. 🗣 Commented on [#1961](https://github.com/OpenUserJS/OpenUserJS.org/issues/1961) in [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)
+4. 🗣 Commented on [#5170](https://github.com/discord/discord-api-docs/issues/5170) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🗣 Commented on [#5170](https://github.com/discord/discord-api-docs/issues/5170) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 </details>
 
