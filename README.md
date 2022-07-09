@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-2. 💪 Opened PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-3. 🗣 Commented on [#1961](https://github.com/OpenUserJS/OpenUserJS.org/issues/1961) in [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)
-4. 🗣 Commented on [#5170](https://github.com/discord/discord-api-docs/issues/5170) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#5170](https://github.com/discord/discord-api-docs/issues/5170) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
+2. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
+3. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
+4. 🗣 Commented on [#732](https://github.com/nextcord/nextcord/issues/732) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
 <!--END_SECTION:activity-->
 </details>
 
