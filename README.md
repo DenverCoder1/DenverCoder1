@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
-2. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
-3. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
-4. 🗣 Commented on [#732](https://github.com/nextcord/nextcord/issues/732) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+1. 🎉 Merged PR [#44](https://github.com/nextcord/nextcord-ext-menus/pull/44) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+2. 🎉 Merged PR [#3](https://github.com/nextcord/nextcord-ext-help-commands/pull/3) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+3. 🎉 Merged PR [#105](https://github.com/DenverCoder1/readme-typing-svg/pull/105) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 💪 Opened PR [#739](https://github.com/nextcord/nextcord/pull/739) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#8087](https://github.com/badges/shields/issues/8087) in [badges/shields](https://github.com/badges/shields)
 <!--END_SECTION:activity-->
 </details>
 
