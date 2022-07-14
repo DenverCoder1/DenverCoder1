@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/DenverCoder1/Unedit-for-Reddit/issues/34) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-2. 💪 Opened PR [#35](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/35) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-3. 🗣 Commented on [#34](https://github.com/DenverCoder1/Unedit-for-Reddit/issues/34) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-4. 🗣 Commented on [#4](https://github.com/nextcord/nextcord-ext-help-commands/issues/4) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-5. 🎉 Merged PR [#57](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/57) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+1. 💪 Opened PR [#8192](https://github.com/badges/shields/pull/8192) in [badges/shields](https://github.com/badges/shields)
+2. 🎉 Merged PR [#486](https://github.com/DenverCoder1/custom-icon-badges/pull/486) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#275](https://github.com/DenverCoder1/github-readme-streak-stats/issues/275) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#5573](https://github.com/badges/shields/issues/5573) in [badges/shields](https://github.com/badges/shields)
+5. 🎉 Merged PR [#35](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/35) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
 <!--END_SECTION:activity-->
 </details>
 
