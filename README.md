@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8192](https://github.com/badges/shields/pull/8192) in [badges/shields](https://github.com/badges/shields)
-2. 🎉 Merged PR [#486](https://github.com/DenverCoder1/custom-icon-badges/pull/486) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🗣 Commented on [#275](https://github.com/DenverCoder1/github-readme-streak-stats/issues/275) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#5573](https://github.com/badges/shields/issues/5573) in [badges/shields](https://github.com/badges/shields)
-5. 🎉 Merged PR [#35](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/35) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+1. ❗️ Opened issue [#937](https://github.com/showdownjs/showdown/issues/937) in [showdownjs/showdown](https://github.com/showdownjs/showdown)
+2. 🎉 Merged PR [#109](https://github.com/DenverCoder1/readme-typing-svg/pull/109) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#487](https://github.com/DenverCoder1/custom-icon-badges/pull/487) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 💪 Opened PR [#741](https://github.com/nextcord/nextcord/pull/741) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#107](https://github.com/DenverCoder1/readme-typing-svg/pull/107) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 </details>
 
