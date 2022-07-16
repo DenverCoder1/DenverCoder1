@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#937](https://github.com/showdownjs/showdown/issues/937) in [showdownjs/showdown](https://github.com/showdownjs/showdown)
-2. 🎉 Merged PR [#109](https://github.com/DenverCoder1/readme-typing-svg/pull/109) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#487](https://github.com/DenverCoder1/custom-icon-badges/pull/487) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#741](https://github.com/nextcord/nextcord/pull/741) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#107](https://github.com/DenverCoder1/readme-typing-svg/pull/107) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 💪 Opened PR [#36](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/36) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
+2. ❗️ Opened issue [#937](https://github.com/showdownjs/showdown/issues/937) in [showdownjs/showdown](https://github.com/showdownjs/showdown)
+3. 🎉 Merged PR [#109](https://github.com/DenverCoder1/readme-typing-svg/pull/109) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#487](https://github.com/DenverCoder1/custom-icon-badges/pull/487) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#741](https://github.com/nextcord/nextcord/pull/741) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
