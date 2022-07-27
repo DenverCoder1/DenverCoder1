@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#752](https://github.com/nextcord/nextcord/issues/752) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#5](https://github.com/nextcord/nextcord-ext-help-commands/pull/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
 2. 🗣 Commented on [#752](https://github.com/nextcord/nextcord/issues/752) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. 🗣 Commented on [#752](https://github.com/nextcord/nextcord/issues/752) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#753](https://github.com/nextcord/nextcord/issues/753) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#752](https://github.com/nextcord/nextcord/issues/752) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#752](https://github.com/nextcord/nextcord/issues/752) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#753](https://github.com/nextcord/nextcord/issues/753) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 </details>
 
