@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/DenverCoder1/github-readme-streak-stats/issues/286) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#286](https://github.com/DenverCoder1/github-readme-streak-stats/issues/286) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#114](https://github.com/DenverCoder1/readme-typing-svg/pull/114) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#114](https://github.com/DenverCoder1/readme-typing-svg/pull/114) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#503](https://github.com/DenverCoder1/custom-icon-badges/pull/503) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#62](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/62) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+2. 🎉 Merged PR [#504](https://github.com/DenverCoder1/custom-icon-badges/pull/504) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 💪 Opened PR [#62](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/62) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+4. 💪 Opened PR [#45](https://github.com/nextcord/nextcord-ext-menus/pull/45) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🗣 Commented on [#286](https://github.com/DenverCoder1/github-readme-streak-stats/issues/286) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 </details>
 
