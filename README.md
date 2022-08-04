@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#187](https://github.com/bytebase/star-history/issues/187) in [bytebase/star-history](https://github.com/bytebase/star-history)
-2. 🗣 Commented on [#288](https://github.com/DenverCoder1/github-readme-streak-stats/issues/288) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#508](https://github.com/DenverCoder1/custom-icon-badges/pull/508) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#116](https://github.com/DenverCoder1/readme-typing-svg/pull/116) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 💪 Opened PR [#116](https://github.com/DenverCoder1/readme-typing-svg/pull/116) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#117](https://github.com/DenverCoder1/readme-typing-svg/pull/117) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Opened issue [#187](https://github.com/bytebase/star-history/issues/187) in [bytebase/star-history](https://github.com/bytebase/star-history)
+3. 🗣 Commented on [#288](https://github.com/DenverCoder1/github-readme-streak-stats/issues/288) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#508](https://github.com/DenverCoder1/custom-icon-badges/pull/508) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#116](https://github.com/DenverCoder1/readme-typing-svg/pull/116) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 </details>
 
