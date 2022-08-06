@@ -227,11 +227,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/DenverCoder1/readme-typing-svg/issues/118) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#510](https://github.com/DenverCoder1/custom-icon-badges/pull/510) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#511](https://github.com/DenverCoder1/custom-icon-badges/pull/511) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#512](https://github.com/DenverCoder1/custom-icon-badges/pull/512) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#509](https://github.com/DenverCoder1/custom-icon-badges/pull/509) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#70](https://github.com/nadar/quill-delta-parser/issues/70) in [nadar/quill-delta-parser](https://github.com/nadar/quill-delta-parser)
+2. 🗣 Commented on [#118](https://github.com/DenverCoder1/readme-typing-svg/issues/118) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#510](https://github.com/DenverCoder1/custom-icon-badges/pull/510) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#511](https://github.com/DenverCoder1/custom-icon-badges/pull/511) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#512](https://github.com/DenverCoder1/custom-icon-badges/pull/512) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
