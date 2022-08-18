@@ -27,9 +27,7 @@
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -48,12 +46,12 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Unedit-for-Reddit"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Unedit-for-Reddit"></a>
+  <a href="https://github.com/DenverCoder1/table2ascii"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
 </p>
 
 <p align="left">
@@ -62,15 +60,14 @@
 
 ## 📕 Top projects I've contributed to
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/badges/shields"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shields"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/o2sh/onefetch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="onefetch"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/badges/shields"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shields"></a>
+  <a href="https://github.com/simple-icons/simple-icons"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
+  <a href="https://github.com/Rapptz/discord.py"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
+  <a href="https://github.com/o2sh/onefetch"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="onefetch"></a>
+  <a href="https://github.com/nextcord/nextcord"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
 </p>
 
 <p align="left">
@@ -196,7 +193,7 @@
 ## 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
+<!-- YouTube Cards - by DenverCoder1 (no public repo) -->
 
 <!-- YOUTUBE:START -->
 [![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
