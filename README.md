@@ -230,11 +230,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#529](https://github.com/DenverCoder1/custom-icon-badges/pull/529) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#63](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/63) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 💪 Opened PR [#63](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/63) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-4. 💪 Opened PR [#794](https://github.com/nextcord/nextcord/pull/794) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#528](https://github.com/DenverCoder1/custom-icon-badges/pull/528) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#66](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/66) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+2. 💪 Opened PR [#66](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/66) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+3. 🎉 Merged PR [#65](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/65) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+4. 💪 Opened PR [#65](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/65) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+5. 🎉 Merged PR [#534](https://github.com/DenverCoder1/custom-icon-badges/pull/534) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
