@@ -230,11 +230,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/60) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-2. 🎉 Merged PR [#536](https://github.com/DenverCoder1/custom-icon-badges/pull/536) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#535](https://github.com/DenverCoder1/custom-icon-badges/pull/535) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#797](https://github.com/nextcord/nextcord/pull/797) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#796](https://github.com/nextcord/nextcord/pull/796) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#27](https://github.com/DenverCoder1/tutorial-discord-bot/pull/27) in [DenverCoder1/tutorial-discord-bot](https://github.com/DenverCoder1/tutorial-discord-bot)
+2. 💪 Opened PR [#27](https://github.com/DenverCoder1/tutorial-discord-bot/pull/27) in [DenverCoder1/tutorial-discord-bot](https://github.com/DenverCoder1/tutorial-discord-bot)
+3. 🎉 Merged PR [#60](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/60) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+4. 💪 Opened PR [#60](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/60) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 🎉 Merged PR [#536](https://github.com/DenverCoder1/custom-icon-badges/pull/536) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
