@@ -202,12 +202,12 @@
 <!-- YouTube Cards - by DenverCoder1 (no public repo) -->
 
 <!-- YOUTUBE:START -->
+[![Automatically Deploy to Fly.io from GitHub with Actions](https://freshidea.com/jonah/app/youtube-card/?id=6u9BrDaSHJc)](https://www.youtube.com/watch?v=6u9BrDaSHJc "Automatically Deploy to Fly.io from GitHub with Actions")
 [![Hosting a Python Discord Bot for Free with Fly.io](https://freshidea.com/jonah/app/youtube-card/?id=J7Fm7MdZn_E)](https://www.youtube.com/watch?v=J7Fm7MdZn_E "Hosting a Python Discord Bot for Free with Fly.io")
 [![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
 [![Run Open Source Code in Seconds with GitPod](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw "Run Open Source Code in Seconds with GitPod")
 [![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://www.youtube.com/watch?v=xsA5QAkr-04 "Custom Help Commands [#2] Select Menus - Python Discord Bot")
-[![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot")
-[![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial")<!-- YOUTUBE:END -->
+[![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot")<!-- YOUTUBE:END -->
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
