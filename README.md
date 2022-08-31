@@ -230,11 +230,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/DenverCoder1/readme-typing-svg/pull/129) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#540](https://github.com/DenverCoder1/custom-icon-badges/pull/540) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#539](https://github.com/DenverCoder1/custom-icon-badges/pull/539) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#541](https://github.com/DenverCoder1/custom-icon-badges/pull/541) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#51](https://github.com/DenverCoder1/unedit-for-reddit/pull/51) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. 🎉 Merged PR [#542](https://github.com/DenverCoder1/custom-icon-badges/pull/542) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#543](https://github.com/DenverCoder1/custom-icon-badges/pull/543) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#317](https://github.com/DenverCoder1/github-readme-streak-stats/pull/317) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#801](https://github.com/nextcord/nextcord/pull/801) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#16](https://github.com/DenverCoder1/discord-wordle-clone/pull/16) in [DenverCoder1/discord-wordle-clone](https://github.com/DenverCoder1/discord-wordle-clone)
 <!--END_SECTION:activity-->
 </details>
 
