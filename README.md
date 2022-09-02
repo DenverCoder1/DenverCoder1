@@ -230,11 +230,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#364](https://github.com/DenverCoder1/jct-discord-bot/pull/364) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#544](https://github.com/DenverCoder1/custom-icon-badges/pull/544) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🗣 Commented on [#802](https://github.com/nextcord/nextcord/issues/802) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#802](https://github.com/nextcord/nextcord/pull/802) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#542](https://github.com/DenverCoder1/custom-icon-badges/pull/542) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#5](https://github.com/DenverCoderOne/siemano/pull/5) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+2. 💪 Opened PR [#5](https://github.com/DenverCoderOne/siemano/pull/5) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+3. 🎉 Merged PR [#4](https://github.com/DenverCoderOne/siemano/pull/4) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+4. 💪 Opened PR [#4](https://github.com/DenverCoderOne/siema/pull/4) in [DenverCoderOne/siema](https://github.com/DenverCoderOne/siema)
+5. 🎉 Merged PR [#3](https://github.com/DenverCoderOne/siema/pull/3) in [DenverCoderOne/siema](https://github.com/DenverCoderOne/siema)
 <!--END_SECTION:activity-->
 </details>
 
