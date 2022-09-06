@@ -230,11 +230,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/43) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-2. 🎉 Merged PR [#22](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/22) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
-3. 💪 Opened PR [#22](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/22) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
-4. 🎉 Merged PR [#21](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/21) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
-5. 🎉 Merged PR [#29](https://github.com/DenverCoder1/tutorial-discord-bot/pull/29) in [DenverCoder1/tutorial-discord-bot](https://github.com/DenverCoder1/tutorial-discord-bot)
+1. 🎉 Merged PR [#7](https://github.com/DenverCoder1/docstring-utils/pull/7) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
+2. 💪 Opened PR [#7](https://github.com/DenverCoder1/docstring-utils/pull/7) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
+3. 🗣 Commented on [#811](https://github.com/nextcord/nextcord/issues/811) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#811](https://github.com/nextcord/nextcord/issues/811) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#47](https://github.com/nextcord/nextcord-ext-menus/pull/47) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
 <!--END_SECTION:activity-->
 </details>
 
