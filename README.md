@@ -230,11 +230,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/DenverCoder1/docstring-utils/pull/7) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
-2. 💪 Opened PR [#7](https://github.com/DenverCoder1/docstring-utils/pull/7) in [DenverCoder1/docstring-utils](https://github.com/DenverCoder1/docstring-utils)
-3. 🗣 Commented on [#811](https://github.com/nextcord/nextcord/issues/811) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#811](https://github.com/nextcord/nextcord/issues/811) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#47](https://github.com/nextcord/nextcord-ext-menus/pull/47) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+1. ❗️ Opened issue [#15](https://github.com/actions-cool/github-action-branding/issues/15) in [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding)
+2. 🎉 Merged PR [#60](https://github.com/DenverCoder1/unedit-for-reddit/pull/60) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+3. 💪 Opened PR [#60](https://github.com/DenverCoder1/unedit-for-reddit/pull/60) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+4. 🎉 Merged PR [#59](https://github.com/DenverCoder1/unedit-for-reddit/pull/59) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+5. 💪 Opened PR [#59](https://github.com/DenverCoder1/unedit-for-reddit/pull/59) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
 <!--END_SECTION:activity-->
 </details>
 
