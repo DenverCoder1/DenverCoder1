@@ -204,16 +204,13 @@
 
 ## 📺 Latest YouTube videos
 
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - by DenverCoder1 (no public repo) -->
+<!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
-<!-- YOUTUBE:START -->
-[![Automatically Deploy to Fly.io from GitHub with Actions](https://freshidea.com/jonah/app/youtube-card/?id=6u9BrDaSHJc)](https://www.youtube.com/watch?v=6u9BrDaSHJc "Automatically Deploy to Fly.io from GitHub with Actions")
-[![Hosting a Python Discord Bot for Free with Fly.io](https://freshidea.com/jonah/app/youtube-card/?id=J7Fm7MdZn_E)](https://www.youtube.com/watch?v=J7Fm7MdZn_E "Hosting a Python Discord Bot for Free with Fly.io")
-[![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
-[![Run Open Source Code in Seconds with GitPod](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw "Run Open Source Code in Seconds with GitPod")
-[![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://www.youtube.com/watch?v=xsA5QAkr-04 "Custom Help Commands [#2] Select Menus - Python Discord Bot")
-[![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot")<!-- YOUTUBE:END -->
+<!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Automatically Deploy to Fly.io from GitHub with Actions](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+from+GitHub+with+Actions&timestamp=1661864404&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "Automatically Deploy to Fly.io from GitHub with Actions")](https://www.youtube.com/watch?v=6u9BrDaSHJc) [![Hosting a Python Discord Bot for Free with Fly.io](https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&timestamp=1661708747&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "Hosting a Python Discord Bot for Free with Fly.io")](https://www.youtube.com/watch?v=J7Fm7MdZn_E) [![Making a Wordle Clone Discord Bot with Python (Nextcord)](https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&timestamp=1643900217&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "Making a Wordle Clone Discord Bot with Python (Nextcord)")](https://www.youtube.com/watch?v=0p_eQGKFY3I) [![Run Open Source Code in Seconds with GitPod](https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&timestamp=1642108413&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "Run Open Source Code in Seconds with GitPod")](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw) [![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&timestamp=1633051808&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "Custom Help Commands [#2] Select Menus - Python Discord Bot")](https://www.youtube.com/watch?v=xsA5QAkr-04) [![Custom Help Commands [#1] Embeds - Python Discord Bot](https://ytcards.demolab.com/?id=TzR8At0SFQI&title=Custom+Help+Commands+%5B%231%5D+Embeds+-+Python+Discord+Bot&timestamp=1632947582&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "Custom Help Commands [#1] Embeds - Python Discord Bot")](https://www.youtube.com/watch?v=TzR8At0SFQI)
+<!-- END YOUTUBE-CARDS -->
+<!-- prettier-ignore-end -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
@@ -229,20 +226,21 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#555](https://github.com/DenverCoder1/custom-icon-badges/pull/555) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 2. 🎉 Merged PR [#554](https://github.com/DenverCoder1/custom-icon-badges/pull/554) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 3. 🎉 Merged PR [#553](https://github.com/DenverCoder1/custom-icon-badges/pull/553) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 4. 🎉 Merged PR [#552](https://github.com/DenverCoder1/custom-icon-badges/pull/552) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 5. ❗️ Opened issue [#15](https://github.com/actions-cool/github-action-branding/issues/15) in [actions-cool/github-action-branding](https://github.com/actions-cool/github-action-branding)
-<!--END_SECTION:activity-->
-</details>
+    <!--END_SECTION:activity-->
+    </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>

@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
@@ -6,16 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README with latest videos from YouTube
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCipSxT7a3rn81vGLw9lqRkg"
-          custom_tags: "videoId/yt:videoId/"
-          max_post_count: 6
-          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
-          committer_email: "jonah@freshidea.com"
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
+          comment_tag_name: YOUTUBE-CARDS
