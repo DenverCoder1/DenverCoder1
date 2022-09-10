@@ -238,11 +238,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#322](https://github.com/DenverCoder1/github-readme-streak-stats/issues/322) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#13](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/13) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 💪 Opened PR [#13](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/13) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#12](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/12) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 💪 Opened PR [#12](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/12) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#17](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/17) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 💪 Opened PR [#17](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/17) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. 🎉 Merged PR [#16](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/16) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 💪 Opened PR [#16](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/16) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🎉 Merged PR [#15](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/15) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
