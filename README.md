@@ -240,11 +240,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/17) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 💪 Opened PR [#17](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/17) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 🎉 Merged PR [#16](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/16) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 💪 Opened PR [#16](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/16) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#15](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/15) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. ❗️ Opened issue [#27](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/27) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. ❗️ Opened issue [#26](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/26) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. ❗️ Opened issue [#25](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/25) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. ❗️ Opened issue [#24](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/24) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. ❗️ Opened issue [#23](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/23) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
