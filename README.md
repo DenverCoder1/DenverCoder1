@@ -240,11 +240,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#27](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/27) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. ❗️ Opened issue [#26](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/26) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❗️ Opened issue [#25](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/25) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. ❗️ Opened issue [#24](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/24) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. ❗️ Opened issue [#23](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/23) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#134](https://github.com/DenverCoder1/readme-typing-svg/pull/134) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🎉 Merged PR [#23](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/23) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
+3. 💪 Opened PR [#23](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/23) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
+4. 🎉 Merged PR [#44](https://github.com/DenverCoder1/discord-bot-template/pull/44) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+5. 💪 Opened PR [#44](https://github.com/DenverCoder1/discord-bot-template/pull/44) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
     <!--END_SECTION:activity-->
     </details>
 
