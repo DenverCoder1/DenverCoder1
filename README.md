@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#81](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/81) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
-2. 🎉 Merged PR [#583](https://github.com/DenverCoder1/custom-icon-badges/pull/583) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🗣 Commented on [#142](https://github.com/DenverCoder1/readme-typing-svg/issues/142) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#142](https://github.com/DenverCoder1/readme-typing-svg/pull/142) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#141](https://github.com/DenverCoder1/readme-typing-svg/pull/141) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. ❗️ Opened issue [#29](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/29) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. ❗️ Opened issue [#31](https://github.com/DenverCoder1/unicode-formatter/issues/31) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+3. ❗️ Opened issue [#147](https://github.com/DenverCoder1/readme-typing-svg/issues/147) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Closed issue [#328](https://github.com/DenverCoder1/github-readme-streak-stats/issues/328) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#586](https://github.com/DenverCoder1/custom-icon-badges/pull/586) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
     <!--END_SECTION:activity-->
     </details>
 
