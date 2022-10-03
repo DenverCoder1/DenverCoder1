@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#29](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/29) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. ❗️ Opened issue [#31](https://github.com/DenverCoder1/unicode-formatter/issues/31) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-3. ❗️ Opened issue [#147](https://github.com/DenverCoder1/readme-typing-svg/issues/147) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Closed issue [#328](https://github.com/DenverCoder1/github-readme-streak-stats/issues/328) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#586](https://github.com/DenverCoder1/custom-icon-badges/pull/586) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#27](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/27) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🗣 Commented on [#28](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/28) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. ❗️ Opened issue [#84](https://github.com/DenverCoder1/latex-gboard-dictionary/issues/84) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+4. 🎉 Merged PR [#83](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/83) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+5. 🗣 Commented on [#31](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/31) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
