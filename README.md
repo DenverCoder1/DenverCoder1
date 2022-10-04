@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#27](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/27) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 🗣 Commented on [#28](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/28) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❗️ Opened issue [#84](https://github.com/DenverCoder1/latex-gboard-dictionary/issues/84) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
-4. 🎉 Merged PR [#83](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/83) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
-5. 🗣 Commented on [#31](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/31) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#36](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/36) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🎉 Merged PR [#331](https://github.com/DenverCoder1/github-readme-streak-stats/pull/331) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#34](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/34) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🗣 Commented on [#34](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/34) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🗣 Commented on [#805](https://github.com/nextcord/nextcord/issues/805) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
     <!--END_SECTION:activity-->
     </details>
 
