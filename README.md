@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/DenverCoder1/DenverCoder1/pull/8) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-2. 💪 Opened PR [#8](https://github.com/DenverCoder1/DenverCoder1/pull/8) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-3. 🎉 Merged PR [#590](https://github.com/DenverCoder1/custom-icon-badges/pull/590) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#589](https://github.com/DenverCoder1/custom-icon-badges/pull/589) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#37](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/37) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#599](https://github.com/DenverCoder1/custom-icon-badges/pull/599) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#599](https://github.com/DenverCoder1/custom-icon-badges/pull/599) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#31](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/31) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. ❗️ Closed issue [#34](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/34) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🎉 Merged PR [#38](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/38) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
