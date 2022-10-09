@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#77](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/77) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-2. 💪 Opened PR [#77](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/77) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 🎉 Merged PR [#76](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/76) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-4. 💪 Opened PR [#76](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/76) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-5. 🎉 Merged PR [#75](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/75) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+1. 🎉 Merged PR [#48](https://github.com/DenverCoder1/table2ascii/pull/48) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. 💪 Opened PR [#48](https://github.com/DenverCoder1/table2ascii/pull/48) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 🎉 Merged PR [#47](https://github.com/DenverCoder1/table2ascii/pull/47) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 💪 Opened PR [#47](https://github.com/DenverCoder1/table2ascii/pull/47) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. 🎉 Merged PR [#46](https://github.com/DenverCoder1/table2ascii/pull/46) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
     <!--END_SECTION:activity-->
     </details>
 
