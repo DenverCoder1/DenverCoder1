@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#39](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/39) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. ❌ Closed PR [#40](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/40) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 🗣 Commented on [#40](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/40) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🗣 Commented on [#24](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/24) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#610](https://github.com/DenverCoder1/custom-icon-badges/pull/610) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#59](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/59) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 💪 Opened PR [#59](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/59) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. 🎉 Merged PR [#58](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/58) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 💪 Opened PR [#58](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/58) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🎉 Merged PR [#57](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/57) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
