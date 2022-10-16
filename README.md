@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#335](https://github.com/DenverCoder1/github-readme-streak-stats/pull/335) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#333](https://github.com/DenverCoder1/github-readme-streak-stats/issues/333) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#25](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/25) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🗣 Commented on [#26](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/26) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🗣 Commented on [#28](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/28) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🗣 Commented on [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 💪 Opened PR [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. 🗣 Commented on [#66](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/66) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🗣 Commented on [#25](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/25) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🎉 Merged PR [#64](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/64) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
