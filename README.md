@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 💪 Opened PR [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 🗣 Commented on [#66](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/66) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🗣 Commented on [#25](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/25) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#64](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/64) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 💪 Opened PR [#909](https://github.com/python-babel/babel/pull/909) in [python-babel/babel](https://github.com/python-babel/babel)
+2. ❗️ Opened issue [#908](https://github.com/python-babel/babel/issues/908) in [python-babel/babel](https://github.com/python-babel/babel)
+3. 🗣 Commented on [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🗣 Commented on [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 💪 Opened PR [#67](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/67) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
