@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#87](https://github.com/DenverCoder1/latex-gboard-dictionary/issues/87) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
-2. 🗣 Commented on [#87](https://github.com/DenverCoder1/latex-gboard-dictionary/issues/87) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
-3. 🎉 Merged PR [#87](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/87) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
-4. 🗣 Commented on [#909](https://github.com/python-babel/babel/issues/909) in [python-babel/babel](https://github.com/python-babel/babel)
-5. 🎉 Merged PR [#615](https://github.com/DenverCoder1/custom-icon-badges/pull/615) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#854](https://github.com/nextcord/nextcord/issues/854) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. 💪 Opened PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🎉 Merged PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 💪 Opened PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
