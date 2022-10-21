@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#854](https://github.com/nextcord/nextcord/issues/854) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 💪 Opened PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 💪 Opened PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 💪 Opened PR [#857](https://github.com/nextcord/nextcord/pull/857) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#37](https://github.com/DenverCoder1/unicode-formatter/pull/37) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+4. ❗️ Opened issue [#39](https://github.com/DenverCoder1/unicode-formatter/issues/39) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+5. ❗️ Opened issue [#38](https://github.com/DenverCoder1/unicode-formatter/issues/38) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
     <!--END_SECTION:activity-->
     </details>
 
