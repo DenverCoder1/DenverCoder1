@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#857](https://github.com/nextcord/nextcord/pull/857) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#37](https://github.com/DenverCoder1/unicode-formatter/pull/37) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. ❗️ Opened issue [#39](https://github.com/DenverCoder1/unicode-formatter/issues/39) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. ❗️ Opened issue [#38](https://github.com/DenverCoder1/unicode-formatter/issues/38) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+1. ❗️ Opened issue [#178](https://github.com/PyCQA/autoflake/issues/178) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
+2. 💪 Opened PR [#177](https://github.com/PyCQA/autoflake/pull/177) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
+3. 🗣 Commented on [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
+4. ❗️ Opened issue [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
+5. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
     <!--END_SECTION:activity-->
     </details>
 
