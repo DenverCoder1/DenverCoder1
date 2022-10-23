@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#178](https://github.com/PyCQA/autoflake/issues/178) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-2. 💪 Opened PR [#177](https://github.com/PyCQA/autoflake/pull/177) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-3. 🗣 Commented on [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-4. ❗️ Opened issue [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-5. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#876](https://github.com/scrapinghub/dateparser/issues/876) in [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser)
+2. 🗣 Commented on [#4840](https://github.com/pallets/flask/issues/4840) in [pallets/flask](https://github.com/pallets/flask)
+3. 💪 Opened PR [#9020](https://github.com/Rapptz/discord.py/pull/9020) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 🗣 Commented on [#331](https://github.com/vercel-community/php/issues/331) in [vercel-community/php](https://github.com/vercel-community/php)
+5. 🎉 Merged PR [#80](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/80) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
     <!--END_SECTION:activity-->
     </details>
 
