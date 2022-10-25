@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#344](https://github.com/DenverCoder1/github-readme-streak-stats/issues/344) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#344](https://github.com/DenverCoder1/github-readme-streak-stats/issues/344) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#344](https://github.com/DenverCoder1/github-readme-streak-stats/issues/344) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#41](https://github.com/DenverCoder1/unicode-formatter/issues/41) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. 🗣 Commented on [#40](https://github.com/DenverCoder1/unicode-formatter/issues/40) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+1. ❗️ Opened issue [#865](https://github.com/nextcord/nextcord/issues/865) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#15](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/15) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+3. 🗣 Commented on [#15](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/15) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+4. 🗣 Commented on [#15](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/15) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+5. 🎉 Merged PR [#622](https://github.com/DenverCoder1/custom-icon-badges/pull/622) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
     <!--END_SECTION:activity-->
     </details>
 
