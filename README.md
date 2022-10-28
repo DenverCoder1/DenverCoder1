@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#389](https://github.com/DenverCoder1/jct-discord-bot/pull/389) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#625](https://github.com/DenverCoder1/custom-icon-badges/pull/625) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#871](https://github.com/nextcord/nextcord/pull/871) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#870](https://github.com/nextcord/nextcord/issues/870) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#24](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/24) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 💪 Opened PR [#83](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/83) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+2. 🎉 Merged PR [#161](https://github.com/DenverCoder1/readme-typing-svg/pull/161) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❗️ Opened issue [#874](https://github.com/nextcord/nextcord/issues/874) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#873](https://github.com/nextcord/nextcord/pull/873) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#628](https://github.com/DenverCoder1/custom-icon-badges/pull/628) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
     <!--END_SECTION:activity-->
     </details>
 
