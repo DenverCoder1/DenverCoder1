@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#83](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/83) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-2. 🎉 Merged PR [#161](https://github.com/DenverCoder1/readme-typing-svg/pull/161) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❗️ Opened issue [#874](https://github.com/nextcord/nextcord/issues/874) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#873](https://github.com/nextcord/nextcord/pull/873) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#628](https://github.com/DenverCoder1/custom-icon-badges/pull/628) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#83](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/83) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+2. 💪 Opened PR [#83](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/83) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+3. 🎉 Merged PR [#161](https://github.com/DenverCoder1/readme-typing-svg/pull/161) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Opened issue [#874](https://github.com/nextcord/nextcord/issues/874) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#873](https://github.com/nextcord/nextcord/pull/873) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
     <!--END_SECTION:activity-->
     </details>
 
