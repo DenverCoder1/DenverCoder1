@@ -233,11 +233,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#83](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/83) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-2. 💪 Opened PR [#83](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/83) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 🎉 Merged PR [#161](https://github.com/DenverCoder1/readme-typing-svg/pull/161) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Opened issue [#874](https://github.com/nextcord/nextcord/issues/874) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#873](https://github.com/nextcord/nextcord/pull/873) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#42](https://github.com/DenverCoder1/unicode-formatter/pull/42) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
+2. 🎉 Merged PR [#346](https://github.com/DenverCoder1/github-readme-streak-stats/pull/346) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 💪 Opened PR [#346](https://github.com/DenverCoder1/github-readme-streak-stats/pull/346) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#18](https://github.com/nextcord/nextcord-ext-ipc/pull/18) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+5. 💪 Opened PR [#53](https://github.com/nextcord/nextcord-ext-menus/pull/53) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
     <!--END_SECTION:activity-->
     </details>
 
