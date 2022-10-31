@@ -236,11 +236,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#42](https://github.com/DenverCoder1/unicode-formatter/pull/42) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-2. 🎉 Merged PR [#346](https://github.com/DenverCoder1/github-readme-streak-stats/pull/346) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#346](https://github.com/DenverCoder1/github-readme-streak-stats/pull/346) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#18](https://github.com/nextcord/nextcord-ext-ipc/pull/18) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-5. 💪 Opened PR [#53](https://github.com/nextcord/nextcord-ext-menus/pull/53) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+1. 🎉 Merged PR [#57](https://github.com/DenverCoder1/table2ascii/pull/57) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. 🎉 Merged PR [#52](https://github.com/nextcord/nextcord-ext-menus/pull/52) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. ❌ Reopened PR [#52](https://github.com/nextcord/nextcord-ext-menus/pull/52) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+4. ❌ Closed PR [#52](https://github.com/nextcord/nextcord-ext-menus/pull/52) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+5. 🎉 Merged PR [#50](https://github.com/nextcord/nextcord-ext-menus/pull/50) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
     <!--END_SECTION:activity-->
     </details>
 
