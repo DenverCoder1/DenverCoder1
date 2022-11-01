@@ -235,11 +235,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#57](https://github.com/DenverCoder1/table2ascii/pull/57) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. 🎉 Merged PR [#52](https://github.com/nextcord/nextcord-ext-menus/pull/52) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. ❌ Reopened PR [#52](https://github.com/nextcord/nextcord-ext-menus/pull/52) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-4. ❌ Closed PR [#52](https://github.com/nextcord/nextcord-ext-menus/pull/52) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🎉 Merged PR [#50](https://github.com/nextcord/nextcord-ext-menus/pull/50) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+1. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+2. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+3. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
+4. 🎉 Merged PR [#163](https://github.com/DenverCoder1/readme-typing-svg/pull/163) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🎉 Merged PR [#348](https://github.com/DenverCoder1/github-readme-streak-stats/pull/348) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
     <!--END_SECTION:activity-->
     </details>
 
