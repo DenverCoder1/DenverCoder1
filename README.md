@@ -235,11 +235,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-2. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-3. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-4. 🎉 Merged PR [#163](https://github.com/DenverCoder1/readme-typing-svg/pull/163) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#348](https://github.com/DenverCoder1/github-readme-streak-stats/pull/348) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#926](https://github.com/python-babel/babel/issues/926) in [python-babel/babel](https://github.com/python-babel/babel)
+2. 💪 Opened PR [#926](https://github.com/python-babel/babel/pull/926) in [python-babel/babel](https://github.com/python-babel/babel)
+3. 🎉 Merged PR [#631](https://github.com/DenverCoder1/custom-icon-badges/pull/631) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🗣 Commented on [#920](https://github.com/python-babel/babel/issues/920) in [python-babel/babel](https://github.com/python-babel/babel)
+5. 🗣 Commented on [#920](https://github.com/python-babel/babel/issues/920) in [python-babel/babel](https://github.com/python-babel/babel)
     <!--END_SECTION:activity-->
     </details>
 
