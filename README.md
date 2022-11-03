@@ -235,11 +235,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#926](https://github.com/python-babel/babel/issues/926) in [python-babel/babel](https://github.com/python-babel/babel)
-2. 💪 Opened PR [#926](https://github.com/python-babel/babel/pull/926) in [python-babel/babel](https://github.com/python-babel/babel)
-3. 🎉 Merged PR [#631](https://github.com/DenverCoder1/custom-icon-badges/pull/631) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🗣 Commented on [#920](https://github.com/python-babel/babel/issues/920) in [python-babel/babel](https://github.com/python-babel/babel)
-5. 🗣 Commented on [#920](https://github.com/python-babel/babel/issues/920) in [python-babel/babel](https://github.com/python-babel/babel)
+1. 🎉 Merged PR [#391](https://github.com/DenverCoder1/jct-discord-bot/pull/391) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#65](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/65) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 🗣 Commented on [#926](https://github.com/python-babel/babel/issues/926) in [python-babel/babel](https://github.com/python-babel/babel)
+4. 💪 Opened PR [#926](https://github.com/python-babel/babel/pull/926) in [python-babel/babel](https://github.com/python-babel/babel)
+5. 🎉 Merged PR [#631](https://github.com/DenverCoder1/custom-icon-badges/pull/631) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
     <!--END_SECTION:activity-->
     </details>
 
