@@ -235,11 +235,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#391](https://github.com/DenverCoder1/jct-discord-bot/pull/391) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#65](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/65) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 🗣 Commented on [#926](https://github.com/python-babel/babel/issues/926) in [python-babel/babel](https://github.com/python-babel/babel)
-4. 💪 Opened PR [#926](https://github.com/python-babel/babel/pull/926) in [python-babel/babel](https://github.com/python-babel/babel)
-5. 🎉 Merged PR [#631](https://github.com/DenverCoder1/custom-icon-badges/pull/631) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#4138](https://github.com/microsoft/pyright/issues/4138) in [microsoft/pyright](https://github.com/microsoft/pyright)
+2. 🎉 Merged PR [#66](https://github.com/DenverCoder1/unedit-for-reddit/pull/66) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+3. 💪 Opened PR [#66](https://github.com/DenverCoder1/unedit-for-reddit/pull/66) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+4. ❗️ Closed issue [#64](https://github.com/DenverCoder1/unedit-for-reddit/issues/64) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+5. 🎉 Merged PR [#65](https://github.com/DenverCoder1/unedit-for-reddit/pull/65) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
     <!--END_SECTION:activity-->
     </details>
 
