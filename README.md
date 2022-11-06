@@ -235,11 +235,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9091](https://github.com/python/typeshed/issues/9091) in [python/typeshed](https://github.com/python/typeshed)
-2. 💪 Opened PR [#9091](https://github.com/python/typeshed/pull/9091) in [python/typeshed](https://github.com/python/typeshed)
-3. 🗣 Commented on [#9090](https://github.com/python/typeshed/issues/9090) in [python/typeshed](https://github.com/python/typeshed)
-4. 🎉 Merged PR [#77](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/77) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. ❗️ Closed issue [#29](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/29) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. ❗️ Closed issue [#164](https://github.com/DenverCoder1/readme-typing-svg/issues/164) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🎉 Merged PR [#165](https://github.com/DenverCoder1/readme-typing-svg/pull/165) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🗣 Commented on [#164](https://github.com/DenverCoder1/readme-typing-svg/issues/164) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#53](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/53) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+5. 💪 Opened PR [#53](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/53) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
     <!--END_SECTION:activity-->
     </details>
 
