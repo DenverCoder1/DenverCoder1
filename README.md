@@ -40,6 +40,16 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
+## 🌠 $10+/month sponsors
+
+<table>
+  <tr><td align="center">
+    <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="jesterb0206" width="42" /></a>
+    </td><td>
+    <b><a href="https://github.com/jesterb0206">Bradley Jester</a></b>
+  </td></tr>
+</table>
+
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
