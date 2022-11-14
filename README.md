@@ -257,11 +257,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#930](https://github.com/python-babel/babel/pull/930) in [python-babel/babel](https://github.com/python-babel/babel)
-2. ❗️ Closed issue [#350](https://github.com/DenverCoder1/github-readme-streak-stats/issues/350) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#351](https://github.com/DenverCoder1/github-readme-streak-stats/pull/351) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Opened issue [#929](https://github.com/python-babel/babel/issues/929) in [python-babel/babel](https://github.com/python-babel/babel)
-5. 💪 Opened PR [#9190](https://github.com/python/typeshed/pull/9190) in [python/typeshed](https://github.com/python/typeshed)
+1. 🎉 Merged PR [#45](https://github.com/DenverCoder1/discord-bot-template/pull/45) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+2. 🎉 Merged PR [#31](https://github.com/DenverCoder1/tutorial-discord-bot/pull/31) in [DenverCoder1/tutorial-discord-bot](https://github.com/DenverCoder1/tutorial-discord-bot)
+3. 🎉 Merged PR [#9](https://github.com/DenverCoder1/DenverCoder1/pull/9) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
+4. 💪 Opened PR [#9](https://github.com/DenverCoder1/DenverCoder1/pull/9) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
+5. ❗️ Closed issue [#5](https://github.com/DenverCoder1/DenverCoder1/issues/5) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
 <!--END_SECTION:activity-->
 
 </details>
