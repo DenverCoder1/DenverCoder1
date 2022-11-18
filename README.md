@@ -258,10 +258,10 @@
   <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
-2. 💪 Opened PR [#932](https://github.com/python-babel/babel/pull/932) in [python-babel/babel](https://github.com/python-babel/babel)
-3. 🗣 Commented on [#931](https://github.com/python-babel/babel/issues/931) in [python-babel/babel](https://github.com/python-babel/babel)
-4. 🗣 Commented on [#931](https://github.com/python-babel/babel/issues/931) in [python-babel/babel](https://github.com/python-babel/babel)
-5. 🎉 Merged PR [#643](https://github.com/DenverCoder1/custom-icon-badges/pull/643) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
+3. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
+4. 💪 Opened PR [#932](https://github.com/python-babel/babel/pull/932) in [python-babel/babel](https://github.com/python-babel/babel)
+5. 🗣 Commented on [#931](https://github.com/python-babel/babel/issues/931) in [python-babel/babel](https://github.com/python-babel/babel)
 <!--END_SECTION:activity-->
 
 </details>
