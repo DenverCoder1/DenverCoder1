@@ -257,11 +257,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
+1. 🗣 Commented on [#885](https://github.com/nextcord/nextcord/issues/885) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 2. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
 3. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
-4. 💪 Opened PR [#932](https://github.com/python-babel/babel/pull/932) in [python-babel/babel](https://github.com/python-babel/babel)
-5. 🗣 Commented on [#931](https://github.com/python-babel/babel/issues/931) in [python-babel/babel](https://github.com/python-babel/babel)
+4. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
+5. 💪 Opened PR [#932](https://github.com/python-babel/babel/pull/932) in [python-babel/babel](https://github.com/python-babel/babel)
 <!--END_SECTION:activity-->
 
 </details>
