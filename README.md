@@ -257,11 +257,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#885](https://github.com/nextcord/nextcord/issues/885) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
-3. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
-4. 🗣 Commented on [#5000](https://github.com/photopea/photopea/issues/5000) in [photopea/photopea](https://github.com/photopea/photopea)
-5. 💪 Opened PR [#932](https://github.com/python-babel/babel/pull/932) in [python-babel/babel](https://github.com/python-babel/babel)
+1. 💪 Opened PR [#662](https://github.com/rahuldkjain/github-profile-readme-generator/pull/662) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+2. 💪 Opened PR [#47](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/47) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 💪 Opened PR [#46](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/46) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 🗣 Commented on [#138](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/138) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+5. 🎉 Merged PR [#649](https://github.com/DenverCoder1/custom-icon-badges/pull/649) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
