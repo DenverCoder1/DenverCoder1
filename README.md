@@ -257,11 +257,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#138](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/138) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-2. 🗣 Commented on [#16](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/16) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-3. 🎉 Merged PR [#19](https://github.com/DenverCoder1/doxygen-github-pages-action/pull/19) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-4. 💪 Opened PR [#19](https://github.com/DenverCoder1/doxygen-github-pages-action/pull/19) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-5. ❗️ Closed issue [#17](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/17) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+1. ❗️ Closed issue [#354](https://github.com/DenverCoder1/github-readme-streak-stats/issues/354) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#354](https://github.com/DenverCoder1/github-readme-streak-stats/issues/354) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#356](https://github.com/DenverCoder1/github-readme-streak-stats/pull/356) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 💪 Opened PR [#356](https://github.com/DenverCoder1/github-readme-streak-stats/pull/356) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#355](https://github.com/DenverCoder1/github-readme-streak-stats/pull/355) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
