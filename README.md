@@ -257,11 +257,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5296](https://github.com/axios/axios/issues/5296) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#652](https://github.com/DenverCoder1/custom-icon-badges/issues/652) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. ❗️ Opened issue [#656](https://github.com/DenverCoder1/custom-icon-badges/issues/656) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. ❌ Closed PR [#655](https://github.com/DenverCoder1/custom-icon-badges/pull/655) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#655](https://github.com/DenverCoder1/custom-icon-badges/pull/655) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#170](https://github.com/DenverCoder1/readme-typing-svg/pull/170) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#170](https://github.com/DenverCoder1/readme-typing-svg/pull/170) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#26](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/26) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
+4. 💪 Opened PR [#26](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/26) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
+5. 🎉 Merged PR [#25](https://github.com/DenverCoder1/discord-voice-activities-bot/pull/25) in [DenverCoder1/discord-voice-activities-bot](https://github.com/DenverCoder1/discord-voice-activities-bot)
 <!--END_SECTION:activity-->
 
 </details>
