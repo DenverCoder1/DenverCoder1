@@ -253,11 +253,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#368](https://github.com/DenverCoder1/github-readme-streak-stats/pull/368) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 💪 Opened PR [#368](https://github.com/DenverCoder1/github-readme-streak-stats/pull/368) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#367](https://github.com/DenverCoder1/github-readme-streak-stats/pull/367) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#367](https://github.com/DenverCoder1/github-readme-streak-stats/pull/367) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#366](https://github.com/DenverCoder1/github-readme-streak-stats/pull/366) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❌ Closed PR [#84](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/84) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🗣 Commented on [#84](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/84) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. ❌ Closed PR [#176](https://github.com/DenverCoder1/readme-typing-svg/pull/176) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🗣 Commented on [#176](https://github.com/DenverCoder1/readme-typing-svg/issues/176) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. ❗️ Opened issue [#83](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/83) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
