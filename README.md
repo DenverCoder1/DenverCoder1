@@ -253,11 +253,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#84](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/84) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 🗣 Commented on [#84](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/84) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❌ Closed PR [#176](https://github.com/DenverCoder1/readme-typing-svg/pull/176) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🗣 Commented on [#176](https://github.com/DenverCoder1/readme-typing-svg/issues/176) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. ❗️ Opened issue [#83](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/83) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#371](https://github.com/DenverCoder1/github-readme-streak-stats/pull/371) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#372](https://github.com/DenverCoder1/github-readme-streak-stats/pull/372) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❌ Closed PR [#84](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/84) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🗣 Commented on [#84](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/84) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. ❌ Closed PR [#176](https://github.com/DenverCoder1/readme-typing-svg/pull/176) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
