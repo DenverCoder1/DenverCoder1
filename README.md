@@ -43,15 +43,21 @@
 </p>
 
 <details open> 
-  <summary><h2>🌠 $10+/month Sponsors</h2></summary>
+  <summary><h2>🌠 Top Sponsors</h2></summary>
 
+  <h3>$10+/month</h3>
+  
   <table>
     <tr><td align="center">
-      <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="jesterb0206" width="42" /></a>
+      <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="42" /></a>
       </td><td>
       <b><a href="https://github.com/jesterb0206">Bradley Jester</a></b>
     </td></tr>
   </table>
+  
+  <h3>$5+/month</h3>
+  
+  <p><a href="https://github.com/typesense"><img src="https://img.shields.io/badge/-%40typesense-D90368?style=for-the-badge" alt="typesense" /></a></p>
 
   <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-161B22?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
