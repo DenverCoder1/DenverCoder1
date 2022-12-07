@@ -57,7 +57,7 @@
   
   <h3>$5+/month</h3>
   
-  <p><a href="https://github.com/typesense"><img src="https://img.shields.io/badge/-%40typesense-D90368?style=for-the-badge" alt="typesense" /></a></p>
+  <p><a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a></p>
 
   <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-161B22?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
