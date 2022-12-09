@@ -53,15 +53,11 @@
     <tr>
       <!-- $10+/month -->
       <td>
-        <table>
-          <tr>
-            <td align="center">
-              <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="50" /></a>
-              <br />
-              <b><a href="https://github.com/jesterb0206">Bradley Jester</a></b>
-            </td>
-          </tr>
-        </table>
+        <div align="center">
+          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
+        </b>
       </td>
       <!-- $5+/month -->
       <td>
