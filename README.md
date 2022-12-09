@@ -274,11 +274,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#666](https://github.com/DenverCoder1/custom-icon-badges/issues/666) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#665](https://github.com/DenverCoder1/custom-icon-badges/pull/665) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#664](https://github.com/DenverCoder1/custom-icon-badges/pull/664) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#663](https://github.com/DenverCoder1/custom-icon-badges/pull/663) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#377](https://github.com/DenverCoder1/github-readme-streak-stats/pull/377) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#177](https://github.com/DenverCoder1/readme-typing-svg/pull/177) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#8124](https://github.com/simple-icons/simple-icons/pull/8124) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🎉 Merged PR [#666](https://github.com/DenverCoder1/custom-icon-badges/pull/666) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#668](https://github.com/DenverCoder1/custom-icon-badges/pull/668) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#667](https://github.com/DenverCoder1/custom-icon-badges/pull/667) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
