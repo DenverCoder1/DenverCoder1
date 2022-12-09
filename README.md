@@ -45,19 +45,30 @@
 <details open> 
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
-  <h3>$10+/month</h3>
-  
   <table>
-    <tr><td align="center">
-      <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="42" /></a>
-      </td><td>
-      <b><a href="https://github.com/jesterb0206">Bradley Jester</a></b>
-    </td></tr>
+    <tr>
+      <th>$10+/month</th>
+      <th>$5+/month</th>
+    </tr>
+    <tr>
+      <!-- $10+/month -->
+      <td>
+        <table>
+          <tr>
+            <td align="center">
+              <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="50" /></a>
+              <br />
+              <b><a href="https://github.com/jesterb0206">Bradley Jester</a></b>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <!-- $5+/month -->
+      <td>
+        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+      </td>
+    </tr>
   </table>
-  
-  <h3>$5+/month</h3>
-  
-  <p><a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a></p>
 
   <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-161B22?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
