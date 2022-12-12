@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#65](https://github.com/DenverCoder1/table2ascii/pull/65) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. 💪 Opened PR [#65](https://github.com/DenverCoder1/table2ascii/pull/65) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 🎉 Merged PR [#64](https://github.com/DenverCoder1/table2ascii/pull/64) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-4. 💪 Opened PR [#64](https://github.com/DenverCoder1/table2ascii/pull/64) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 🗣 Commented on [#60](https://github.com/DenverCoder1/table2ascii/issues/60) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🗣 Commented on [#32](https://github.com/DenverCoder1/table2ascii/issues/32) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. 🎉 Merged PR [#76](https://github.com/DenverCoder1/table2ascii/pull/76) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 💪 Opened PR [#76](https://github.com/DenverCoder1/table2ascii/pull/76) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 🎉 Merged PR [#74](https://github.com/DenverCoder1/table2ascii/pull/74) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. 🎉 Merged PR [#75](https://github.com/DenverCoder1/table2ascii/pull/75) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
