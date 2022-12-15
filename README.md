@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#78](https://github.com/DenverCoder1/table2ascii/pull/78) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. 💪 Opened PR [#78](https://github.com/DenverCoder1/table2ascii/pull/78) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 🎉 Merged PR [#673](https://github.com/DenverCoder1/custom-icon-badges/pull/673) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#672](https://github.com/DenverCoder1/custom-icon-badges/pull/672) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#674](https://github.com/DenverCoder1/custom-icon-badges/pull/674) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#68](https://github.com/DenverCoder1/unedit-for-reddit/issues/68) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+2. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
+3. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
+4. 🎉 Merged PR [#57](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/57) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+5. 🗣 Commented on [#60](https://github.com/DenverCoder1/table2ascii/issues/60) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
