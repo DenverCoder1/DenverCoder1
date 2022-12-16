@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#68](https://github.com/DenverCoder1/unedit-for-reddit/issues/68) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-2. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
-3. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
-4. 🎉 Merged PR [#57](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/57) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 🗣 Commented on [#60](https://github.com/DenverCoder1/table2ascii/issues/60) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🎉 Merged PR [#675](https://github.com/DenverCoder1/custom-icon-badges/pull/675) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#675](https://github.com/DenverCoder1/custom-icon-badges/pull/675) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#8054](https://github.com/simple-icons/simple-icons/issues/8054) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❌ Closed PR [#8144](https://github.com/simple-icons/simple-icons/pull/8144) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#8144](https://github.com/simple-icons/simple-icons/issues/8144) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 </details>
