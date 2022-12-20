@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#180](https://github.com/DenverCoder1/readme-typing-svg/issues/180) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#181](https://github.com/DenverCoder1/readme-typing-svg/pull/181) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 💪 Opened PR [#181](https://github.com/DenverCoder1/readme-typing-svg/pull/181) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🗣 Commented on [#86](https://github.com/DenverCoder1/table2ascii/issues/86) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 🎉 Merged PR [#383](https://github.com/DenverCoder1/github-readme-streak-stats/pull/383) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#86](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/issues/86) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+2. 🗣 Commented on [#86](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/issues/86) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+3. 🎉 Merged PR [#680](https://github.com/DenverCoder1/custom-icon-badges/pull/680) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#679](https://github.com/DenverCoder1/custom-icon-badges/pull/679) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#679](https://github.com/DenverCoder1/custom-icon-badges/pull/679) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
