@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#87](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/87) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-2. 💪 Opened PR [#87](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/87) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 🎉 Merged PR [#388](https://github.com/DenverCoder1/github-readme-streak-stats/pull/388) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#388](https://github.com/DenverCoder1/github-readme-streak-stats/pull/388) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#387](https://github.com/DenverCoder1/github-readme-streak-stats/pull/387) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#391](https://github.com/DenverCoder1/github-readme-streak-stats/pull/391) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#391](https://github.com/DenverCoder1/github-readme-streak-stats/pull/391) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#18](https://github.com/DenverCoder1/hogwarts-ghosts/pull/18) in [DenverCoder1/hogwarts-ghosts](https://github.com/DenverCoder1/hogwarts-ghosts)
+4. 💪 Opened PR [#18](https://github.com/DenverCoder1/hogwarts-ghosts/pull/18) in [DenverCoder1/hogwarts-ghosts](https://github.com/DenverCoder1/hogwarts-ghosts)
+5. 🗣 Commented on [#389](https://github.com/DenverCoder1/github-readme-streak-stats/issues/389) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
