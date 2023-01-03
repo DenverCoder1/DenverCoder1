@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#403](https://github.com/DenverCoder1/github-readme-streak-stats/pull/403) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 💪 Opened PR [#403](https://github.com/DenverCoder1/github-readme-streak-stats/pull/403) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#684](https://github.com/DenverCoder1/custom-icon-badges/pull/684) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#402](https://github.com/DenverCoder1/github-readme-streak-stats/pull/402) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 💪 Opened PR [#402](https://github.com/DenverCoder1/github-readme-streak-stats/pull/402) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#406](https://github.com/DenverCoder1/github-readme-streak-stats/pull/406) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#406](https://github.com/DenverCoder1/github-readme-streak-stats/pull/406) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Closed issue [#400](https://github.com/DenverCoder1/github-readme-streak-stats/issues/400) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#400](https://github.com/DenverCoder1/github-readme-streak-stats/issues/400) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#405](https://github.com/DenverCoder1/github-readme-streak-stats/issues/405) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
