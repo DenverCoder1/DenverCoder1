@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#413](https://github.com/DenverCoder1/github-readme-streak-stats/pull/413) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#148](https://github.com/albertlauncher/python/issues/148) in [albertlauncher/python](https://github.com/albertlauncher/python)
-3. 🎉 Merged PR [#690](https://github.com/DenverCoder1/custom-icon-badges/pull/690) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#149](https://github.com/albertlauncher/python/pull/149) in [albertlauncher/python](https://github.com/albertlauncher/python)
-5. ❗️ Opened issue [#148](https://github.com/albertlauncher/python/issues/148) in [albertlauncher/python](https://github.com/albertlauncher/python)
+1. 💪 Opened PR [#153](https://github.com/albertlauncher/python/pull/153) in [albertlauncher/python](https://github.com/albertlauncher/python)
+2. ❌ Closed PR [#149](https://github.com/albertlauncher/python/pull/149) in [albertlauncher/python](https://github.com/albertlauncher/python)
+3. 🗣 Commented on [#148](https://github.com/albertlauncher/python/issues/148) in [albertlauncher/python](https://github.com/albertlauncher/python)
+4. ❗️ Opened issue [#152](https://github.com/albertlauncher/python/issues/152) in [albertlauncher/python](https://github.com/albertlauncher/python)
+5. 🎉 Merged PR [#410](https://github.com/DenverCoder1/jct-discord-bot/pull/410) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
