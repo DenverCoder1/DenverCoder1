@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#955](https://github.com/python-babel/babel/pull/955) in [python-babel/babel](https://github.com/python-babel/babel)
-2. 💪 Opened PR [#953](https://github.com/python-babel/babel/pull/953) in [python-babel/babel](https://github.com/python-babel/babel)
-3. 🎉 Merged PR [#427](https://github.com/DenverCoder1/github-readme-streak-stats/pull/427) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#427](https://github.com/DenverCoder1/github-readme-streak-stats/pull/427) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#419](https://github.com/DenverCoder1/github-readme-streak-stats/issues/419) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#76](https://github.com/DenverCoder1/unedit-for-reddit/issues/76) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+2. 💪 Opened PR [#955](https://github.com/python-babel/babel/pull/955) in [python-babel/babel](https://github.com/python-babel/babel)
+3. 💪 Opened PR [#953](https://github.com/python-babel/babel/pull/953) in [python-babel/babel](https://github.com/python-babel/babel)
+4. 🎉 Merged PR [#427](https://github.com/DenverCoder1/github-readme-streak-stats/pull/427) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#427](https://github.com/DenverCoder1/github-readme-streak-stats/pull/427) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
