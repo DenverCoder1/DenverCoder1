@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/nextcord/nextcord-ext-ipc/issues/20) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 🎉 Merged PR [#21](https://github.com/nextcord/nextcord-ext-ipc/pull/21) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 💪 Opened PR [#21](https://github.com/nextcord/nextcord-ext-ipc/pull/21) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-4. 🎉 Merged PR [#428](https://github.com/DenverCoder1/github-readme-streak-stats/pull/428) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#76](https://github.com/DenverCoder1/unedit-for-reddit/issues/76) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. 🗣 Commented on [#5395](https://github.com/discord/discord-api-docs/issues/5395) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🎉 Merged PR [#429](https://github.com/DenverCoder1/github-readme-streak-stats/pull/429) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#65](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/65) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+4. 🗣 Commented on [#76](https://github.com/DenverCoder1/unedit-for-reddit/issues/76) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+5. 🎉 Merged PR [#78](https://github.com/DenverCoder1/unedit-for-reddit/pull/78) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
 <!--END_SECTION:activity-->
 
 </details>
