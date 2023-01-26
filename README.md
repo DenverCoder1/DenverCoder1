@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#80](https://github.com/DenverCoder1/unedit-for-reddit/pull/80) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-2. 🎉 Merged PR [#75](https://github.com/DenverCoder1/unedit-for-reddit/pull/75) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-3. 🗣 Commented on [#79](https://github.com/DenverCoder1/unedit-for-reddit/issues/79) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. 🎉 Merged PR [#96](https://github.com/DenverCoder1/table2ascii/pull/96) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 🗣 Commented on [#79](https://github.com/DenverCoder1/unedit-for-reddit/issues/79) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. ❗️ Opened issue [#84](https://github.com/DenverCoder1/unedit-for-reddit/issues/84) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+2. 🗣 Commented on [#82](https://github.com/DenverCoder1/unedit-for-reddit/issues/82) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+3. 💪 Opened PR [#83](https://github.com/DenverCoder1/unedit-for-reddit/pull/83) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+4. 🗣 Commented on [#82](https://github.com/DenverCoder1/unedit-for-reddit/issues/82) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+5. 🗣 Commented on [#82](https://github.com/DenverCoder1/unedit-for-reddit/issues/82) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
 <!--END_SECTION:activity-->
 
 </details>
