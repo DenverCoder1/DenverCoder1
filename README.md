@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#84](https://github.com/DenverCoder1/unedit-for-reddit/issues/84) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-2. 🗣 Commented on [#82](https://github.com/DenverCoder1/unedit-for-reddit/issues/82) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-3. 💪 Opened PR [#83](https://github.com/DenverCoder1/unedit-for-reddit/pull/83) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. 🗣 Commented on [#82](https://github.com/DenverCoder1/unedit-for-reddit/issues/82) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-5. 🗣 Commented on [#82](https://github.com/DenverCoder1/unedit-for-reddit/issues/82) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. 🗣 Commented on [#431](https://github.com/DenverCoder1/github-readme-streak-stats/issues/431) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#430](https://github.com/DenverCoder1/github-readme-streak-stats/issues/430) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#430](https://github.com/DenverCoder1/github-readme-streak-stats/issues/430) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#81](https://github.com/DenverCoder1/unedit-for-reddit/issues/81) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+5. 💪 Opened PR [#85](https://github.com/DenverCoder1/unedit-for-reddit/pull/85) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
 <!--END_SECTION:activity-->
 
 </details>
