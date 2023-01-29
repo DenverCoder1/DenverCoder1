@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#431](https://github.com/DenverCoder1/github-readme-streak-stats/issues/431) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#430](https://github.com/DenverCoder1/github-readme-streak-stats/issues/430) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#430](https://github.com/DenverCoder1/github-readme-streak-stats/issues/430) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#81](https://github.com/DenverCoder1/unedit-for-reddit/issues/81) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-5. 💪 Opened PR [#85](https://github.com/DenverCoder1/unedit-for-reddit/pull/85) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. 🗣 Commented on [#433](https://github.com/DenverCoder1/github-readme-streak-stats/issues/433) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#435](https://github.com/DenverCoder1/github-readme-streak-stats/issues/435) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#437](https://github.com/DenverCoder1/github-readme-streak-stats/pull/437) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#433](https://github.com/DenverCoder1/github-readme-streak-stats/issues/433) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#436](https://github.com/DenverCoder1/github-readme-streak-stats/issues/436) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
