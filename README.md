@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#991](https://github.com/nextcord/nextcord/issues/991) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#983](https://github.com/nextcord/nextcord/issues/983) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#47](https://github.com/DenverCoder1/discord-bot-template/pull/47) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
-4. 🎉 Merged PR [#33](https://github.com/DenverCoder1/tutorial-discord-bot/pull/33) in [DenverCoder1/tutorial-discord-bot](https://github.com/DenverCoder1/tutorial-discord-bot)
-5. 🎉 Merged PR [#68](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/68) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+1. 🎉 Merged PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+2. 💪 Opened PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+3. 🎉 Merged PR [#12](https://github.com/DenverCoderOne/siemano/pull/12) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+4. 💪 Opened PR [#12](https://github.com/DenverCoderOne/siemano/pull/12) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+5. ❗️ Opened issue [#991](https://github.com/nextcord/nextcord/issues/991) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 </details>
