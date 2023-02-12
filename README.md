@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
-2. 💪 Opened PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
-3. 🎉 Merged PR [#12](https://github.com/DenverCoderOne/siemano/pull/12) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
-4. 💪 Opened PR [#12](https://github.com/DenverCoderOne/siemano/pull/12) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
-5. ❗️ Opened issue [#991](https://github.com/nextcord/nextcord/issues/991) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#574](https://github.com/superfly/docs/issues/574) in [superfly/docs](https://github.com/superfly/docs)
+2. 🎉 Merged PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+3. 💪 Opened PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+4. 🎉 Merged PR [#12](https://github.com/DenverCoderOne/siemano/pull/12) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+5. 💪 Opened PR [#12](https://github.com/DenverCoderOne/siemano/pull/12) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
 <!--END_SECTION:activity-->
 
 </details>
