@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#88](https://github.com/DenverCoder1/unedit-for-reddit/issues/88) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-2. 🗣 Commented on [#88](https://github.com/DenverCoder1/unedit-for-reddit/issues/88) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-3. 🗣 Commented on [#574](https://github.com/superfly/docs/issues/574) in [superfly/docs](https://github.com/superfly/docs)
-4. 🎉 Merged PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
-5. 💪 Opened PR [#13](https://github.com/DenverCoderOne/siemano/pull/13) in [DenverCoderOne/siemano](https://github.com/DenverCoderOne/siemano)
+1. 💪 Opened PR [#423](https://github.com/DenverCoder1/jct-discord-bot/pull/423) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#719](https://github.com/DenverCoder1/custom-icon-badges/pull/719) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#721](https://github.com/DenverCoder1/custom-icon-badges/pull/721) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#720](https://github.com/DenverCoder1/custom-icon-badges/pull/720) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#717](https://github.com/DenverCoder1/custom-icon-badges/pull/717) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
