@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#461](https://github.com/DenverCoder1/github-readme-streak-stats/issues/461) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#461](https://github.com/DenverCoder1/github-readme-streak-stats/issues/461) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#729](https://github.com/DenverCoder1/custom-icon-badges/pull/729) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#69](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/69) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. 💪 Opened PR [#994](https://github.com/nextcord/nextcord/pull/994) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#426](https://github.com/DenverCoder1/jct-discord-bot/issues/426) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🎉 Merged PR [#49](https://github.com/DenverCoder1/discord-bot-template/pull/49) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+3. 🗣 Commented on [#968](https://github.com/python-babel/babel/issues/968) in [python-babel/babel](https://github.com/python-babel/babel)
+4. 🗣 Commented on [#92](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/92) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🗣 Commented on [#459](https://github.com/DenverCoder1/github-readme-streak-stats/issues/459) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
