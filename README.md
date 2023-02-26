@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#93](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/93) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 🎉 Merged PR [#70](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/70) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 🗣 Commented on [#426](https://github.com/DenverCoder1/jct-discord-bot/issues/426) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🎉 Merged PR [#49](https://github.com/DenverCoder1/discord-bot-template/pull/49) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
-5. 🗣 Commented on [#968](https://github.com/python-babel/babel/issues/968) in [python-babel/babel](https://github.com/python-babel/babel)
+1. 🎉 Merged PR [#88](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/88) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+2. 💪 Opened PR [#88](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/88) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+3. 🎉 Merged PR [#93](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/93) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🎉 Merged PR [#70](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/70) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+5. 🗣 Commented on [#426](https://github.com/DenverCoder1/jct-discord-bot/issues/426) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
