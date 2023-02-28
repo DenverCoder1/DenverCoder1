@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#196](https://github.com/DenverCoder1/readme-typing-svg/pull/196) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#464](https://github.com/DenverCoder1/github-readme-streak-stats/pull/464) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#464](https://github.com/DenverCoder1/github-readme-streak-stats/pull/464) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#463](https://github.com/DenverCoder1/github-readme-streak-stats/pull/463) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 💪 Opened PR [#463](https://github.com/DenverCoder1/github-readme-streak-stats/pull/463) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#11](https://github.com/DenverCoder1/play-lichess/pull/11) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+2. 💪 Opened PR [#11](https://github.com/DenverCoder1/play-lichess/pull/11) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+3. 💪 Opened PR [#9832](https://github.com/python/typeshed/pull/9832) in [python/typeshed](https://github.com/python/typeshed)
+4. 🎉 Merged PR [#100](https://github.com/DenverCoder1/table2ascii/pull/100) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. 💪 Opened PR [#100](https://github.com/DenverCoder1/table2ascii/pull/100) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
