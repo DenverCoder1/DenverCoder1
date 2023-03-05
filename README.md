@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#735](https://github.com/DenverCoder1/custom-icon-badges/pull/735) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#430](https://github.com/DenverCoder1/jct-discord-bot/pull/430) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 💪 Opened PR [#430](https://github.com/DenverCoder1/jct-discord-bot/pull/430) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🗣 Commented on [#427](https://github.com/DenverCoder1/jct-discord-bot/issues/427) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#420](https://github.com/DenverCoder1/jct-discord-bot/pull/420) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
+2. 🎉 Merged PR [#735](https://github.com/DenverCoder1/custom-icon-badges/pull/735) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#430](https://github.com/DenverCoder1/jct-discord-bot/pull/430) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 💪 Opened PR [#430](https://github.com/DenverCoder1/jct-discord-bot/pull/430) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🗣 Commented on [#427](https://github.com/DenverCoder1/jct-discord-bot/issues/427) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
