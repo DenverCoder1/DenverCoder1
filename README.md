@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#737](https://github.com/DenverCoder1/custom-icon-badges/pull/737) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#96](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/96) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 🎉 Merged PR [#95](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/95) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#94](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/94) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#736](https://github.com/DenverCoder1/custom-icon-badges/pull/736) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#738](https://github.com/DenverCoder1/custom-icon-badges/pull/738) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#737](https://github.com/DenverCoder1/custom-icon-badges/pull/737) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#96](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/96) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🎉 Merged PR [#95](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/95) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🎉 Merged PR [#94](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/94) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
