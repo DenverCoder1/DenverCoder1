@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#93](https://github.com/DenverCoder1/unedit-for-reddit/pull/93) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-2. 💪 Opened PR [#93](https://github.com/DenverCoder1/unedit-for-reddit/pull/93) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-3. 🎉 Merged PR [#92](https://github.com/DenverCoder1/unedit-for-reddit/pull/92) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. ❌ Closed PR [#1362](https://github.com/leachim6/hello-world/pull/1362) in [leachim6/hello-world](https://github.com/leachim6/hello-world)
-5. 🗣 Commented on [#1362](https://github.com/leachim6/hello-world/issues/1362) in [leachim6/hello-world](https://github.com/leachim6/hello-world)
+1. 🗣 Commented on [#471](https://github.com/DenverCoder1/github-readme-streak-stats/issues/471) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🗣 Commented on [#470](https://github.com/DenverCoder1/github-readme-streak-stats/issues/470) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#50](https://github.com/DenverCoder1/discord-bot-template/pull/50) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+4. 🎉 Merged PR [#745](https://github.com/DenverCoder1/custom-icon-badges/pull/745) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#744](https://github.com/DenverCoder1/custom-icon-badges/pull/744) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
