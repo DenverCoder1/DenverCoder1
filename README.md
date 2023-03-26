@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#760](https://github.com/DenverCoder1/custom-icon-badges/pull/760) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#759](https://github.com/DenverCoder1/custom-icon-badges/pull/759) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#758](https://github.com/DenverCoder1/custom-icon-badges/pull/758) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#70](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/70) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 🎉 Merged PR [#478](https://github.com/DenverCoder1/github-readme-streak-stats/pull/478) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#76](https://github.com/DenverCoder1/weasley-chess-bot/pull/76) in [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot)
+2. 🎉 Merged PR [#760](https://github.com/DenverCoder1/custom-icon-badges/pull/760) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#759](https://github.com/DenverCoder1/custom-icon-badges/pull/759) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#758](https://github.com/DenverCoder1/custom-icon-badges/pull/758) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#70](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/70) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
