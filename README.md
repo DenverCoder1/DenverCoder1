@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#367](https://github.com/vercel-community/php/issues/367) in [vercel-community/php](https://github.com/vercel-community/php)
-2. 🎉 Merged PR [#93](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/93) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 💪 Opened PR [#93](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/93) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-4. 🎉 Merged PR [#92](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/92) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-5. 💪 Opened PR [#92](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/92) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+1. 🎉 Merged PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+2. 💪 Opened PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+3. 🎉 Merged PR [#761](https://github.com/DenverCoder1/custom-icon-badges/pull/761) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#763](https://github.com/DenverCoder1/custom-icon-badges/pull/763) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#762](https://github.com/DenverCoder1/custom-icon-badges/pull/762) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
