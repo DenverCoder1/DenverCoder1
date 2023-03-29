@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-2. 💪 Opened PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 🎉 Merged PR [#761](https://github.com/DenverCoder1/custom-icon-badges/pull/761) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#763](https://github.com/DenverCoder1/custom-icon-badges/pull/763) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#762](https://github.com/DenverCoder1/custom-icon-badges/pull/762) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#479](https://github.com/DenverCoder1/github-readme-streak-stats/pull/479) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+3. 💪 Opened PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+4. 🎉 Merged PR [#761](https://github.com/DenverCoder1/custom-icon-badges/pull/761) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#763](https://github.com/DenverCoder1/custom-icon-badges/pull/763) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
