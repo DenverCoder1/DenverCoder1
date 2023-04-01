@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#481](https://github.com/DenverCoder1/github-readme-streak-stats/issues/481) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#481](https://github.com/DenverCoder1/github-readme-streak-stats/issues/481) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#481](https://github.com/DenverCoder1/github-readme-streak-stats/issues/481) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#479](https://github.com/DenverCoder1/github-readme-streak-stats/pull/479) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#94](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/94) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+1. 🗣 Commented on [#83](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/83) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. ❗️ Reopened issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Reopened issue [#201](https://github.com/DenverCoder1/github-readme-streak-stats/issues/201) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#201](https://github.com/DenverCoder1/github-readme-streak-stats/issues/201) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#485](https://github.com/DenverCoder1/github-readme-streak-stats/pull/485) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
