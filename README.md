@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1046](https://github.com/nextcord/nextcord/pull/1046) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Opened issue [#1045](https://github.com/nextcord/nextcord/issues/1045) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#789](https://github.com/DenverCoder1/custom-icon-badges/pull/789) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#788](https://github.com/DenverCoder1/custom-icon-badges/pull/788) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#787](https://github.com/DenverCoder1/custom-icon-badges/pull/787) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 💪 Opened PR [#502](https://github.com/EndBug/add-and-commit/pull/502) in [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit)
+2. 💪 Opened PR [#109](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/109) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. ❗️ Opened issue [#501](https://github.com/EndBug/add-and-commit/issues/501) in [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit)
+4. 🎉 Merged PR [#107](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/107) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🗣 Commented on [#108](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/108) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
