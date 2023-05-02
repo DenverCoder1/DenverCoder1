@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#796](https://github.com/DenverCoder1/custom-icon-badges/pull/796) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#795](https://github.com/DenverCoder1/custom-icon-badges/pull/795) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#111](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/111) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#212](https://github.com/DenverCoder1/readme-typing-svg/pull/212) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🗣 Commented on [#212](https://github.com/DenverCoder1/readme-typing-svg/issues/212) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. ❗️ Closed issue [#95](https://github.com/DenverCoder1/unedit-for-reddit/issues/95) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+2. ❗️ Closed issue [#87](https://github.com/DenverCoder1/unedit-for-reddit/issues/87) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+3. 🎉 Merged PR [#113](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/113) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🎉 Merged PR [#110](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/110) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🗣 Commented on [#110](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/110) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
