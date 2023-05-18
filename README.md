@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#814](https://github.com/DenverCoder1/custom-icon-badges/pull/814) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#116](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/116) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 🗣 Commented on [#116](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/116) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#520](https://github.com/DenverCoder1/github-readme-streak-stats/pull/520) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 💪 Opened PR [#520](https://github.com/DenverCoder1/github-readme-streak-stats/pull/520) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#518](https://github.com/DenverCoder1/github-readme-streak-stats/issues/518) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#815](https://github.com/DenverCoder1/custom-icon-badges/pull/815) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#814](https://github.com/DenverCoder1/custom-icon-badges/pull/814) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#116](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/116) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🗣 Commented on [#116](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/116) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
