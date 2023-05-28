@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#819](https://github.com/DenverCoder1/custom-icon-badges/pull/819) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#818](https://github.com/DenverCoder1/custom-icon-badges/pull/818) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#817](https://github.com/DenverCoder1/custom-icon-badges/pull/817) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#523](https://github.com/DenverCoder1/github-readme-streak-stats/pull/523) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#104](https://github.com/DenverCoder1/table2ascii/issues/104) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🎉 Merged PR [#73](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/73) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+2. 💪 Opened PR [#73](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/73) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+3. 🎉 Merged PR [#820](https://github.com/DenverCoder1/custom-icon-badges/pull/820) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#819](https://github.com/DenverCoder1/custom-icon-badges/pull/819) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#818](https://github.com/DenverCoder1/custom-icon-badges/pull/818) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
