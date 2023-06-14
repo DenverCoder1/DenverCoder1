@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#217](https://github.com/DenverCoder1/readme-typing-svg/pull/217) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#842](https://github.com/DenverCoder1/custom-icon-badges/pull/842) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#840](https://github.com/DenverCoder1/custom-icon-badges/pull/840) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#839](https://github.com/DenverCoder1/custom-icon-badges/pull/839) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#841](https://github.com/DenverCoder1/custom-icon-badges/pull/841) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#843](https://github.com/DenverCoder1/custom-icon-badges/pull/843) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#218](https://github.com/DenverCoder1/readme-typing-svg/pull/218) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#217](https://github.com/DenverCoder1/readme-typing-svg/pull/217) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#842](https://github.com/DenverCoder1/custom-icon-badges/pull/842) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#840](https://github.com/DenverCoder1/custom-icon-badges/pull/840) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
