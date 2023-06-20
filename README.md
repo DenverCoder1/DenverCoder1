@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#533](https://github.com/DenverCoder1/github-readme-streak-stats/pull/533) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#533](https://github.com/DenverCoder1/github-readme-streak-stats/issues/533) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#532](https://github.com/DenverCoder1/github-readme-streak-stats/pull/532) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#849](https://github.com/DenverCoder1/custom-icon-badges/pull/849) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#848](https://github.com/DenverCoder1/custom-icon-badges/pull/848) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#89](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/89) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+2. 🗣 Commented on [#89](https://github.com/DenverCoder1/latex-gboard-dictionary/issues/89) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+3. 🎉 Merged PR [#533](https://github.com/DenverCoder1/github-readme-streak-stats/pull/533) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#533](https://github.com/DenverCoder1/github-readme-streak-stats/issues/533) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#532](https://github.com/DenverCoder1/github-readme-streak-stats/pull/532) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
