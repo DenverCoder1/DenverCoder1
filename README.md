@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#535](https://github.com/DenverCoder1/github-readme-streak-stats/issues/535) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#537](https://github.com/DenverCoder1/github-readme-streak-stats/pull/537) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#104](https://github.com/DenverCoder1/unedit-for-reddit/pull/104) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. 💪 Opened PR [#104](https://github.com/DenverCoder1/unedit-for-reddit/pull/104) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-5. 🎉 Merged PR [#103](https://github.com/DenverCoder1/unedit-for-reddit/pull/103) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. 🗣 Commented on [#105](https://github.com/DenverCoder1/table2ascii/issues/105) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. 🗣 Commented on [#102](https://github.com/DenverCoder1/table2ascii/issues/102) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 🎉 Merged PR [#105](https://github.com/DenverCoder1/unedit-for-reddit/pull/105) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+4. 💪 Opened PR [#105](https://github.com/DenverCoder1/unedit-for-reddit/pull/105) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+5. 🗣 Commented on [#105](https://github.com/DenverCoder1/table2ascii/issues/105) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
