@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#105](https://github.com/DenverCoder1/table2ascii/issues/105) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. 🗣 Commented on [#102](https://github.com/DenverCoder1/table2ascii/issues/102) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 🎉 Merged PR [#105](https://github.com/DenverCoder1/unedit-for-reddit/pull/105) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. 💪 Opened PR [#105](https://github.com/DenverCoder1/unedit-for-reddit/pull/105) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-5. 🗣 Commented on [#105](https://github.com/DenverCoder1/table2ascii/issues/105) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 💪 Opened PR [#859](https://github.com/DenverCoder1/custom-icon-badges/pull/859) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🗣 Commented on [#858](https://github.com/DenverCoder1/custom-icon-badges/issues/858) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 💪 Opened PR [#35](https://github.com/rzashakeri/beautify-github-profile/pull/35) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. 🗣 Commented on [#539](https://github.com/DenverCoder1/github-readme-streak-stats/issues/539) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#106](https://github.com/DenverCoder1/table2ascii/issues/106) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
