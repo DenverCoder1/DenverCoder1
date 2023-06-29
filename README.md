@@ -110,7 +110,7 @@
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
