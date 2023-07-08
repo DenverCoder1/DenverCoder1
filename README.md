@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#540](https://github.com/DenverCoder1/github-readme-streak-stats/issues/540) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#436](https://github.com/DenverCoder1/jct-discord-bot/pull/436) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🗣 Commented on [#435](https://github.com/DenverCoder1/jct-discord-bot/issues/435) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#541](https://github.com/DenverCoder1/github-readme-streak-stats/issues/541) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#542](https://github.com/DenverCoder1/github-readme-streak-stats/pull/542) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Opened issue [#222](https://github.com/DenverCoder1/readme-typing-svg/issues/222) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Opened issue [#221](https://github.com/DenverCoder1/readme-typing-svg/issues/221) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🗣 Commented on [#540](https://github.com/DenverCoder1/github-readme-streak-stats/issues/540) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#436](https://github.com/DenverCoder1/jct-discord-bot/pull/436) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🗣 Commented on [#435](https://github.com/DenverCoder1/jct-discord-bot/issues/435) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
