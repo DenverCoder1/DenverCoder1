@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#545](https://github.com/DenverCoder1/github-readme-streak-stats/pull/545) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#544](https://github.com/DenverCoder1/github-readme-streak-stats/issues/544) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🗣 Commented on [#231](https://github.com/DenverCoder1/readme-typing-svg/issues/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#54](https://github.com/nextcord/nextcord-ext-menus/pull/54) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+2. 💪 Opened PR [#57](https://github.com/nextcord/nextcord-ext-menus/pull/57) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
+3. 🎉 Merged PR [#545](https://github.com/DenverCoder1/github-readme-streak-stats/pull/545) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#544](https://github.com/DenverCoder1/github-readme-streak-stats/issues/544) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
