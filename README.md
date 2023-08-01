@@ -270,11 +270,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#234](https://github.com/DenverCoder1/readme-typing-svg/issues/234) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#54](https://github.com/nextcord/nextcord-ext-menus/pull/54) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-3. 💪 Opened PR [#57](https://github.com/nextcord/nextcord-ext-menus/pull/57) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-4. 🎉 Merged PR [#545](https://github.com/DenverCoder1/github-readme-streak-stats/pull/545) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#544](https://github.com/DenverCoder1/github-readme-streak-stats/issues/544) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Opened issue [#1](https://github.com/marcos-inja/awesome-badges-readme/issues/1) in [marcos-inja/awesome-badges-readme](https://github.com/marcos-inja/awesome-badges-readme)
+2. 🎉 Merged PR [#6](https://github.com/DenverCoder1/readme-download-button-action/pull/6) in [DenverCoder1/readme-download-button-action](https://github.com/DenverCoder1/readme-download-button-action)
+3. 💪 Opened PR [#6](https://github.com/DenverCoder1/readme-download-button-action/pull/6) in [DenverCoder1/readme-download-button-action](https://github.com/DenverCoder1/readme-download-button-action)
+4. ❗️ Opened issue [#577](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/577) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+5. 🗣 Commented on [#234](https://github.com/DenverCoder1/readme-typing-svg/issues/234) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
