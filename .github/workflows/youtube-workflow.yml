@@ -3,6 +3,13 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: "0 * * * *"
+  push:
+    # run when the workflow file is modified
+    branches:
+      - main
+    paths:
+      - ".github/workflows/youtube-cards.yml"
+  # run when dispatched from actions tab
   workflow_dispatch:
 
 jobs:
