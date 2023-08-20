@@ -277,11 +277,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#553](https://github.com/DenverCoder1/github-readme-streak-stats/issues/553) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#6110](https://github.com/simple-icons/simple-icons/issues/6110) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 💪 Opened PR [#182](https://github.com/albertlauncher/python/pull/182) in [albertlauncher/python](https://github.com/albertlauncher/python)
-4. 🎉 Merged PR [#914](https://github.com/DenverCoder1/custom-icon-badges/pull/914) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#238](https://github.com/DenverCoder1/readme-typing-svg/pull/238) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#915](https://github.com/DenverCoder1/custom-icon-badges/pull/915) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#916](https://github.com/DenverCoder1/custom-icon-badges/pull/916) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#553](https://github.com/DenverCoder1/github-readme-streak-stats/issues/553) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#6110](https://github.com/simple-icons/simple-icons/issues/6110) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 💪 Opened PR [#182](https://github.com/albertlauncher/python/pull/182) in [albertlauncher/python](https://github.com/albertlauncher/python)
 <!--END_SECTION:activity-->
 
 </details>
