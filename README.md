@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://i.imgur.com/Bq3DJ34.png" height="150px" /></a>
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
 <details open> 
