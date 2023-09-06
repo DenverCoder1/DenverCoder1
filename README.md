@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://i.imgur.com/fnk9496.png" width="300px" /></a>
+    <img src="https://i.imgur.com/Bq3DJ34.png" height="150px" /></a>
 </p>
 
 <details open> 
