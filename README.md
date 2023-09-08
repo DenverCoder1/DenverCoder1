@@ -285,6 +285,11 @@
 5. 🗣 Commented on [#28054](https://github.com/github/docs/issues/28054) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
+  <h3>🌟 Sponsors</h3>
+
+  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" />
+
 </details>
 
 <details> 
