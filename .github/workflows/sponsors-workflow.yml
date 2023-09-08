@@ -1,0 +1,19 @@
+name: Metrics - Sponsors goal
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@03838dcf8ca12b07eff762e1f78e7bae5c22b49b
+        with:
+          filename: metrics-sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list
+          plugin_sponsors_past: yes
