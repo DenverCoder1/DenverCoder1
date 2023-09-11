@@ -278,11 +278,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#570](https://github.com/DenverCoder1/github-readme-streak-stats/issues/570) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#575](https://github.com/DenverCoder1/github-readme-streak-stats/pull/575) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#574](https://github.com/DenverCoder1/github-readme-streak-stats/pull/574) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#292](https://github.com/Pull-Request-Community/pull-request-community-website/pull/292) in [Pull-Request-Community/pull-request-community-website](https://github.com/Pull-Request-Community/pull-request-community-website)
-5. ❗️ Closed issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#368](https://github.com/vercel-community/php/issues/368) in [vercel-community/php](https://github.com/vercel-community/php)
+2. ❗️ Closed issue [#578](https://github.com/DenverCoder1/github-readme-streak-stats/issues/578) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#578](https://github.com/DenverCoder1/github-readme-streak-stats/issues/578) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#577](https://github.com/DenverCoder1/github-readme-streak-stats/pull/577) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#954](https://github.com/DenverCoder1/custom-icon-badges/pull/954) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
