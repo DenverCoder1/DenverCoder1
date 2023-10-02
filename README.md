@@ -278,11 +278,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#108](https://github.com/DenverCoder1/unedit-for-reddit/pull/108) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-2. 🎉 Merged PR [#979](https://github.com/DenverCoder1/custom-icon-badges/pull/979) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. ❗️ Opened issue [#107](https://github.com/DenverCoder1/unedit-for-reddit/issues/107) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. ❗️ Closed issue [#43](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/43) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. 🎉 Merged PR [#76](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/76) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+1. 🗣 Commented on [#640](https://github.com/kach/nearley/issues/640) in [kach/nearley](https://github.com/kach/nearley)
+2. 🎉 Merged PR [#253](https://github.com/DenverCoder1/readme-typing-svg/pull/253) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❗️ Opened issue [#1](https://github.com/DenverCoder1/popup-for-google-tasks/issues/1) in [DenverCoder1/popup-for-google-tasks](https://github.com/DenverCoder1/popup-for-google-tasks)
+4. 🎉 Merged PR [#137](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/137) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 🎉 Merged PR [#980](https://github.com/DenverCoder1/custom-icon-badges/pull/980) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
