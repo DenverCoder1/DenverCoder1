@@ -278,11 +278,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#640](https://github.com/kach/nearley/issues/640) in [kach/nearley](https://github.com/kach/nearley)
-2. 🎉 Merged PR [#253](https://github.com/DenverCoder1/readme-typing-svg/pull/253) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❗️ Opened issue [#1](https://github.com/DenverCoder1/popup-for-google-tasks/issues/1) in [DenverCoder1/popup-for-google-tasks](https://github.com/DenverCoder1/popup-for-google-tasks)
-4. 🎉 Merged PR [#137](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/137) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#980](https://github.com/DenverCoder1/custom-icon-badges/pull/980) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#36](https://github.com/torahcalc/torahcalc/issues/36) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. ❗️ Opened issue [#35](https://github.com/torahcalc/torahcalc/issues/35) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. ❗️ Opened issue [#34](https://github.com/torahcalc/torahcalc/issues/34) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. ❗️ Opened issue [#33](https://github.com/torahcalc/torahcalc/issues/33) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❗️ Opened issue [#32](https://github.com/torahcalc/torahcalc/issues/32) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
