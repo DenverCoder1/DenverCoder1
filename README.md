@@ -277,11 +277,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#33](https://github.com/torahcalc/torahcalc/issues/33) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 🗣 Commented on [#30](https://github.com/torahcalc/torahcalc/issues/30) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. 🎉 Merged PR [#996](https://github.com/DenverCoder1/custom-icon-badges/pull/996) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#37](https://github.com/torahcalc/torahcalc/issues/37) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. 🗣 Commented on [#255](https://github.com/DenverCoder1/readme-typing-svg/issues/255) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🗣 Commented on [#40](https://github.com/torahcalc/torahcalc/issues/40) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 4. 🗣 Commented on [#37](https://github.com/torahcalc/torahcalc/issues/37) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 🗣 Commented on [#22](https://github.com/torahcalc/torahcalc/issues/22) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❗️ Closed issue [#22](https://github.com/torahcalc/torahcalc/issues/22) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
