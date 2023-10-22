@@ -277,11 +277,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#613](https://github.com/DenverCoder1/github-readme-streak-stats/pull/613) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 💪 Opened PR [#613](https://github.com/DenverCoder1/github-readme-streak-stats/pull/613) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ❗️ Closed issue [#112](https://github.com/DenverCoder1/table2ascii/issues/112) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-4. 🎉 Merged PR [#113](https://github.com/DenverCoder1/table2ascii/pull/113) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 🎉 Merged PR [#1005](https://github.com/DenverCoder1/custom-icon-badges/pull/1005) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Closed issue [#570](https://github.com/DenverCoder1/github-readme-streak-stats/issues/570) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#614](https://github.com/DenverCoder1/github-readme-streak-stats/pull/614) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#615](https://github.com/DenverCoder1/github-readme-streak-stats/pull/615) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#50](https://github.com/torahcalc/torahcalc/pull/50) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. 💪 Opened PR [#50](https://github.com/torahcalc/torahcalc/pull/50) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
