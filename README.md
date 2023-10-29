@@ -277,11 +277,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#58](https://github.com/torahcalc/torahcalc/issues/58) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 🎉 Merged PR [#76](https://github.com/torahcalc/torahcalc/pull/76) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. 💪 Opened PR [#76](https://github.com/torahcalc/torahcalc/pull/76) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 🎉 Merged PR [#75](https://github.com/torahcalc/torahcalc/pull/75) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 💪 Opened PR [#75](https://github.com/torahcalc/torahcalc/pull/75) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. ❗️ Opened issue [#84](https://github.com/torahcalc/torahcalc/issues/84) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. ❗️ Opened issue [#83](https://github.com/torahcalc/torahcalc/issues/83) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. 🎉 Merged PR [#82](https://github.com/torahcalc/torahcalc/pull/82) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 💪 Opened PR [#82](https://github.com/torahcalc/torahcalc/pull/82) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❗️ Opened issue [#81](https://github.com/torahcalc/torahcalc/issues/81) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
