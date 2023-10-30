@@ -277,11 +277,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#84](https://github.com/torahcalc/torahcalc/issues/84) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. ❗️ Opened issue [#83](https://github.com/torahcalc/torahcalc/issues/83) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. 🎉 Merged PR [#82](https://github.com/torahcalc/torahcalc/pull/82) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 💪 Opened PR [#82](https://github.com/torahcalc/torahcalc/pull/82) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. ❗️ Opened issue [#81](https://github.com/torahcalc/torahcalc/issues/81) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. 🎉 Merged PR [#147](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/147) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🎉 Merged PR [#146](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/146) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. ❗️ Opened issue [#89](https://github.com/torahcalc/torahcalc/issues/89) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 🎉 Merged PR [#1013](https://github.com/DenverCoder1/custom-icon-badges/pull/1013) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#1014](https://github.com/DenverCoder1/custom-icon-badges/pull/1014) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
