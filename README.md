@@ -279,11 +279,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1023](https://github.com/DenverCoder1/custom-icon-badges/issues/1023) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. ❌ Closed PR [#1021](https://github.com/DenverCoder1/custom-icon-badges/pull/1021) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#1022](https://github.com/DenverCoder1/custom-icon-badges/pull/1022) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#1021](https://github.com/DenverCoder1/custom-icon-badges/pull/1021) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. ❌ Closed PR [#1020](https://github.com/DenverCoder1/custom-icon-badges/pull/1020) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Opened issue [#1329](https://github.com/albertlauncher/albert/issues/1329) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
+2. 🗣 Commented on [#1023](https://github.com/DenverCoder1/custom-icon-badges/issues/1023) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. ❌ Closed PR [#1021](https://github.com/DenverCoder1/custom-icon-badges/pull/1021) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 💪 Opened PR [#1022](https://github.com/DenverCoder1/custom-icon-badges/pull/1022) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#1021](https://github.com/DenverCoder1/custom-icon-badges/pull/1021) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
