@@ -279,11 +279,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#154](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/154) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 🎉 Merged PR [#155](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/155) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 💪 Opened PR [#155](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/155) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 💪 Opened PR [#154](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/154) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🗣 Commented on [#100](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/issues/100) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+1. 🎉 Merged PR [#153](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/153) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🎉 Merged PR [#156](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/156) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+3. 🎉 Merged PR [#154](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/154) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. 🎉 Merged PR [#155](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/155) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 💪 Opened PR [#155](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/155) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
