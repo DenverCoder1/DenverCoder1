@@ -279,11 +279,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#460](https://github.com/biati-digital/glightbox/pull/460) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
-2. ❗️ Opened issue [#459](https://github.com/biati-digital/glightbox/issues/459) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
-3. 🎉 Merged PR [#445](https://github.com/DenverCoder1/jct-discord-bot/pull/445) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🎉 Merged PR [#153](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/153) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#156](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/156) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#627](https://github.com/DenverCoder1/github-readme-streak-stats/pull/627) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#460](https://github.com/biati-digital/glightbox/pull/460) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
+3. ❗️ Opened issue [#459](https://github.com/biati-digital/glightbox/issues/459) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
+4. 🎉 Merged PR [#445](https://github.com/DenverCoder1/jct-discord-bot/pull/445) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#153](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/153) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
