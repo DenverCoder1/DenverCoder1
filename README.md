@@ -279,11 +279,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#630](https://github.com/DenverCoder1/github-readme-streak-stats/issues/630) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❌ Closed PR [#630](https://github.com/DenverCoder1/github-readme-streak-stats/pull/630) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#629](https://github.com/DenverCoder1/github-readme-streak-stats/pull/629) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#629](https://github.com/DenverCoder1/github-readme-streak-stats/pull/629) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#446](https://github.com/DenverCoder1/jct-discord-bot/pull/446) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🎉 Merged PR [#278](https://github.com/DenverCoder1/readme-typing-svg/pull/278) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#630](https://github.com/DenverCoder1/github-readme-streak-stats/issues/630) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❌ Closed PR [#630](https://github.com/DenverCoder1/github-readme-streak-stats/pull/630) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#629](https://github.com/DenverCoder1/github-readme-streak-stats/pull/629) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#629](https://github.com/DenverCoder1/github-readme-streak-stats/pull/629) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
