@@ -72,6 +72,7 @@
       <!-- $5+/month -->
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+        <a href="https://github.com/rohit-changediya"><img src="https://custom-icon-badges.demolab.com/badge/-rohit--changediya-96727C?style=for-the-badge&logo=mention" alt="rohit-changediya" /></a>
       </td>
     </tr>
   </table>
