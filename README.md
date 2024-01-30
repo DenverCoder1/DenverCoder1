@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#280](https://github.com/DenverCoder1/readme-typing-svg/pull/280) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#638](https://github.com/DenverCoder1/github-readme-streak-stats/pull/638) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#638](https://github.com/DenverCoder1/github-readme-streak-stats/issues/638) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#635](https://github.com/DenverCoder1/github-readme-streak-stats/issues/635) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#1349](https://github.com/albertlauncher/albert/issues/1349) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
+1. ❗️ Closed issue [#162](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/162) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🎉 Merged PR [#280](https://github.com/DenverCoder1/readme-typing-svg/pull/280) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#638](https://github.com/DenverCoder1/github-readme-streak-stats/pull/638) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#638](https://github.com/DenverCoder1/github-readme-streak-stats/issues/638) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#635](https://github.com/DenverCoder1/github-readme-streak-stats/issues/635) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
