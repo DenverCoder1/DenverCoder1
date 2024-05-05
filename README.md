@@ -281,11 +281,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#674](https://github.com/DenverCoder1/github-readme-streak-stats/issues/674) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#675](https://github.com/DenverCoder1/github-readme-streak-stats/issues/675) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#675](https://github.com/DenverCoder1/github-readme-streak-stats/issues/675) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🎉 Merged PR [#171](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/171) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🎉 Merged PR [#172](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/172) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. ❗️ Closed issue [#659](https://github.com/DenverCoder1/github-readme-streak-stats/issues/659) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#673](https://github.com/DenverCoder1/github-readme-streak-stats/pull/673) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#672](https://github.com/DenverCoder1/github-readme-streak-stats/pull/672) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🗣 Commented on [#674](https://github.com/DenverCoder1/github-readme-streak-stats/issues/674) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#675](https://github.com/DenverCoder1/github-readme-streak-stats/issues/675) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
