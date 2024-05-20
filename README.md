@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12](https://github.com/Skeli789/Crisis-Connections/pull/12) in [Skeli789/Crisis-Connections](https://github.com/Skeli789/Crisis-Connections)
-2. 🎉 Merged PR [#296](https://github.com/DenverCoder1/readme-typing-svg/pull/296) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#1108](https://github.com/DenverCoder1/custom-icon-badges/issues/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#1108](https://github.com/DenverCoder1/custom-icon-badges/pull/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#7350](https://github.com/refined-github/refined-github/pull/7350) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#684](https://github.com/DenverCoder1/github-readme-streak-stats/issues/684) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 💪 Opened PR [#12](https://github.com/Skeli789/Crisis-Connections/pull/12) in [Skeli789/Crisis-Connections](https://github.com/Skeli789/Crisis-Connections)
+3. 🎉 Merged PR [#296](https://github.com/DenverCoder1/readme-typing-svg/pull/296) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🗣 Commented on [#1108](https://github.com/DenverCoder1/custom-icon-badges/issues/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#1108](https://github.com/DenverCoder1/custom-icon-badges/pull/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
