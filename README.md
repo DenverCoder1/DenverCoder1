@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#684](https://github.com/DenverCoder1/github-readme-streak-stats/issues/684) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#684](https://github.com/DenverCoder1/github-readme-streak-stats/issues/684) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#12](https://github.com/Skeli789/Crisis-Connections/pull/12) in [Skeli789/Crisis-Connections](https://github.com/Skeli789/Crisis-Connections)
-4. 🎉 Merged PR [#296](https://github.com/DenverCoder1/readme-typing-svg/pull/296) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🗣 Commented on [#1108](https://github.com/DenverCoder1/custom-icon-badges/issues/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#685](https://github.com/DenverCoder1/github-readme-streak-stats/issues/685) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. 🎉 Merged PR [#682](https://github.com/DenverCoder1/github-readme-streak-stats/pull/682) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🗣 Commented on [#666](https://github.com/DenverCoder1/github-readme-streak-stats/issues/666) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Closed issue [#666](https://github.com/DenverCoder1/github-readme-streak-stats/issues/666) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🎉 Merged PR [#297](https://github.com/DenverCoder1/readme-typing-svg/pull/297) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
