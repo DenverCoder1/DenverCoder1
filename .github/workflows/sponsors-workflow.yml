@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.33
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics-sponsors.svg
           token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
