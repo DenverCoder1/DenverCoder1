@@ -290,11 +290,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#59](https://github.com/DenverCoder1/readme-typing-svg/issues/59) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#696](https://github.com/DenverCoder1/github-readme-streak-stats/issues/696) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#179](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/179) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#694](https://github.com/DenverCoder1/github-readme-streak-stats/pull/694) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#693](https://github.com/DenverCoder1/github-readme-streak-stats/pull/693) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Closed issue [#696](https://github.com/DenverCoder1/github-readme-streak-stats/issues/696) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#695](https://github.com/DenverCoder1/github-readme-streak-stats/issues/695) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Closed issue [#691](https://github.com/DenverCoder1/github-readme-streak-stats/issues/691) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Closed issue [#690](https://github.com/DenverCoder1/github-readme-streak-stats/issues/690) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#59](https://github.com/DenverCoder1/readme-typing-svg/issues/59) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
