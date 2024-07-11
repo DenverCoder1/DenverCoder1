@@ -79,7 +79,6 @@
       <!-- $5+/month -->
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-        <a href="https://github.com/chikuang"><img src="https://custom-icon-badges.demolab.com/badge/-chikuang-6FA5FD?style=for-the-badge&logo=mention" alt="chikuang" /></a>
       </td>
     </tr>
   </table>
