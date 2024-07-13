@@ -289,11 +289,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#700](https://github.com/DenverCoder1/github-readme-streak-stats/pull/700) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#1138](https://github.com/DenverCoder1/custom-icon-badges/pull/1138) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#1138](https://github.com/DenverCoder1/custom-icon-badges/pull/1138) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. ❌ Closed PR [#1133](https://github.com/DenverCoder1/custom-icon-badges/pull/1133) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. ❌ Closed PR [#1126](https://github.com/DenverCoder1/custom-icon-badges/pull/1126) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#303](https://github.com/DenverCoder1/readme-typing-svg/issues/303) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#27](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/27) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+3. 🎉 Merged PR [#700](https://github.com/DenverCoder1/github-readme-streak-stats/pull/700) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. 🎉 Merged PR [#1138](https://github.com/DenverCoder1/custom-icon-badges/pull/1138) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#1138](https://github.com/DenverCoder1/custom-icon-badges/pull/1138) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
