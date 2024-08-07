@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#30](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/30) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-2. 🎉 Merged PR [#183](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/183) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 🎉 Merged PR [#449](https://github.com/DenverCoder1/jct-discord-bot/pull/449) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 🎉 Merged PR [#1151](https://github.com/DenverCoder1/custom-icon-badges/pull/1151) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#1152](https://github.com/DenverCoder1/custom-icon-badges/pull/1152) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❌ Closed PR [#124](https://github.com/DenverCoder1/table2ascii/pull/124) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. ❌ Closed PR [#123](https://github.com/DenverCoder1/table2ascii/pull/123) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. ❌ Closed PR [#122](https://github.com/DenverCoder1/table2ascii/pull/122) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. ❌ Closed PR [#121](https://github.com/DenverCoder1/table2ascii/pull/121) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. ❌ Closed PR [#120](https://github.com/DenverCoder1/table2ascii/pull/120) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
