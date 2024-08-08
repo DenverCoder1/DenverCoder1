@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#124](https://github.com/DenverCoder1/table2ascii/pull/124) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-2. ❌ Closed PR [#123](https://github.com/DenverCoder1/table2ascii/pull/123) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. ❌ Closed PR [#122](https://github.com/DenverCoder1/table2ascii/pull/122) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-4. ❌ Closed PR [#121](https://github.com/DenverCoder1/table2ascii/pull/121) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. ❌ Closed PR [#120](https://github.com/DenverCoder1/table2ascii/pull/120) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+1. 🗣 Commented on [#318](https://github.com/DenverCoder1/readme-typing-svg/issues/318) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#318](https://github.com/DenverCoder1/readme-typing-svg/issues/318) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❗️ Closed issue [#29](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/29) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+4. 🎉 Merged PR [#30](https://github.com/DenverCoder1/doxygen-github-pages-action/pull/30) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
+5. ❌ Closed PR [#125](https://github.com/DenverCoder1/table2ascii/pull/125) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
