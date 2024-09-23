@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#333](https://github.com/DenverCoder1/readme-typing-svg/pull/333) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#334](https://github.com/DenverCoder1/readme-typing-svg/pull/334) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#191](https://github.com/torahcalc/torahcalc/issues/191) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. ❗️ Closed issue [#191](https://github.com/torahcalc/torahcalc/issues/191) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 🎉 Merged PR [#192](https://github.com/torahcalc/torahcalc/pull/192) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. 🎉 Merged PR [#1172](https://github.com/DenverCoder1/custom-icon-badges/pull/1172) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#193](https://github.com/torahcalc/torahcalc/pull/193) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. 🎉 Merged PR [#195](https://github.com/torahcalc/torahcalc/pull/195) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 🎉 Merged PR [#196](https://github.com/torahcalc/torahcalc/pull/196) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. 🎉 Merged PR [#194](https://github.com/torahcalc/torahcalc/pull/194) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
 </details>
