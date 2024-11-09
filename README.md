@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#350](https://github.com/DenverCoder1/readme-typing-svg/pull/350) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. ❌ Closed PR [#351](https://github.com/DenverCoder1/readme-typing-svg/pull/351) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#217](https://github.com/torahcalc/torahcalc/pull/217) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 🗣 Commented on [#725](https://github.com/DenverCoder1/github-readme-streak-stats/issues/725) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#1190](https://github.com/DenverCoder1/custom-icon-badges/pull/1190) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#353](https://github.com/DenverCoder1/readme-typing-svg/pull/353) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#353](https://github.com/DenverCoder1/readme-typing-svg/pull/353) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#352](https://github.com/DenverCoder1/readme-typing-svg/pull/352) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#350](https://github.com/DenverCoder1/readme-typing-svg/pull/350) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. ❌ Closed PR [#351](https://github.com/DenverCoder1/readme-typing-svg/pull/351) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
