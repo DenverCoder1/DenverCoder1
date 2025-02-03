@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#377](https://github.com/DenverCoder1/readme-typing-svg/pull/377) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#373](https://github.com/DenverCoder1/readme-typing-svg/pull/373) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#376](https://github.com/DenverCoder1/readme-typing-svg/pull/376) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🎉 Merged PR [#763](https://github.com/DenverCoder1/github-readme-streak-stats/pull/763) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#460](https://github.com/biati-digital/glightbox/issues/460) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
+1. 🎉 Merged PR [#1223](https://github.com/DenverCoder1/custom-icon-badges/pull/1223) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#772](https://github.com/DenverCoder1/github-readme-streak-stats/pull/772) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 🎉 Merged PR [#377](https://github.com/DenverCoder1/readme-typing-svg/pull/377) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#373](https://github.com/DenverCoder1/readme-typing-svg/pull/373) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🎉 Merged PR [#376](https://github.com/DenverCoder1/readme-typing-svg/pull/376) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
