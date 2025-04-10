@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#30](https://github.com/DenverCoder1/countdown/issues/30) in [DenverCoder1/countdown](https://github.com/DenverCoder1/countdown)
-2. 🎉 Merged PR [#198](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/198) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❗️ Opened issue [#306](https://github.com/torahcalc/torahcalc/issues/306) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 🎉 Merged PR [#305](https://github.com/torahcalc/torahcalc/pull/305) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 💪 Opened PR [#305](https://github.com/torahcalc/torahcalc/pull/305) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. 🎉 Merged PR [#791](https://github.com/DenverCoder1/github-readme-streak-stats/pull/791) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#30](https://github.com/DenverCoder1/countdown/issues/30) in [DenverCoder1/countdown](https://github.com/DenverCoder1/countdown)
+3. 🎉 Merged PR [#198](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/198) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+4. ❗️ Opened issue [#306](https://github.com/torahcalc/torahcalc/issues/306) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. 🎉 Merged PR [#305](https://github.com/torahcalc/torahcalc/pull/305) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
 </details>
