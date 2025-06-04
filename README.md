@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#327](https://github.com/torahcalc/torahcalc/pull/327) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 💪 Opened PR [#327](https://github.com/torahcalc/torahcalc/pull/327) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. ❗️ Opened issue [#4](https://github.com/hebcal/hebcal-learning/issues/4) in [hebcal/hebcal-learning](https://github.com/hebcal/hebcal-learning)
-4. 🎉 Merged PR [#325](https://github.com/torahcalc/torahcalc/pull/325) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 🎉 Merged PR [#200](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/200) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. 🎉 Merged PR [#94](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/94) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+2. 💪 Opened PR [#94](https://github.com/DenverCoder1/latex-gboard-dictionary/pull/94) in [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary)
+3. 🎉 Merged PR [#327](https://github.com/torahcalc/torahcalc/pull/327) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 💪 Opened PR [#327](https://github.com/torahcalc/torahcalc/pull/327) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❗️ Opened issue [#4](https://github.com/hebcal/hebcal-learning/issues/4) in [hebcal/hebcal-learning](https://github.com/hebcal/hebcal-learning)
 <!--END_SECTION:activity-->
 
 </details>
