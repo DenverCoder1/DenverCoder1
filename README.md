@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"style="background-color:black;">
   <a href="https://github.com/DenverCoder1">
     <img width="234" height="79" alt="Image" src="https://github.com/user-attachments/assets/75d0814c-db41-42f8-a555-12697a357db2" /></a>
 </p>
