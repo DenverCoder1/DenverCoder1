@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img width="234" height="79" alt="Image" src="https://github.com/user-attachments/assets/5614b27b-bfc6-4efe-be5d-fd4cd3031ef6" />
+    <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/48e45d3d-0143-4a35-ab9b-9ce2dd784177" />
 </p>
 
 <p align="center">
