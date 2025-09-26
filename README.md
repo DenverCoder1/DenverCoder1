@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://private-user-images.githubusercontent.com/141940799/494281819-9e891aac-9d8d-47ec-9ad6-853a2ed188fa.png)" alt="Zexi Wu" /></a>
+    <img src="[https://private-user-images.githubusercontent.com/141940799/494281819-9e891aac-9d8d-47ec-9ad6-853a2ed188fa.png]" alt="Zexi Wu" /></a>
 </p>
 
 <p align="center">
