@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="[s](https://private-user-images.githubusercontent.com/141940799/494281819-9e891aac-9d8d-47ec-9ad6-853a2ed188fa.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4NzA2NTAsIm5iZiI6MTc1ODg3MDM1MCwicGF0aCI6Ii8xNDE5NDA3OTkvNDk0MjgxODE5LTllODkxYWFjLTlkOGQtNDdlYy05YWQ2LTg1M2EyZWQxODhmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNlQwNzA1NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03Yjc4MWQ4ZmFjOGNlOWM4N2IwN2U0OGQzZjRjMjIwNTMwNzA4MDA4NmE1MzBjYTQ3MTMwMTc5ZmVhODFkZDc2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.X6cVR2DAspzw-RVH1-UsOABpKEdIUETJ2zWvJwEgMXI)" alt="Zexi Wu" /></a>
+    <img src="https://private-user-images.githubusercontent.com/141940799/494281819-9e891aac-9d8d-47ec-9ad6-853a2ed188fa.png)" alt="Zexi Wu" /></a>
 </p>
 
 <p align="center">
