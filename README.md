@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center"style="background-color:black;">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img width="234" height="79" alt="Image" src="https://github.com/user-attachments/assets/75d0814c-db41-42f8-a555-12697a357db2" /></a>
 </p>
 
 <p align="center">
