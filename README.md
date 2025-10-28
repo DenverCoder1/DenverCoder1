@@ -72,7 +72,7 @@
       <!-- $5+/month -->
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-hesreallyhim-2A0060?style=for-the-badge&logo=mention" alt="hesreallyhim" /></a>
+        <a href="https://github.com/hesreallyhim"><img src="https://custom-icon-badges.demolab.com/badge/-hesreallyhim-2A0060?style=for-the-badge&logo=mention" alt="hesreallyhim" /></a>
       </td>
     </tr>
   </table>
