@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#17](https://github.com/DenverCoder1/DenverCoder1/issues/17) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-2. ❌ Closed PR [#203](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/203) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❌ Closed PR [#205](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/205) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. ❌ Closed PR [#207](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/207) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 💪 Opened PR [#210](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/210) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. ❗️ Labeled issue [#350](https://github.com/torahcalc/torahcalc/issues/350) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. ❗️ Opened issue [#350](https://github.com/torahcalc/torahcalc/issues/350) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. 🗣 Commented on [#17](https://github.com/DenverCoder1/DenverCoder1/issues/17) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
+4. ❌ Closed PR [#203](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/203) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. ❌ Closed PR [#205](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/205) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
