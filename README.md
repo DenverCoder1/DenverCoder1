@@ -283,8 +283,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Labeled issue [#350](https://github.com/torahcalc/torahcalc/issues/350) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. ❗️ Opened issue [#350](https://github.com/torahcalc/torahcalc/issues/350) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. ❌ Merged PR [#1](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/1) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
+2. 💪 Opened PR [#1](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/1) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
 3. 🗣 Commented on [#17](https://github.com/DenverCoder1/DenverCoder1/issues/17) in [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
 4. ❌ Closed PR [#203](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/203) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 5. ❌ Closed PR [#205](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/205) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
