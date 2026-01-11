@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#2](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/2) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
-2. 💪 Opened PR [#2](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/2) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
-3. ❌ Merged PR [#1](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/1) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
-4. 💪 Opened PR [#1](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/1) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
-5. ❌ Closed PR [#205](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/205) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. ❌ Merged PR [#4](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/4) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
+2. 💪 Opened PR [#4](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/4) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
+3. ❌ Merged PR [#3](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/3) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
+4. 💪 Opened PR [#3](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/3) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
+5. ❌ Merged PR [#2](https://github.com/DenverCoder1/whatsapp-group-wrapped/pull/2) in [DenverCoder1/whatsapp-group-wrapped](https://github.com/DenverCoder1/whatsapp-group-wrapped)
 <!--END_SECTION:activity-->
 
 </details>
