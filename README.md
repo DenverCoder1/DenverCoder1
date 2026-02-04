@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#29](https://github.com/torahcalc/torahcalc/issues/29) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. ❗️ Labeled issue [#364](https://github.com/torahcalc/torahcalc/issues/364) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. ❗️ Opened issue [#364](https://github.com/torahcalc/torahcalc/issues/364) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. ❌ Merged PR [#363](https://github.com/torahcalc/torahcalc/pull/363) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 💪 Opened PR [#363](https://github.com/torahcalc/torahcalc/pull/363) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+1. ❗️ Closed issue [#131](https://github.com/DenverCoder1/table2ascii/issues/131) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. 🗣 Commented on [#131](https://github.com/DenverCoder1/table2ascii/issues/131) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. ❌ Merged PR [#138](https://github.com/DenverCoder1/table2ascii/pull/138) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 💪 Opened PR [#138](https://github.com/DenverCoder1/table2ascii/pull/138) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. ❗️ Closed issue [#134](https://github.com/DenverCoder1/table2ascii/issues/134) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
