@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#368](https://github.com/torahcalc/torahcalc/pull/368) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 💪 Opened PR [#368](https://github.com/torahcalc/torahcalc/pull/368) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. ❌ Merged PR [#367](https://github.com/torahcalc/torahcalc/pull/367) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 💪 Opened PR [#367](https://github.com/torahcalc/torahcalc/pull/367) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. ❌ Merged PR [#880](https://github.com/DenverCoder1/github-readme-streak-stats/pull/880) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❌ Merged PR [#369](https://github.com/torahcalc/torahcalc/pull/369) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. 💪 Opened PR [#369](https://github.com/torahcalc/torahcalc/pull/369) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. ❌ Merged PR [#368](https://github.com/torahcalc/torahcalc/pull/368) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 💪 Opened PR [#368](https://github.com/torahcalc/torahcalc/pull/368) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❌ Merged PR [#367](https://github.com/torahcalc/torahcalc/pull/367) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
 <!--END_SECTION:activity-->
 
 </details>
