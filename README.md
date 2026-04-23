@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#900](https://github.com/DenverCoder1/github-readme-streak-stats/issues/900) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🗣 Commented on [#444](https://github.com/DenverCoder1/readme-typing-svg/issues/444) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❗️ Closed issue [#378](https://github.com/DenverCoder1/readme-typing-svg/issues/378) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Closed issue [#429](https://github.com/DenverCoder1/readme-typing-svg/issues/429) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. ❗️ Closed issue [#436](https://github.com/DenverCoder1/readme-typing-svg/issues/436) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. ❌ Merged PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
+2. 💪 Opened PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
+3. ❌ Closed PR [#359](https://github.com/devgianlu/PretendYoureXyzzy/pull/359) in [devgianlu/PretendYoureXyzzy](https://github.com/devgianlu/PretendYoureXyzzy)
+4. 💪 Opened PR [#359](https://github.com/devgianlu/PretendYoureXyzzy/pull/359) in [devgianlu/PretendYoureXyzzy](https://github.com/devgianlu/PretendYoureXyzzy)
+5. 🗣 Commented on [#900](https://github.com/DenverCoder1/github-readme-streak-stats/issues/900) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
