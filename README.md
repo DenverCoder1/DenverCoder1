@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
-2. 💪 Opened PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
-3. ❌ Closed PR [#359](https://github.com/devgianlu/PretendYoureXyzzy/pull/359) in [devgianlu/PretendYoureXyzzy](https://github.com/devgianlu/PretendYoureXyzzy)
-4. 💪 Opened PR [#359](https://github.com/devgianlu/PretendYoureXyzzy/pull/359) in [devgianlu/PretendYoureXyzzy](https://github.com/devgianlu/PretendYoureXyzzy)
-5. 🗣 Commented on [#900](https://github.com/DenverCoder1/github-readme-streak-stats/issues/900) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❌ Merged PR [#371](https://github.com/torahcalc/torahcalc/pull/371) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. 💪 Opened PR [#371](https://github.com/torahcalc/torahcalc/pull/371) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. ❌ Merged PR [#370](https://github.com/torahcalc/torahcalc/pull/370) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+4. 💪 Opened PR [#370](https://github.com/torahcalc/torahcalc/pull/370) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+5. ❌ Merged PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
 <!--END_SECTION:activity-->
 
 </details>
