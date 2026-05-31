@@ -17,7 +17,7 @@ jobs:
       - name: Generate streak stats
         uses: liuchong/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          options: user=${{ github.repository_owner }}&theme=monokai-metallian&hide_border=true&short_numbers=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
