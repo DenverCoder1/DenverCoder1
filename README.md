@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#371](https://github.com/torahcalc/torahcalc/pull/371) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 💪 Opened PR [#371](https://github.com/torahcalc/torahcalc/pull/371) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. ❌ Merged PR [#370](https://github.com/torahcalc/torahcalc/pull/370) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 💪 Opened PR [#370](https://github.com/torahcalc/torahcalc/pull/370) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. ❌ Merged PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
+1. 🗣 Commented on [#459](https://github.com/DenverCoder1/jct-discord-bot/issues/459) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🗣 Commented on [#456](https://github.com/DenverCoder1/jct-discord-bot/issues/456) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🗣 Commented on [#461](https://github.com/DenverCoder1/jct-discord-bot/issues/461) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🗣 Commented on [#455](https://github.com/DenverCoder1/jct-discord-bot/issues/455) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🗣 Commented on [#458](https://github.com/DenverCoder1/jct-discord-bot/issues/458) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
