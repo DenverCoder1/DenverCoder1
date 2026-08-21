@@ -284,10 +284,10 @@
   <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. ❗️ Labeled issue [#610](https://github.com/rushiranpise/morphe-patches/issues/610) in [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
-3. ❗️ Opened issue [#610](https://github.com/rushiranpise/morphe-patches/issues/610) in [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
-4. 🗣 Commented on [#231](https://github.com/JackboxUtility/JackboxUtility/issues/231) in [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility)
-5. 🗣 Commented on [#931](https://github.com/DenverCoder1/github-readme-streak-stats/issues/931) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🗣 Commented on [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. ❗️ Labeled issue [#610](https://github.com/rushiranpise/morphe-patches/issues/610) in [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
+5. ❗️ Opened issue [#610](https://github.com/rushiranpise/morphe-patches/issues/610) in [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
 <!--END_SECTION:activity-->
 
 </details>
