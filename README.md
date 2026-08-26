@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#481](https://github.com/DenverCoder1/readme-typing-svg/issues/481) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. ❗️ Closed issue [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❌ Merged PR [#108](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/108) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+2. 💪 Opened PR [#108](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/108) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+3. ❗️ Closed issue [#481](https://github.com/DenverCoder1/readme-typing-svg/issues/481) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 4. 🗣 Commented on [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. ❗️ Labeled issue [#610](https://github.com/rushiranpise/morphe-patches/issues/610) in [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
+5. ❗️ Closed issue [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
