@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#108](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/108) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-2. 💪 Opened PR [#108](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/108) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. ❗️ Closed issue [#481](https://github.com/DenverCoder1/readme-typing-svg/issues/481) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🗣 Commented on [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. ❗️ Closed issue [#1292](https://github.com/DenverCoder1/custom-icon-badges/issues/1292) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🗣 Commented on [#923](https://github.com/DenverCoder1/github-readme-streak-stats/issues/923) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#923](https://github.com/DenverCoder1/github-readme-streak-stats/issues/923) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❌ Merged PR [#108](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/108) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+4. 💪 Opened PR [#108](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/108) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
+5. ❗️ Closed issue [#481](https://github.com/DenverCoder1/readme-typing-svg/issues/481) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
