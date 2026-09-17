@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Labeled issue [#236](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/236) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. ❗️ Labeled issue [#236](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/236) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❗️ Opened issue [#236](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/236) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. ❗️ Closed issue [#234](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/234) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 🗣 Commented on [#235](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/235) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+1. ❌ Closed PR [#391](https://github.com/DenverCoder1/readme-typing-svg/pull/391) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❌ Closed PR [#392](https://github.com/DenverCoder1/readme-typing-svg/pull/392) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❌ Closed PR [#402](https://github.com/DenverCoder1/readme-typing-svg/pull/402) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❌ Closed PR [#397](https://github.com/DenverCoder1/readme-typing-svg/pull/397) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. ❌ Closed PR [#404](https://github.com/DenverCoder1/readme-typing-svg/pull/404) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
