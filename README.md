@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#487](https://github.com/DenverCoder1/readme-typing-svg/issues/487) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#459](https://github.com/DenverCoder1/readme-typing-svg/issues/459) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❌ Merged PR [#949](https://github.com/DenverCoder1/github-readme-streak-stats/pull/949) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#949](https://github.com/DenverCoder1/github-readme-streak-stats/pull/949) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Closed issue [#906](https://github.com/DenverCoder1/github-readme-streak-stats/issues/906) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🗣 Commented on [#357](https://github.com/torahcalc/torahcalc/issues/357) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+2. 🗣 Commented on [#358](https://github.com/torahcalc/torahcalc/issues/358) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
+3. 🗣 Commented on [#139](https://github.com/DenverCoder1/table2ascii/issues/139) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 🗣 Commented on [#487](https://github.com/DenverCoder1/readme-typing-svg/issues/487) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🗣 Commented on [#459](https://github.com/DenverCoder1/readme-typing-svg/issues/459) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
