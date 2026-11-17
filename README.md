@@ -269,11 +269,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#392](https://github.com/torahcalc/torahcalc/issues/392) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 🗣 Commented on [#392](https://github.com/torahcalc/torahcalc/issues/392) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. 🗣 Commented on [#276](https://github.com/guibranco/progressbar/issues/276) in [guibranco/progressbar](https://github.com/guibranco/progressbar)
-4. ❌ Merged PR [#960](https://github.com/DenverCoder1/github-readme-streak-stats/pull/960) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 💪 Opened PR [#960](https://github.com/DenverCoder1/github-readme-streak-stats/pull/960) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Opened issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 🗣 Commented on [#394](https://github.com/DenverCoder1/readme-typing-svg/issues/394) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
