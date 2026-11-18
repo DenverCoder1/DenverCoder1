@@ -269,11 +269,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Opened issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🗣 Commented on [#394](https://github.com/DenverCoder1/readme-typing-svg/issues/394) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. ❌ Merged PR [#967](https://github.com/DenverCoder1/github-readme-streak-stats/pull/967) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+2. ❗️ Closed issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 💪 Opened PR [#967](https://github.com/DenverCoder1/github-readme-streak-stats/pull/967) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 </details>
