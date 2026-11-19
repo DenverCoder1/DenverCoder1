@@ -269,11 +269,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#967](https://github.com/DenverCoder1/github-readme-streak-stats/pull/967) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Closed issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#967](https://github.com/DenverCoder1/github-readme-streak-stats/pull/967) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Labeled issue [#966](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Labeled issue [#501](https://github.com/DenverCoder1/readme-typing-svg/issues/501) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Labeled issue [#501](https://github.com/DenverCoder1/readme-typing-svg/issues/501) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❗️ Closed issue [#221](https://github.com/DenverCoder1/readme-typing-svg/issues/221) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Labeled issue [#501](https://github.com/DenverCoder1/readme-typing-svg/issues/501) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. ❗️ Opened issue [#501](https://github.com/DenverCoder1/readme-typing-svg/issues/501) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
