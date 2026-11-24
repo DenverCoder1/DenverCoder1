@@ -269,11 +269,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#4](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/4) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
-2. 💪 Opened PR [#4](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/4) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
-3. ❌ Merged PR [#505](https://github.com/DenverCoder1/readme-typing-svg/pull/505) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#505](https://github.com/DenverCoder1/readme-typing-svg/pull/505) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. ❗️ Labeled issue [#501](https://github.com/DenverCoder1/readme-typing-svg/issues/501) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. ❌ Merged PR [#5](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/5) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
+2. 💪 Opened PR [#5](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/5) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
+3. ❗️ Opened issue [#704](https://github.com/spocky/miproja1/issues/704) in [spocky/miproja1](https://github.com/spocky/miproja1)
+4. ❗️ Opened issue [#703](https://github.com/spocky/miproja1/issues/703) in [spocky/miproja1](https://github.com/spocky/miproja1)
+5. 💪 Opened PR [#702](https://github.com/spocky/miproja1/pull/702) in [spocky/miproja1](https://github.com/spocky/miproja1)
 <!--END_SECTION:activity-->
 
 </details>
