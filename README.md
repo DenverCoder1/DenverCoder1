@@ -269,11 +269,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/DenverCoder1/tvdash/pull/2) in [DenverCoder1/tvdash](https://github.com/DenverCoder1/tvdash)
-2. ❌ Merged PR [#1](https://github.com/DenverCoder1/tvdash/pull/1) in [DenverCoder1/tvdash](https://github.com/DenverCoder1/tvdash)
-3. 💪 Opened PR [#1](https://github.com/DenverCoder1/tvdash/pull/1) in [DenverCoder1/tvdash](https://github.com/DenverCoder1/tvdash)
-4. ❗️ Opened issue [#707](https://github.com/spocky/miproja1/issues/707) in [spocky/miproja1](https://github.com/spocky/miproja1)
-5. ❌ Merged PR [#5](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/5) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
+1. ❌ Merged PR [#6](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/6) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
+2. 💪 Opened PR [#6](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper/pull/6) in [DenverCoder1/projectivity-plugin-minimalistic-wallpaper](https://github.com/DenverCoder1/projectivity-plugin-minimalistic-wallpaper)
+3. 💪 Opened PR [#2](https://github.com/DenverCoder1/tvdash/pull/2) in [DenverCoder1/tvdash](https://github.com/DenverCoder1/tvdash)
+4. ❌ Merged PR [#1](https://github.com/DenverCoder1/tvdash/pull/1) in [DenverCoder1/tvdash](https://github.com/DenverCoder1/tvdash)
+5. 💪 Opened PR [#1](https://github.com/DenverCoder1/tvdash/pull/1) in [DenverCoder1/tvdash](https://github.com/DenverCoder1/tvdash)
 <!--END_SECTION:activity-->
 
 </details>
